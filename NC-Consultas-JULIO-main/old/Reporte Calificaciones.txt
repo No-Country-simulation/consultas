@@ -1,0 +1,527 @@
+Fullname;Email;Filtro;Emulaciones;Pais;Telefono;Git;Linkedin;Trabajo en equipo;Comunicacion;Proactividad;Tecnica;KT;Cordialidad;Calificaciones
+Enzo Ramirez;enzoriver@outlook.com;false;7;Argentina;3424768577;EnzoGRDev;https://www.linkedin.com/in/enzo-ramirez-web-developer/;6.1;5.9;7.2;7.6;6.9;5.8;9
+Hugo Tatarinoff;hugotatarinoff@gmail.com;false;2;Argentina;+11111111111111;hugotata78;https://www.linkedin.com/in/hugo-tatarinoff-dev/;9;9;7;9;9;9;1
+Maya Franchi;m.franchi92@gmail.com;true;4;Argentina;1154683797;mFranchi92;https://www.linkedin.com/in/maya-franchi;7.5;6.7;7;7;6.5;7.5;6
+Leandro Heliz;leandroheliz@gmail.com;true;3;Argentina;+542284733603;https://github.com/leandroheliz;https://linkedin.com/in/leandroheliz;10;9;9.8;9.8;8.3;9.3;4
+Carolina Ines Perez;perezcarolinasn@gmail.com;false;2;Argentina;+5493364396412;Carop2580;https://www.linkedin.com/in/carolinainesperez11;1;1;1;1;1;1;1
+Diego Martinez Giardini;diego.martinez.giardini@gmail.com;true;3;España;+34663597286;https://github.com/kida10-tech;https://www.linkedin.com/in/martinezgiardinidiego/;3;2;9;10;10;9;1
+Alejo Pineiro;alejo.k26@gmail.com;true;2;Argentina;01156602427;https://github.com/AleP1;https://www.linkedin.com/in/alejo-pineiro/;3.5;4.5;4;6;3.5;8.5;2
+Omar Lestrade Zapata;omarlestradez@gmail.com;true;5;Argentina;+5492995124442;github.com/Lestradez;https://www.linkedin.com/mwlite/in/omar-lestrade;8.1;7.9;8.4;9.1;8.8;8;8
+Joaquín Accorsi;joaquinaccorsi@gmail.com;true;3;Argentina;+543516973481;https://github.com/joaquinaccorsi;https://www.linkedin.com/in/joaquinaccorsi/;9;9.2;9.2;9;9.2;8.5;6
+Rene Ramirez;rdejramirez@gmail.com;false;2;Peru;+51941339689;ReneRaEsp;https://www.linkedin.com/in/rene-ramirez-6674b31a5/;9.8;9.5;9.8;9.3;9.3;9.3;4
+Nicolás García;nicolasg99dr@gmail.com;false;5;Uruguay;094272390;Reptilcuantico99;https://www.linkedin.com/in/nicol%C3%A1sgsoft/;3;1.3;3;3.3;2.3;4;3
+Martin Suarez;martin.suarez.personal@gmail.com;false;4;Uruguay;098585784;https://github.com/kiddopro;https://www.linkedin.com/in/martín-suárez/;6;5.9;6.6;6.9;5.6;7;9
+Julian Perna;julianperna@gmail.com;true;2;Argentina;+5493476652617;@julianperna;https://www.linkedin.com/in/julianperna/;8.8;8.8;7.2;8;7.7;8.7;6
+Johana Martinez;johanamartinez904@gmail.com;true;4;argentina;1163693624;https://github.com/JohanaMM;https://www.linkedin.com/in/johana-martinez-574471212/;5.4;5;5.3;5.3;4.5;6;8
+Walter Franz;walter.franz@gmail.com;false;6;Argentina;1560029710;https://github.com/walter-wf;https://www.linkedin.com/in/walter-franz-08712aa9/;3.5;4.3;3.8;3.3;2.8;5.3;6
+Juan Ignacio Caballero;juan.ci.caballero@gmail.com;true;2;Argentina;2615763579;https://github.com/Juan-ci;https://www.linkedin.com/in/juan-ignacio-caballero/;9.2;8.2;8.8;8.8;7.8;8.8;5
+Oriana Pellegrini;orilupellegrini@gmail.com;true;2;Argentina;3413885320;Oriana10;https://www.linkedin.com/in/oriana-pellegrini/;8.6;9;9;7.6;7.2;8.6;5
+Matias Raul Mazparrote;matumazparrote@gmail.com;false;3;Argentina;01137969985;https://github.com/matiasfeliu92;https://www.linkedin.com/mwlite/in/mat%C3%ADas-mazparrote-feli%C3%BA;6.9;6.4;6.3;6.4;6;7.4;8
+Gonzalo Cubillas;gonzalo.cubillas15@gmail.com;false;4;Argentina;01123301009;https://github.com/CubillasG;https://www.linkedin.com/in/gonzalo-cubillas-a4a1791b6/;7;7.7;6.1;6.3;5.1;7.3;7
+noel toyo;toyonoel@gmail.com;true;2;venezuela;+5804129651368;xN03Lx;https://www.linkedin.com/in/noel-toyo-096a1b160/;9;8;9;10;10;9;1
+Megas Vanzillotta;megas.vanzi@gmail.com;true;3;Argentina;+1111111111;megas-vanzi;https://www.linkedin.com/in/megas-vanzillotta/;8.7;9.7;9;6.7;5.7;9.7;3
+Martin Meza;martinmezacorreo@gmail.com;false;2;Argentina;+54 9 221 351-7949;https://github.com/martinmeza0;https://www.linkedin.com/in/martin-meza-0640311b7/;8.8;9.2;9;8.4;7.6;9;5
+Edis Mercado;edisanthony@gmail.com;true;2;Costa Rica;+50663062581;https://github.com/XitusDev;https://www.linkedin.com/in/edisanthony;3;3;3;3;3;4;1
+Erick Ernesto Rangel Serrano;rebel863@hotmail.com;true;2;Mexico;5625365565;Erick-Rangel;https://www.linkedin.com/in/erick-rangel-desarrollador-frontend;9;9;9.5;7.5;7;9.5;2
+Cristian Quevedo;cristian_quevedo@hotmail.com;true;2;Argentina;+542612746067;https://github.com/cquevedo1;https://www.linkedin.com/in/cristian-leonardo-quevedo-b1003b61/;8.7;8.7;8.7;8.7;8.7;8.7;3
+Nayelly Judith Yanqui Ojeda;nayellyyo@hotmail.com;true;1;Perú;+51 981463490; Nayelly28;https://www.linkedin.com/in/nayelly-yanqui-ojeda-5608a7211;4.3;4;4;4;4;5.7;3
+valeria heredia;valeheredia97@gmail.com;false;2;Argentina;3512374691;https://github.com/valeriasheredia;https://www.linkedin.com/in/valeria-soledad-heredia-60b04a167/;8;8.5;8;8.5;8;8.5;2
+Maria Agustina Aperlo;agusaper@gmail.com;true;2;Argentina;3541541438;Agustina Aperlo;https://www.linkedin.com/in/agustina-aperlo-909a81198/;8;7.7;9;7.7;7.3;8.7;3
+Emmanuel Trassani;trassaniemmanuel@gmail.com;true;2;Argentina;2942522867;https://github.com/Emaroca;www.linkedin.com/in/emmanuel-trassani-86a86516a;6.8;7.3;7;8;7.3;6.8;4
+Juan Manuel Gonzalez;juan.m-gonzalez@outlook.com;true;2;Argentina;3416703011;https://github.com/JuanMG22;https://www.linkedin.com/in/juan-manuel-gonz%C3%A1lez-041576218/;8.3;8;10;10;9;9;3
+Ramiro Cosa;ramirocosa@gmail.com;true;3;Argentina;+5492995217189;https://github.com/RadikeCosa;https://www.linkedin.com/in/ramiro-cosa-10b98a213/;10;10;10;6.5;7.5;10;2
+Santiago Ezequiel Rojas;santiagorojas.plc@gmail.com;true;2;Argentina;549 221 4544271;sRojasDev;https://www.linkedin.com/in/santiago-rojas-desarrollador/;5.8;7;6;5.8;5.8;6.8;4
+Jonatan Palacios;palaciosjonatan.dev@gmail.com;true;2;Argentina;01139366942;YonPalac1;https://www.linkedin.com/in/yonatan-palacios-5a5482203;9.5;6.5;9.5;9.5;9.5;7.5;2
+Eduardo Arevalo;eduardo.arevalo072@gmail.com;false;3;Argentina;+54 1140689127;https://github.com/Edu568;https://www.linkedin.com/in/eduardo-arevalo-/;1.7;3;2.3;2;1;5.3;3
+Lautaro Ezequiel Bernal;lautaro_bernal@live.com.ar;true;3;Argentina;+54 2984573823;https://github.com/Bernal97;https://www.linkedin.com/in/lautaro-ezequiel-bernal-673a601bb/;10;10;10;10;8;10;1
+Dayana Centorbi;dayanacentorbi28@gmail.com;false;2;Argentina;3516425616;No poseo;https://www.linkedin.com/in/dayana-centorbi-she-her-b8aa57155;6.5;6.5;6.5;6.5;3.5;9;2
+Celso Javier Zabala;celsobrc@gmail.com;false;5;Argentina;+5492613078926;celsobrc;www.linkedin.con/in/celsojzabala;9;9.5;9.1;9.8;8.4;9.6;8
+Agustin Vilariño;lic.avilarino@gmail.com;true;2;Argentina;1169608546;https://github.com/avilarino;https://www.linkedin.com/in/agust%C3%ADn-vilari%C3%B1o-17914564/;7;7;6;7;5;9;1
+Nicolas Orecchia;nicoaleore@gmail.com;false;2;Argentina;3516110293;Nicoore90;Linkedin.com/in/nicolas-alejandro-orecchia;7;7;4.5;7.5;4;5;2
+Maximiliano Calderon;calderonmaxi@outlook.com;true;2;Argentina;+5492616531850;maxiCalderonBuono;https://www.linkedin.com/in/mcalderonbuono/;9;9.3;9.3;8.7;8;9.3;3
+Braian Carabajal;braiancarabajal@gmail.com;true;3;Argentina;+5492604847319;beckman924;https://www.linkedin.com/in/braian-carabajal-dev/;9.6;9.2;9.8;9.6;9.2;9.6;5
+Mercedes Simoncini;mersimoncini@gmail.com;true;2;Argentina;2932459087;N/a;https://www.linkedin.com/in/mersimoncini;9.3;9.3;9.3;9.3;9.3;9.3;3
+Victor Falconi;v.falconi.m@gmail.com;true;2;Perú;+51993919855;VictorFalconi;https://www.linkedin.com/in/victor-jos%C3%A9-falcon%C3%AD-medina-8687b0213;7;7;8;10;8;10;1
+Lisandro Perrotta;lisanperri95@hotmail.com;true;2;Argentina;1531391881;LisandroPer;https://www.linkedin.com/in/lisandro-perrotta-8a5953228/;8;8.7;9;8.3;6.3;9.3;3
+Eliseo Edu  Falcon Mestanza;eliseonop@gmail.com;false;5;Peru-Callao;+51 930616003;https://github.com/Eliseonop;www.linkedin.com/in/eliseodev;6.3;5.8;7.2;7.7;6;5.8;6
+Leticia Funes;letyfunes@gmail.com;true;2;Argentina;2615710735;leticiafunes;leticiafunesnissen;5.5;5.5;5.5;5.5;5.5;5.5;2
+Abel Acevedo ;marzoa3581@gmail.com;true;7;Argentina;1170197183;github: https://github.com/Abel3581;LinkedIn: www.linkedin.com/in/abel3581;9;8.8;9.1;8.8;9.1;8.4;16
+Maximiliano Falcone;maxifop96@gmail.com;false;2;Argentina;0387628862;https://github.com/6maxif9;www.linkedin.com/in/maxi-falcone;10;10;10;9;5;10;1
+Nahuel D Bogado;ndevbogado@gmail.com;true;2;Argentina;1566745167;Nahuel-D-Bogado;https://www.linkedin.com/in/nahuel-d-bogado-690201200/;4.3;3.7;3.3;4.3;3.7;6;3
+Marlon Jose Infante Ramirez;marloninfanteramirez@yahoo.com.ar;false;4;Argentina;+543417180535;https://github.com/MarlonJoseInfante;linkedin.com/in/marlon-jose-infante-ramirez-8379ba127;9.1;8.9;8.7;8.6;8.4;8.9;7
+Ignacio Gibbs;ignacio.gibbs@gmail.com;true;2;Argentina;+5492235364493;https://github.com/Bipperty;https://www.linkedin.com/in/ignacio-gibbs-9b783b161/;9.7;9.3;10;10;9.7;9.7;3
+Enuel Monzón Oga;enuel.monzon@gmail.com;true;2;Argentina;01127479201;Lordishh;https://www.linkedin.com/in/enuel-monzon-dev/;9.7;9.3;9.7;9.7;9.7;9.7;3
+Victor Olivera;ovictoriox@gmail.com;true;5;Argentina;2215631772;https://github.com/oliveravictor;https://www.linkedin.com/in/victor-olivera/;8;7.1;7.8;7.8;6.6;8.2;9
+Marisol Juárez ;frishlin@gmail.com;false;2;Mexico;7441445279;frishlin;https://www.linkedin.com/in/frishlin;2;2;1;1;1;7;1
+Jonathan Bolatti;jonathanbolatti@gmail.com;false;2;Argentina;3585131021;Jonathanbolatti;https://www.linkedin.com/in/jonathanbolatti;5;5;6;9;7;10;1
+Tomas Caruana;tomascaruana9@gmail.com;true;2;Argentina;02213642473;no tengo;https://www.linkedin.com/in/tomas-caruana/;7;7;6.5;8;3.5;8.3;4
+Alan Fernando Farias;alanfarias_97@hotmail.com;true;2;Argentina;542901658107;AlanFarias97;https://www.linkedin.com/mwlite/in/alan-fernando-farias-244695206;9.4;9.4;9.6;8.6;9.4;9.4;5
+Javier García;redfoxcontacto@gmail.com;true;4;Argentina;+54 9 11 6047 7271;RedFoxArg;https://www.linkedin.com/in/garcia-javier/;9.5;9.5;9.6;9.3;8.8;8.4;10
+Gabriel Navarro;alt64b@gmail.com;true;6;Argentina;542615983473;https://github.com/gabynavarro/;linkedin.com/in/gabriel-navarro-233388219;8.7;8.8;9.1;8.3;8.6;7.6;16
+Nicolas Lagardo;nicolagardo@gmail.com;true;3;Argentina;3764179040;https://github.com/nicolagardo;www.linkedin.com/in/nicolás-lagardo-2a425756;7.6;7.6;7.9;8.4;7.7;7.7;10
+Facundo Coronel;coronelfacundo30@gmail.com;true;2;Argentina;1122804620;FacundoCG;https://www.linkedin.com/in/facundocoronel04/;8;9;8;7;7;10;1
+Ingrid Inga;ingridinga10@gmail.com;true;2;Argentina;91164858629;ingrid-inga;https://www.linkedin.com/in/ingrid-inga;7.8;8.7;9.8;7.7;6;9.5;6
+cristian camilo palomeque caseres;cristianpalocseres@gmail.com;false;3;Colombia;3122999992;github.com/ccpc93js;https://www.linkedin.com/in/cristian-camilo-palomeque-caseres-14b519201/;7.8;6;8.5;8;7.5;6.8;4
+Florencia Talavera;talaveraflorencia@hotmail.com;true;4;Argentina;1131362662;Flortalavera;In/Flor-talavera;9.6;9.6;9.5;9.3;9;9.7;12
+Libia Freites;libiamfreitesm@gmail.com;false;3;Argentina;01134395536;margaritasing;https://www.linkedin.com/in/libia-m-freites-m;9;9;10;10;7;9;1
+Carlos lema;carlos.lemavelecela@outlook.com;false;3;Ecuador;0984201333;KarlSoft;www.linkedin.com/carlos-lema;6.6;5.2;5.4;5;4.8;6.4;5
+Nicolas Bonder;nicolasbonder@gmail.com;true;2;Argentina;0351155184294;https://github.com/nicobonder/;https://www.linkedin.com/in/nicobonder/;8.4;8;8;7.4;5.6;8.2;5
+Matias Semelman;matias.semelman@gmail.com;true;2;Argentina;5491130332808;matiassemelman;https://www.linkedin.com/in/matias-semelman/;8.4;8.6;8.2;7.8;7.8;8.2;5
+Paola Medina;paomedina_88@hotmail.com;true;2;Uruguay;091745830;https://github.com/paodesign;https://www.linkedin.com/in/paola-medina-58bb76186/;9;8.8;8.8;8;7.8;9.2;5
+Mauricio Raul Ferreyra;mauriciotauro82@hotmail.com;false;3;Argentina;0341156663403;https://github.com/MauricioRaulFerreyra;https://www.linkedin.com/in/mauricio-ra%C3%BAl-ferreyra-450a9b20b/;8.5;8.3;7.5;7;5.8;8.8;4
+Cristian Merchan;joncris18@hotmail.com;false;2;Colombia;3153352644;JonathanMerchan;CristianMerchan;6.5;4.5;5.5;7;4.5;5;2
+Daniel Rodriguez ;danydeitu18@gmail.com;true;2;Argentina ;1130118854;https://github.com/danydeitu;https://www.linkedin.com/in/daniel-rodriguez-852b21174;5.1;5.1;5;4.7;4.1;5.7;7
+Tomas Kleinschuster;kleinschustertomas@gmail.com;true;2;Argentina;1132719372;https://github.com/TomasKleinschuster;https://www.linkedin.com/in/kleinschuster-tomas/;10;10;10;10;10;10;1
+Dante Fontana;maurifl@gmail.com;true;4;Argentina;+5492645152222;https://github.com/maurifl;https://www.linkedin.com/in/maurifl/;8;7;7.3;6.7;5.7;8;3
+Brenda Nahomi Quispe Gonzales;brendanahomiquispegonzales@gmail.com;false;3;Perú;900878519;https://github.com/AdnerbImohan1107;https://www.linkedin.com/in/brendanahomi/;2.6;2;4.6;6.8;4.2;3;5
+Mario Gordon;megordon@outlook.com;true;2;Alemania;+4917636126888;maegop;/in/mariogordon;10;10;10;10;9.5;10;2
+Silvia Manrique;silviamanrique147@gmail.com;true;2;Argentina;+5492616559513;https://github.com/kukukex;https://www.linkedin.com/in/silvia-manrique-794931179/;10;10;10;10;9;10;1
+Julian Rosales;rjulianbenjamin@gmail.com;true;4;Argentina;+542612530733;https://github.com/melk15;https://www.linkedin.com/in/julian-rosales-086bb319a/;9.1;9.1;9.1;9;8.9;8.8;9
+Juan Saavedra villalobos;saavedravillalobosjuan@gmail.com;true;2;Argentina;01125340311;https://github.com/JuanDavid89;https://www.linkedin.com/in/juan-david-saavedra-518b42219/;6;4;4;7;5;7;1
+Alejandro Pedrosa;alejandro.pedrosa@hotmail.com;false;3;Argentina;3517512778;github.com/AlejandroPedrosa;www.linkedin/in/alejandro-pedrosa-440314191;8.8;8.8;9;8.5;8.5;9;4
+Tomas Padilla;padillatomasagustin@gmail.com;false;3;Francia;+41794002693;https://github.com/PadillaTom;https://www.linkedin.com/in/padillatom/;8;8.5;8;8;7.5;9;2
+Braian Delgado;braiandelgado4255@hotmail.com;true;3;Argentina;01169636574;Pr0vius;https://www.linkedin.com/in/braian-delgado;9.4;9.2;9.4;9;8;9;5
+Oscar Ruiz;dertdriver@gmail.com;false;4;argentina;+542216124839;dert98;https://www.linkedin.com/in/oscar-ruiz-7a3371171/;5.6;5.4;6;6.8;5.8;5;5
+Ezequiel ganzero;ezequiel.ganzero1@gmail.com;false;3;Argentina;+5492213645763;https://github.com/ezequielg1989;https://www.linkedin.com/in/ezequiel-ganzero-191a83197;8.8;8.7;9.1;8.7;8.3;9;10
+melina carraro;melinacarraro@outlook.com;false;2;Buenos Aires;+541130110874;Melinacarraro;https://github.com/Meellcarraro;9;7;9;8;8;8;1
+Bryan Scalzo;b.scalzo97@gmail.com;false;3;Argentina;01133107521;bryanscalzo97;www.linkedin.com/scalzobryan/;9;9;8;8;7;8;1
+Leonardo Agustin Alvez;alvezleonardo@hotmail.com;false;1;Argentina;+543424062582;https://github.com/leoalvezmdz;https://www.linkedin.com/in/leonardo-alvez/;5;5;4;4;1;9;1
+Gaspar Castelló;gasparcastello@gmail.com;false;2;Argentina;3426156014;https://github.com/GaspiCastello;https://linkedin.com/in/gaspar-castello-4860a9a7/;8;8;7.8;7.2;7.2;7.7;6
+Eudes de Souza Lima Filho;eudesfilho1994@outlook.com;true;1;Argentina;1133572512;https://github.com/eudeslimaar;https://www.microsoft.com/en-us/videoplayer/embed/RE4DoHP;9.2;8.5;9.5;8.8;7.8;9.8;6
+Richard Irala;richardirala47@hotmail.com;true;4;Argentina;1162166639;RichardIrala;https://www.linkedin.com/in/richard-miguel-irala-5139a2217/;9.6;9.4;9.7;9.4;9.3;9.4;14
+Lucas Montoby;montobybianchi@gmail.com;true;1;Argentina;2934447922;Montoby/Montoby;https://www.linkedin.com/in/lucasmartínmontoby;10;10;9;7.7;5.7;10;3
+Elian Cordone;eliancordonee@gmail.com;false;2;Argentina;1135699134;Elian-Cordone7;https://www.linkedin.com/in/elian-xavier-cordone-869397223;7.5;6.7;6;5.3;5.2;6.8;6
+juan campos;juanlad1221@gmail.com;false;2;Argentina;362 4885161;https://github.com/juanlad1221;https://www.linkedin.com/in/juan-c-campos;8.3;7.7;8.3;7.3;7;8.3;3
+Martin Iriarte;iriartemartin2@gmail.com;false;2;Argentina;2216316337;https://github.com/MartinIriarte89;https://www.linkedin.com/in/martin-iriarte/;8.5;8.3;8.5;9.5;8.5;8.3;6
+Martin  Castro;martincastro88@hotmail.com;false;3;Argentina;+542936403807;https://github.com/mlcas?tab=repositories;https://www.linkedin.com/in/m-l-castro/;9.4;9.6;9.4;8.9;8.6;9.4;7
+Federico Visacovsky;fvisacovsky@gmail.com;true;3;Argentina;+5491159631632;https://www.behance.net/fedevisa;https://www.linkedin.com/in/federicovisacovsky/;9;9.5;8.8;8.3;8;8.5;4
+Ymeleth Pérez;imelethperez@gmail.com;true;1;Argentina;+5491123748793;ymelethp;https://www.linkedin.com/in/ymelethperez/;8.8;9;8.5;8.5;8;9.3;4
+Gabriela Schiavo ;gabriela.sc@live.com.ar;true;1;Argentina;1162500272;https://www.behance.net/gabrielasc;https://www.linkedin.com/in/gabriela-sc;9.6;10;9.4;10;9;9.8;5
+Brian Gómez;brianmgz2012@gmail.com;false;3;Argentina;3489696728;BrianTahiel;https://www.linkedin.com/in/brian-g%C3%B3mez-6b898b1b2;7.7;6.9;7.5;8.1;6.9;8.4;10
+Lucia Armellini ;luciaarmellinix@gmail.com;false;1;Argentina;3364300772;https://github.com/larmellini;https://www.linkedin.com/in/luciaarmellini/;4;3.5;3;2;1;4;2
+Alejandro Marquez;alejandro2702marquez@gmail.com;false;1;Argentina;+54 9 1133299262;No tengo;www.linkedin.com/in/alejandro-márquez-82661321a;3;3.5;2.5;1.5;1;5.5;2
+Matias Arzamendia;arzamendia.matias99@gmail.com;false;3;Argentina;1130471356;Matiasarz;https://www.linkedin.com/in/matias-arzamendia-17b4ba170;5;5;6;4;3;8;1
+Ezequiel Sanchez;ezequiel.sanchez.7391@gmail.com;true;4;Argentina;2914413671;EzSan;https://www.linkedin.com/in/ezequiel-sanchez-398119167;8.8;8.7;8.7;8.6;7.8;8.3;12
+Pablo Anaquín;anaquinpm@gmail.com;true;1;Argentina;3875223299;anaquinpm;https://www.linkedin.com/in/pablo-mart%C3%ADn-anaqu%C3%ADn-24b28825/;9.6;9.3;9.6;9.6;8.7;9.7;7
+Gavidia génesis;gavidiagenesisqa@gmail.com;false;1;Argentina;3415508165;Trello;https://www.linkedin.com/in/genesisgavidia21022009;1;1;1;1;1;1;2
+Edwin Garcia;edwingrow16@gmail.com;true;1;Argentina;+54116540506;https://github.com/Edwingrow;https://www.linkedin.com/in/edwingrow16/;8.7;8.3;9.5;8.7;7.3;9.2;6
+Miguel Briceño;migueljbriceno@gmail.com;true;3;Venezuela (Bolivarian Republic of);+584146611991;mikejbp;https://www.linkedin.com/in/mbriceno16/;9.4;9.4;8.8;7.9;7.8;9.4;8
+Carlos Martin Gimenez;martingimenez2222@gmail.com;false;2;Argentina;3437431590;CM-Gimenez;www.linkedin.com/in/martin-gimenez-a69749213;8.8;8.1;8.8;9.1;8.1;8.4;9
+Jaime Agudelo Bentham;ingenieroagudelo@gmail.com;true;3;Colombia;3012440748;https://github.com/ingagudelob;https://www.linkedin.com/mwlite/in/jaime-de-jes%C3%BAs-agudelo-bentham-7a835118b;8.8;8.7;8.9;8.9;8.1;8.1;15
+Estefany Espinoza;estefany.espinoza.h@gmail.com;false;2;Chile;+569 59542559;https://github.com/EstefanyEH;https://www.linkedin.com/in/estefanyeh/;10;10;9.7;7.7;7.7;10;3
+James Noria Velarde ;jamesnoria@pm.me;false;1;Peru;912721774;jamesnoria;jamesnoria;9.7;9.8;9.8;9.8;9.3;9.7;6
+ivana villalba;ivanavillalba578@gmail.com;false;2;Argentina;3364380402;https://github.com/ivanavillalba;https://www.linkedin.com/in/ivana-andrea-villalba-a7b9571a6/;10;9.5;9.5;8.5;9;9.5;2
+Jose Camacho;jrcamachoc@gmail.com;false;2;Venezuela (Bolivarian Republic of);00584127102055;sircoko;linkedin.com/in/jrcamachoc;4;4;5;6.3;3;4;3
+Cristian Fernandez;cristianfcba@gmail.com;true;1;Argentina;3512788439;https://github.com/crisf5;https://www.linkedin.com/in/cristianferna/;7;5.5;6.8;9;4.8;7.8;6
+Heynar Soto Holguin;heynar76@hotmail.com;false;1;Colombia;3166341721;https://github.com/heynar-max;https://www.linkedin.com/in/heynar-soto-holguin-bb7a43213/;7.8;7.3;7.5;7.5;7.5;9.3;4
+Matias iatrino;matiasiatrino@gmail.com;false;2;Argentina;3512262378;www.github.com/miatrino;www.linkedin.com/in/matias-iatrino;8.9;9;8.6;8.3;8.1;9.3;8
+Esneider Barrrera;m.r.barrera@hotmail.com;false;3;Colombia;3135905541;https://github.com/LordArshen;https://www.linkedin.com/in/esneider-barrera-b6bb355b/;9.2;9.3;9.2;9.2;9.2;9.7;6
+Matías  Silva;mattiasuru@gmail.com;true;2;Uruguay;099063761;https://github.com/Ma77i;https://www.linkedin.com/in/mattias-silva/;8.3;7.3;6.8;7.5;5.7;9;6
+Natacha Vergara;ntchvergara@gmail.com;false;2;Argentina;1124971986;https://github.com/NatachaVergara;https://www.linkedin.com/in/natacha-vergara;8.6;8.6;9.2;7.8;7.2;9;5
+Daniela Aldana Palma;danielaaldana.palma98@gmail.com;true;1;Argentina;02615151671;https://github.com/DaluPalma;https://www.linkedin.com/in/daniela-aldana-palma-398735226;9;8.8;8.3;7.8;8.5;9.5;4
+Santiago Neyra;santineyra97@gmail.com;true;1;Argentina;3415960272;Santiago-Neyra;https://www.linkedin.com/in/santiago-neyra-8305b8216/;9.1;9.3;8.9;8.9;7.9;9.4;7
+Jorge Luis Adco Ccahuay;jorgead0812@gmail.com;false;2;Peru;+51 916201346;https://github.com/MarvoloV;https://www.linkedin.com/in/jorgead/;1.5;2;1.5;2.5;1.5;3;2
+Gabriela Hollmann;gabrielahollmann@gmail.com;true;1;Argentina;2942547607;gabiholl;https://www.linkedin.com/in/gabriela-hollmann/;10;9.8;10;10;10;10;4
+Katherine Cornejo ;kathe.cornejo@gmail.com;false;1;Peru;+51974681175;www.github.com/Kathecot;www.linkedin.com/katherine-cornejo-tejeda;10;10;10;10;10;10;1
+Paula Flor Vlasich;pauflor86@hotmail.com;false;1;Argentina;+541154837006;https://github.com/PauFV;https://www.linkedin.com/in/paulafvlegaltech/;10;10;8;9;8;10;1
+Katerin Tello;tellourakaterin@gmail.com;true;1;Peru;972198713;https://github.com/KaterinT;https://www.linkedin.com/in/katerin-tello-ura;9.3;9.3;9.5;9.3;9;9.5;4
+Rosamaria Rodriguez;rosamaria.developer@gmail.com;true;1;Peru;922924210;@rjrch123;https://www.linkedin.com/in/rosamaria-rodriguez;9.3;9.5;9.5;9.3;9.5;9.5;4
+Laura lopez;laura.lopezuru@gmail.com;false;2;Uruguay;+59894479007;No tengo ;www.linkedin.com/in/laura-lopez-05a925180;5.8;7.2;6;5.6;5;8.2;5
+Carlos Gregory Bolaños Robles;cbolanosrobles@gmail.com;false;2;Ecuador;+593964041809;https://github.com/K-Marth;https://www.linkedin.com/in/carlos-bola%C3%B1os-808b80219/;10;10;10;10;9.8;10;5
+Gustavo Gareca;gxr_18@hotmail.com;false;2;Argentina;3513055379;https://github.com/GustavoGareca;https://www.linkedin.com/in/gustavo-gareca/;9.5;9.5;9.5;8;5;10;2
+Dubrashka Garcia;dubragar@gmail.com;false;1;Argentina;+5493512267491;Dubrashka;https://www.linkedin.com/in/dubrashka-garcia-310976124/;3;2;4;2;1;3;1
+Brayan ;Brayan.tabares@ucp.edu.co;false;1;Colombia;3116340735;https://github.com/tababr;https://www.linkedin.com/in/brayan-tabares-52a243b5;8;7.8;8;7.8;7.8;8.3;4
+Jesus Cabrita;jesusarnaldo115@gmail.com;true;2;Argentina;1166439380;Jesuscabrita;http://linkedin.com./in/jesus-cabrita-48564222b/;8;8.3;7.3;7.3;6.7;9.3;3
+Lissette N Lindao;lnlindao@gmail.com;false;2;Ecuador;593984843469;lnlindao;https://www.linkedin.com/in/lissettelindao;5;5;5.5;6;4;7;2
+Hector Gerardo Valenzuela Santoyo;hecger_24@hotmail.com;false;1;Mexico;3333947431;HectorSantoyo;https://www.linkedin.com/in/h%C3%A9ctor-valenzuela-b97677b1/;4.8;4.8;4.8;5.2;4.6;5.6;5
+Agustin Facundo Tavano;agustintavano7@gmail.com;false;2;Argentina;2612083580;fagguss;https://www.linkedin.com/in/agustin-facundo-tavano-a1aa94219/;5.7;4.8;4.8;4.2;3.2;7;6
+Julio Nicolas Romero Olmos;romero.nico18@gmail.com;false;1;Argentina;+543804287324;jn-olmos;jn-olmos;9;9;9;9;9;9;1
+Fernando Martinez;martinezf1985@gmail.com;false;3;Argentina;01168632863;https://github.com/martinezf1985?tab=repositories;https://www.linkedin.com/in/fernando-héctor-martinez-0a692151;8.5;9.5;8;6;5;9.3;4
+Pedro Acosta;pedroev.acosta@gmail.com;false;2;Brazil;+5547997930862;https://github.com/Yandalar;https://www.linkedin.com/in/pevacosta/;9;9;9;8.8;8.7;9.3;6
+Vicente Bayugar ;vicentebayugar@gmail.com;true;2;Argentina;2983553384;VicenBayugar;https://ar.linkedin.com/in/vicente-bayugar;9.7;9.6;9.7;9.7;9.4;9.6;10
+Fabián TUREO;fabianestebantureo@gmail.com;false;2;Argentina;+542944680336;https://github.com/ftureo;https://linkedin.com/in/fabian-esteban-tureo;9;8.3;8.8;9.8;9.3;9.8;4
+Cecilia Carbajal Belmont;carbel.cecilia@gmail.com;false;2;Spain;633808348;https://github.com/belcar-ceci;https://www.linkedin.com/in/cecicarbel/;8.6;8.2;9.2;8.6;7.6;8.6;5
+Marielena Aizaga ;maizaga01@gmail.com;false;1;Peru;927620537;https://github.com/PandArtist93;https://www.linkedin.com/in/marielena-aizaga-4b3903144/;7;7;10;10;7;10;1
+Federico Muntuny;fmuntuny@gmail.com;false;1;Argentina;+541140876887;https://github.com/fmuntuny;https://www.linkedin.com/in/federico-muntuny-328a76232/;10;10;10;10;10;10;1
+Sergio Horacio Cepeda ;sergiohoraciocepeda88@gmail.com;false;2;Argentina;1139453222;https://github.com/SergioCepeda;https://www.linkedin.com/in/sergio-cepeda-dev;9.3;9.3;9;8.7;8;9.7;3
+Gabriel Girotti;girottigabriel@gmail.com;false;1;Argentina;2234546782;https://github.com/GabrielGirotti;https://www.linkedin.com/in/gabriel-girotti/;6;3;2;6;3;4;1
+Tomás Pucheta;pucheta.tomas01@gmail.com;false;3;Argentina;+54 341 250-3495;https://github.com/TomiPucheta;www.linkedin.com/in/tomáspucheta;6.3;5.8;6.5;6.8;6;7.3;4
+Martina manino;maninomartina@gmail.com;false;1;Argentina;2614708961;https://github.com/martimanino;https://www.linkedin.com/in/martina-manino-47088320a/;1.5;1.5;1.5;1;1;1.5;2
+Leandro Gutierrez;leandrogutierrezdev@gmail.com;true;2;Argentina;1166912294;https://github.com/LeandroGutierrezDev;https://www.linkedin.com/in/leandro-gutierrez-dev/;9.5;9.6;9.7;9.4;9.1;9.5;14
+Gladys vilaro;glam-22@live.com;false;1;Argentina;01135940813;Github/glavilaro;Www.linkedin.com/in/gladysvilaro622;4;5;2;1;1;8;1
+Melisa López;melisaanahilopez@gmail.com;true;1;Argentina;2604654917;MelisaALopez;https://www.linkedin.com/in/melisalpz;9.8;9.5;10;9.7;8.7;9.8;6
+Oscar  Talero;talero@gmail.com;true;4;Colombia;+573123056081;OscarTalero;http://www.linkedin.com/in/oscar-miguel-talero-3b9741b;7.6;6.8;7.4;8.2;8.2;6.6;5
+Emanuel Pablo Also;emanuel.pablo.also@gmail.com;false;1;Argentina;+542966504269;https://github.com/bingombou;https://www.linkedin.com/in/emanuel-also/;8.5;9;9;9.5;9.5;10;2
+Andrés Nicolás Rubio;rubioandres1@gmail.com;true;3;Argentina;+541158229877;https://github.com/andresnrubio;https://www.linkedin.com/in/andres-n-rubio;9.6;9.4;9.4;9.9;9.9;9.7;7
+Camila Jorquera Vocos;cjorqueravocos@gmail.com;true;1;Argentina;3541540943;https://github.com/cjorqueravocos;https://www.linkedin.com/in/camila-jorquera-vocos-449327212/;9.5;10;8.5;7.5;6.5;10;2
+Vladimir Valdés;vladimirvaldesdev@gmail.com;true;1;El Salvador;+50379641526;https://github.com/VladimirValdes;https://www.linkedin.com/in/VladimirValdes/;9.7;9.7;9.7;9.7;9.7;9.7;3
+Luciano  Olmedo ;lucianonicolasolmedo@gmail.com;true;3;Argentina;+543764326575;www.github.com/luciano-olmedo;www.linkedin.com/in/lucianonicolasolmedo;8.8;8.7;8.3;8.3;7.5;8.3;16
+Italo Lon Kan;lkpitalo249@gmail.com;false;2;Peru;982562745;storres20;https://www.linkedin.com/mwlite/in/italo-lon-kan-perez-00a109225;7;7;7.1;7.1;7;7.6;9
+Martina Mateo;mateommartina@gmail.com;false;1;Argentina;+54 1167904433;https://github.com/martinamateo;https://www.linkedin.com/in/martina-mateo-74a8a11b3/;1;1;1;1;1;1;1
+Yadira Condezo Fabian;yadiraco304@gmail.com;false;2;Peru;994107561;bluezin;https://www.linkedin.com/in/bluezin/;10;9.8;10;10;9.8;10;4
+Pablo VIEYRA;pablin_vieyra1@outlook.com;false;5;Argentina;01150358935;https://github.com/pabloVieyra;https://www.linkedin.com/in/pablo-vieyra/;8.3;8.4;8.3;9.2;8;7.7;15
+Laura González;lau_gonzalez86@hotmail.com;false;1;Argentina;03516089028;https://github.com/Lauri77;https://www.linkedin.com/in/laugon23/;7;8;7;5;4;8;1
+Paulo Nievas;paulofg.nievas@gmail.com;true;3;Argentina;2664625230;F4cku23;https://www.linkedin.com/in/paulo-facundo-gaston-nievas/;9;9.2;8.6;9.2;8.2;8.6;5
+Maximiliano  Miño;maximiliano.mino323@gmail.com;true;5;Argentina;3533682065;www.github.com/maximilianomiño;https://www.linkedin.com/in/maximiliano-mi%C3%B1o-4876221a9;9;9;8;8;7.8;9;5
+Yanet Paula Parola;yanetparola.05@gmail.com;true;1;Argentina;3548525141;https://github.com/Yane05;https://www.linkedin.com/in/yanet-parola/;9.2;9.3;10;9.8;9.7;9;6
+Andres Daniele;andresmdaniele@gmail.com;false;3;Argentina;2613431422;https://github.com/andresdaniele;https://www.linkedin.com/in/andres-daniele-91092221a;5;4.5;6;6.5;3.5;6.5;2
+Juan Bautista Iglesias;bauti.iglesias@gmail.com;true;4;Argentina;1132771807;https://github.com/Baut1;https://www.linkedin.com/in/juanbautistaiglesias/;8.5;8.4;8.4;8.8;8.2;7.8;16
+Nicolas Gonzalez Giraldo;nicolasgonzalezg6@gmail.com;false;2;Colombia;3147974978;https://github.com/nicolasggdev;https://www.linkedin.com/in/nicolasggdev/;9.8;9.8;9.4;9.4;9.6;10;5
+Carolina Puebla;puebla.carolina@gmail.com;true;1;Argentina;+542616396814;Pipolina;https://www.linkedin.com/in/carolinapuebla;8.8;9.7;9.3;8.7;6.7;9.5;6
+Julian Marc;julianmarc@gmail.com;true;2;Argentina;1162000025;R4vage;www.linkedin.com/in/julianmarc;9.6;9.4;9.6;9;9.1;9.6;7
+Pedro Clementi;clementinicolas@gmail.com;false;2;Argentina;2664303566;https://github.com/nicolasclem;https://www.linkedin.com/in/pedro-nicolas-clementi/;9;9.7;9.3;9;8.3;9.3;3
+Esneyder Saavedra Cardenas;esneydersa@hotmail.com;true;1;Colombia;3142692084;https://github.com/Esneyder98;https://www.linkedin.com/in/esneyder-saavedra-cardenas/;6;5.7;6.3;6.3;4;5.7;3
+Matias  Ezequiel Tudela Marti;matiasetudela@gmail.com;true;1;Argentina;+542644550345;Matiasetudela;Linkedin.com/in/matias-tudela;9.3;9.3;9.3;9.3;9.7;9.3;3
+German Ortega;ger.ortega@gmail.com;false;1;Argentina;2645015442;github.com/geredor;linkedin.com/in/ger-ortega;6;6;2;2;1;8;1
+Gustavo Adolfo Fernandez;gfernandezch13@gmail.com;false;1;Peru;939270272;https://github.com/gfernandezch13;https://www.linkedin.com/in/gustavofernandezch/;8;8;8;7.5;7.5;9.5;2
+orlando neris;orlandoneris24@gmail.com;true;2;Argentina;3764391393;https://github.com/OlandoNeris;https://www.linkedin.com/in/orlandoneris823/;9.2;9;9;9.3;9.3;8.3;6
+MARCOS ELIAS  PAZ GONCHEFF;marcosep192000@hotmail.com;true;4;Argentina;3731438247;marcosep192000;https://www.linkedin.com/in/marcos-paz-goncheff-52908360/;6.9;6.8;6.7;7.1;5.9;6.5;14
+Micaela Navarro;micaelanavarro165@gmail.com;false;1;Argentina;2612732348;@Micaela-Gisel;https://www.linkedin.com/in/micaela-navarro-1901;8;8;8;7;5;10;1
+Gerardo Raul Rios;gera.rios@hotmail.com;false;1;Argentina;221153623373;https://github.com/gerardorios;www.linkedin.com/in/gerardoraulrios2654657b;1;1;1;1;1;1;1
+Almendra Maraví Aldana ;almenaldana@gmail.com;false;1;Peru;912607034;AlmeAld;http://linkedin.com/in/almendra-maravi;7;6;5;7;6;7;1
+Almendra Maravi;almenaldana@gmail.con;false;1;Peru;912607034;AlmeAld;linkedin.com/in/almendra-maravi;7;6.4;7.1;7.1;6.8;7.4;8
+Elian Fajimeth Cotreras Gomez;elianfajimethcontreras@gmail.com;true;2;Colombia;+57 3192471044;https://github.com/Fajimeth;https://www.linkedin.com/in/elian-fajimeth-contreras-g%C3%B3mez-uxuidesigner/;8.1;7.4;8;9;7.9;7.6;8
+Liam Andres Evans;liamandresevans@gmail.com;false;2;Colombia;3138897979;https://github.com/LiamAndres;https://www.linkedin.com/in/liamandresevans/;8.3;9.7;8.3;7.7;7.3;10;3
+Leonel Pech;jleonelpm@hotmail.com;false;1;Mexico;9851163050;@jleonelpm;@jleonelpm;1;1;1;1;1;1;1
+Hernan Garcia;hernang1985@gmail.com;true;2;Argentina;01130706846;https://github.com/HernanGarcia1985;https://www.linkedin.com/in/hernan-horaciogarcia/;8.3;8;8.1;8.2;8.3;8.3;10
+Alberto Nicolas Robledo;robledo.mdp@gmail.com;false;2;Argentina;+542236324960;RobleMdqDev;https://www.linkedin.com/in/albertorobledomdq/;10;10;10;10;10;10;2
+Jorge Gaston Altamirano ;j.gaston.altamirano@gmail.com;false;1;Argentina;3735539075;gastonaltamirano;https://www.linkedin.com/in/jorge-gastón-altamirano-21703b1b6;8;9;8;6;6;10;1
+Nazareno Gabriel Bastanzo;b.nazarenogabriel@gmail.com;true;2;Argentina;+5493489533219;nazarenogabrielbastanzo;https://www.linkedin.com/in/nazarenogabrielbastanzo/;5.9;6.4;7.7;8.3;6;8.1;7
+Natali Leones;naleonesaguiar@gmail.com;true;5;Argentina;11111;no;https://www.linkedin.com/in/na-leones-aguiar/;9.3;9.4;9.3;8.4;7.6;9.1;8
+Federico Castro;fgc_castro@live.com;false;3;Argentina;01130556626;https://github.com/FedericoGabrielCastro;https://www.linkedin.com/in/federico-gabriel-castro-837417186/;8.3;8.5;8.4;8.8;8.1;9.1;12
+Facundo  Mendiola;facundo.tomas.m@gmail.com;true;2;Argentina;1568824373;Figma user;www.linkedin.com/in/facundo-mendiola;9.5;9.5;9.5;9.2;9.2;9.5;6
+Micaela Macedonio;macedonio.micaela@gmail.com;true;2;Argentina;1122615449;www.behance.net/micaelamacedonio;https://www.linkedin.com/in/micaela-macedonio;8.4;7.5;7.7;8.5;7.7;8.1;10
+Joel Rodriguez;rgzjoel14@gmail.com;false;1;Argentina;39146831;joelrodriguez-rgb;linkedin.com/in/joel-rodriguez-325309b7;8;7;9;10;8;7;1
+Cesar Augusto Galeano Torres;tocega@yahoo.es;true;2;Colombia;3013111225;https://github.com/cesargaleano;https://www.linkedin.com/in/cesargaleanotorres/;9.1;9.1;9.1;9;8.1;9.7;7
+Yuliana  Bravo;yuliana.cabriles@gmail.com;false;2;Argentina;1131184895;No tengo ;https://www.linkedin.com/in/yuliana-bravo-27056b169;7;7;7.2;6.6;6.6;7;5
+Rodrigo Contreras;rodrigolcontreras1317@gmail.com;false;3;Argentina;1168743728;https://github.com/RodriiContreras;https://www.linkedin.com/in/rodrigocontrerasdesarrollofullstack/;10;9.7;10;10;9.7;10;3
+Gabriel  Torres ;gabrieltorres2014@gmail.com;true;2;Venezuela (Bolivarian Republic of);04164753851;Gabriez;https://www.linkedin.com/in/gabriel-torres-15a82714b;9.6;9.4;9.4;9.2;9;9.6;5
+Oriana De Caro;orianadecaro@gmail.com;true;4;Argentina;3874566383;Orianadecaro;Oriana-de-caro;8.4;9;7.9;8.1;7.2;8.1;14
+Gabriel Cuello;cgabrielcuello@gmail.com;true;1;Argentina;+5492612415045;Palixer;https://www.linkedin.com/in/c-gabriel-cuello ;9.3;7.7;9.3;7;8.3;9.3;3
+Aron Siccardi;aron8112@gmail.com;false;1;Argentina;3512021241;https://github.com/aron8112;https://www.linkedin.com/mwlite/in/ar%C3%B3n-siccardi-b5aa4982;1;1;1;1;1;1;1
+Gonzalo Altamirano;gonza12683@gmail.com;true;2;Argentina;1131403178;https://github.com/GonzaloAlt;https://www.linkedin.com/in/gonzalo-altamirano-7b6047137/;9.3;8.6;8.8;9.3;8.4;8.9;8
+Yamila Gisele Paez;yamilapaez2@hotmail.com;true;3;France;+33749110694;Bellantra;https://www.linkedin.com/mwlite/in/yamila-paez-70b7587b;7.8;8.1;9.6;7.3;9.4;7.9;9
+Lucas Ezequiel Silva;luxassilva@gmail.com;false;3;Argentina;+5491161461034;https://github.com/Mrain00/;https://www.linkedin.com/in/lucasezequielsilva/;9;8.7;9.7;9.7;9.7;9;3
+Andres Arcela;arcela34@gmail.com;false;1;Venezuela (Bolivarian Republic of);+584141174842;arcela43;https://www.linkedin.com/in/andres-arcela/;1;1;1;1;1;1;1
+Pablo Chiappone Sánchez;pablochiappone@gmail.com;true;2;Argentina;02615398175;https://github.com/paulochiappone;https://www.linkedin.com/in/pablo-chiappone-9999131a2;8;7;5;2.5;1;8;2
+Lino Eduardo  Cruz Diaz ;linoeduardocd@gmail.com;true;2;Peru;943476578;https://github.com/LinoCruz;https://www.linkedin.com/in/lino-cruz-519597234;9.8;9.8;9.8;9;8.8;9;4
+Walter Cruz;walcruz1988.21@gmail.com;true;2;Argentina;3876153799;github.com/Walcruz2021;https://github.com/in/waltercruz1988/;7.6;7;8;8.6;8.8;7.8;5
+Jaziel Cejas;jaziel.ismael.cejas@gmail.com;true;3;Argentina;11 69690086;https://github.com/Sheice;https://www.linkedin.com/in/jaziel-cejas/;9.3;9.3;10;10;7.7;9.7;3
+Marvin Achas;marvinj.isd@gmail.com;true;7;Peru;+51993620749;https://github.com/marvinjoel;https://www.linkedin.com/in/marvin-joel/;7.1;6.9;8.7;9.3;5.9;6.9;9
+Matías Parentti;matiparentti@gmail.com;true;1;Argentina;1164393272;https://github.com/MatiasParentti;https://www.linkedin.com/in/matias-parentti-7285a9226;6.8;6;7.6;6.4;5;9;5
+Juan Pablo Molina;juan.molina159@gmail.com;true;4;Argentina;3541375197;/juanMolina14;https://www.linkedin.com/in/juan-molina-0000/;9.3;9.4;9.3;9.6;9.1;9;9
+Andrea Marcela Cambra;andycambra@gmail.com;false;1;Argentina;0111536671594;https://github.com/AndyCambra;https://www.linkedin.com/in/andy-cambra-06b2045/;9.8;10;9.8;9.8;9.8;10;4
+Ignacio Guridi;nacho_g88@hotmail.com;false;2;Argentina;3535694874;https://github.com/nachog8;https://www.linkedin.com/in/guridi-ignacio/;5.2;5.2;4.5;5.3;5;6.2;6
+Carlos Diaz;carlosprivate0000@gmail.com;false;3;Venezuela (Bolivarian Republic of);+584149032730;https://github.com/Carlos13-Lab;https://www.linkedin.com/in/carlos13df/;9.8;9.2;9.5;9;8;9.7;6
+Federico Bramati;bramatif1@gmail.com;false;1;Argentina;+541140561870;https://github.com/FedBram?tab=repositories;https://www.linkedin.com/in/fedbram/;8.3;8.3;8;7;8;8.7;3
+Brian Bedendo;bedendo.br@gmail.com;true;1;Argentina;+5491158261458;brachintosh;https://www.linkedin.com/in/brian-ezequiel-bedendo/;9;8.5;8;8;7.3;9.3;4
+Sofia Denise Rios Martinez;sofiarimar96@gmail.com;false;2;Argentina;1154744380;https://github.com/SofiaRiMar;https://www.linkedin.com/in/sofia-r%C3%ADos-martinez-984bab154/;8.3;9.3;8.3;7;7;9.3;3
+Leonardo Barrera;leonardobarrera397@gmail.com;true;1;Argentina;02616688775;https://github.com/barreraleonardo;https://www.linkedin.com/in/leonardo-barrera-893268183/;9.3;9.3;9.3;9;7.7;9.7;3
+Joan Gimenez;joanf.gimenez@gmail.com;true;2;Argentina;+543412686667;https://github.com/JonMenez;https://www.linkedin.com/in/joan-g-2485961bb/;9.7;9.8;9.8;9.3;9.8;9.8;10
+Jorge Lucas Amaya;amaya.jorgelucas@gmail.com;false;2;Argentina;2613016917;https://lukas-7584.github.io/portfolioamayajorge/;https://www.linkedin.com/in/lucas-amaya-9a75a5213/;9.2;9.2;8.8;8.7;8.8;9.5;6
+Claudia Brtancourt;claudiambetam@gmail.com;true;3;Colombia;+573006193850;clambeta;www.linkedin.com/in/claudia-betancourt-morales;8.9;9.1;8.6;9.1;7.4;7.8;14
+Josias Romano;josiasromano@gmail.com;false;3;Argentina;3815335169;https://github.com/rjosias2022;https://www.linkedin.com/in/josias-romano;7;7.1;7;7.1;6.6;7.1;10
+Federico Suarez;fedesuarez16@gmail.com;true;2;Argentina;+54 11 33370937;https://github.com/fedesuarez16;https://www.linkedin.com/in/federico-suarez-44a218207;8.8;8.4;8.4;9;8.6;9.4;5
+Karina Iannello;kari.iannello.ki@gmail.com;false;1;Argentina;+5491155020292;KarinaIannello;www.linkedin.com/un/karinaiannello;1;1;1;1;1;1;1
+Cristian Aguirre;cristianaaguirre0@gmail.com;false;3;Argentina;3875733125;https://github.com/Cristianaaguirre;https://www.linkedin.com/in/cristian-aguirre-822858220/;10;9.7;10;9.3;8;10;3
+Luis Stoller;stollerluis@gmail.com;false;2;Argentina;3585602269;https://github.com/Peritaw;https://www.linkedin.com/in/luis-stoller-0ab08a226/;9.2;9.2;8.8;8.3;8.7;9.3;6
+Marcos Weis;marcosweis01@gmail.com;false;2;Argentina;2936421381;MarcosSWeis;https://www.linkedin.com/in/marcos-weis-53702122a/;9.5;9.3;9.4;9.6;9.4;9.5;8
+Gabriel García;gabrielgarciatorresm3@gmail.com;true;1;Venezuela (Bolivarian Republic of);+584248495243;https://github.com/gabriel20x;https://www.linkedin.com/in/gabrielgarcia-full-stack-developer/;9.5;10;9.5;10;9.5;10;2
+Raphael Richardson;raphael.richardson@gmail.com;true;4;Argentina;8494096892;Https://github.com/rapric2115;Https://linkedin.com/in/raprichardson;6.8;6.1;6.9;7.3;6.7;7.2;11
+Leoberto  Zeron;devsignweb@gmail.com;false;2;Venezuela (Bolivarian Republic of);5804121903723;https://github.com/zerontec;https://linkedin.com/in/leoberto-zeron;9.7;9.3;9.7;9.8;9.7;9.7;6
+Cristian Gomez;cristiangomez.dev@gmail.com;false;3;Argentina;+5491157657064;https://github.com/cristiangomezdev;https://www.linkedin.com/in/cristian-hernan-gomez-2849301b4/;8.4;8.1;8.9;9.2;7.7;7.7;9
+Luciano Oscari;lucho.oscari.99@gmail.com;false;2;Argentina;3816946662;chinosc10;https://www.linkedin.com/in/luciano-nahuel-oscari/;1;1;1;1;1;1;1
+Karina Monetti;karinamonetti@gmail.com;false;2;Argentina;01161052543;karinamonetti;https://www.linkedin.com/in/karinamonetti/;7;6.5;5.5;4.5;4.5;4;2
+Roberto  Peña;analistaroberto.pena@gmail.com;false;2;Chile;+56993888939;https://github.com/analistaRoberto;www.linkedin.com/in/roberto-peña-09aaba22a;5.6;7;4.4;4.4;4.2;8.4;5
+Cristian David Lavacude Galvis;cristianlav10@gmail.com;false;2;Colombia;3138630136;cdlavacudeg;https://www.linkedin.com/in/cdlavacudeg/;10;9.7;10;10;8.8;9.8;6
+Daniel Santos;santoss.rdaniel@gmail.com;true;2;Argentina;1158461955;Peligrox;https://www.linkedin.com/in/reinaldo-santos-a9a886204/;7.2;7.5;6.8;4.3;4;9.2;6
+Edith  Choque Chura;ux.edith0@gmail.com;false;2;Peru;916364510;Ninguna;https://www.linkedin.com/in/edith-choque-chura-92a3a0214/;9.3;9.7;8.3;8.8;9.2;9.8;6
+Andres Betancur;fabetancur10@misena.edu.co;true;4;Colombia;3143004868;18517701;https://www.linkedin.com/mwlite/in/felix-andres-betancur-9389ab1a5;7.7;7.6;7.6;8.7;6.3;7.7;7
+Leandro Melerio;leandromelerio@gmail.com;false;1;Argentina;+54 9 2236212697;https://github.com/Lean65;https://www.linkedin.com/in/leandro-melerio/;9;7;3;1;1;3;1
+Gaston Paez;paez.gastonm@gmail.com;false;3;Argentina;01132626937;https://github.com/GastonPaez;https://www.linkedin.com/in/gp-dev/;9.3;9.7;10;10;9.3;9.7;3
+Jair Avila;jair_p1020@hotmail.com;false;2;Colombia;3223933784;Jair1020;https://www.linkedin.com/in/jair-avila-gómez;9.8;10;10;10;9.8;10;6
+Marcos Exequiel Britos;marcos97britos@gmail.com;true;2;Argentina;3515326039;https://github.com/Exequiel65;https://www.linkedin.com/in/marcos-britos/;9.5;9.3;9.8;9.8;9.8;9.8;4
+Isabelle  De Souza ;isabelle.cristine19@gmail.com;true;5;Colombia;57 3227160424;github.com/isabelledesouza;https://www.linkedin.com/in/isabelle-cristine-de-souza-a618821a9;8.3;7.9;8.9;9.1;8.7;8.3;14
+Julian Yachelini;juliyachedev@gmail.com;true;3;Argentina;1124049898;JYachelini;LinkedIn.com/in/jyachelini;9.2;9.2;9.8;8.6;9.8;9.6;5
+Antonella Diez;antonelladiez200@gmail.com;true;2;Argentina;2915661656;---;https://www.linkedin.com/in/antonella-diez/;9;9.5;9.3;9.3;8.5;9.8;4
+Ximena Flores Berejnoi;floresberejnoi@gmail.com;false;1;Argentina;3875408333;ximenafloresberejnoi ;https://www.linkedin.com/in/ximena-flores-berejnoi;10;10;10;10;3;10;1
+Ignacio Pegels;ignaciopegels@gmail.com;false;2;Argentina;03764677525;ignaciopegels@gmail.com;https://www.linkedin.com/in/ignacio-pegels-8207a0175/?originalSubdomain=ar;2;2;1;1;1;10;1
+Juan Andres Macias;jam20582@gmail.com;false;1;Argentina;3777632203;jam20582;https://www.linkedin.com/in/jam20582/;9;9;9;9;9;9;1
+Diego Nicita;diegonicita@gmail.com;true;3;Argentina;1134515807;www.github.com/diegonicita;www.linkedin.com/in/diegonicita;8.9;8.3;8.6;9;8.1;8.7;7
+Nahuel Demian Fanego Paz;nfanego@gmail.com;true;2;Argentina;+5491154739909;https://github.com/NaFaPaz;https://www.linkedin.com/in/nahuel-fanego-paz-4666b3222;10;10;10;10;10;10;3
+Agustin Gonzalez;agustin-ag@live.com;false;1;Argentina;3782475020;https://github.com/Nythero;https://www.linkedin.com/in/agustinag/;8;8;6;7;6;7;1
+Adrian Fermanelli;adrianfermanelli@gmail.com;true;2;Argentina;01165991264;https://github.com/AdrianFermanelli;https://www.linkedin.com/in/adrianfermanelli/;10;10;9.8;9.6;9.8;8.6;5
+Alex  Ruiz;alexruiz1666@gmail.com;true;3;Argentina;02214562086;Alexruix;https://www.linkedin.com/in/alexruix;9;8;9;10;9;10;1
+Luciano Nicolas Mancuso;luchonicks@hotmail.com;false;2;Argentina;1159796889 / 1123960006;luchonicks@hotmail.com;https://www.linkedin.com/in/luciano-nicolas-mancuso1981;10;10;10;10;10;10;1
+Sergio Pereyra;spereyra.jus@gmail.com;false;2;Argentina;02634515362;evincere;https://www.linkedin.com/in/evincere/;10;10;10;9;10;8.5;2
+Fabian Alfonso Gomez Tenorio;fgomeztenorio@hotmail.com;true;2;Colombia;3167519518;https://github.com/Nano204;https://www.linkedin.com/in/fgomeztenorio;10;10;10;10;9.7;10;3
+Francisco Nanoia;nanoiafrancisco@gmail.com;true;3;Argentina;1167619060;https://github.com/fnanoia;https://ar.linkedin.com/in/fnanoia/;8.5;8;8.5;10;10;8.5;2
+Carolina Quintoman;quintoman.carolina@gmail.com;true;2;Argentina;+5492944816965;https://github.com/CarolinaQuintoman;www.linkedin.com/in/carolina- quintoman-037452148;7.6;7.2;7.5;7.1;6.3;7.8;12
+Yenifer Ramírez;yeniferramirez11@gmail.com;true;3;Venezuela (Bolivarian Republic of);+584140174511;Yeniferrosana;https://www.linkedin.com/in/yeniferrosana;9.1;8.6;8.8;9;8.2;8.7;11
+Rivers Emmanuel Morales Salazar;rivers.morales@uppuebla.edu.mx;true;4;Mexico;2216374215;https://github.com/rivers249501;https://www.linkedin.com/in/rivers-emmanuel-m-5567a2100/;7.7;7;7.3;8.7;7.7;6;3
+Julia Ines Lopez;juliailopez90@gmail.com;true;2;Argentina;1131272959;Juliasova;linkedin.com/in/juilopez;9;10;10;9;8;10;2
+Braian Marquez;braianmarq95@gmail.com;true;2;Argentina;+54 3755652410;https://github.com/Braian-Marquez;https://www.linkedin.com/in/braian-marquez-8741071b2;9;8.8;9;8.6;8.1;9.5;8
+Marcelo Ezequiel  Romero;romero-ar@hotmail.com;false;1;Argentina;1162371236;mar-romero;https://www.linkedin.com/in/mar-romero-;9;9;9;9;5;9;1
+Ezequiel Daniel Sanchez;ezegeek@gmail.com;true;2;Argentina;3416022238;https://github.com/GeekyBear;https://www.linkedin.com/in/ezequiel-sanchez-dev;7.6;7.7;7.4;8.1;7.3;5.6;7
+Emiliano Oliveto;emilianooliveto02@gmail.com;true;1;Argentina;2281349333;github.com/pulioliveto;linkedin.com/emilianooliveto;9;8.6;8.6;8;6.6;9.2;5
+Diana Zambrano;zambrano.84.d@gmail.com;true;3;Mexico;7351635697;no, pero abri uno;www.linkedin.com/in/diana-zambrano-sanabria-uxdesign;9.8;9.5;10;10;9.3;7.3;6
+Shirley Ramos De Rosas;nohely.ramosderosas@gmail.com;true;1;Argentina;51902444261;https://github.com/shirleynohely;https://www.linkedin.com/in/shirley-nohely/;9;9;9;9;9;9;1
+Abel Amieva;abelamieva@gmail.com;true;2;Argentina;+543513710124;https://github.com/abel1711;https://www.linkedin.com/in/abel-aron-amieva-876416215;9.2;8.6;9.8;9.4;9.4;9;5
+James Noria;jnoria.dev@gmail.com;false;1;Peru;912721774;jamesnoria;https://www.linkedin.com/in/jamesnoria/;8.2;8.2;8.2;8.2;8;8.2;6
+Kenny Luque;kenny.luque.t@uni.pe;true;3;Peru;941875180;Kenny2397;https://www.linkedin.com/in/kennyluquet/;8;8;9.3;9.3;9;7.7;3
+Maria Sol Bruna;solbruna5@gmail.com;true;2;Argentina;1137663077;https://github.com/MariaSolBruna;https://www.linkedin.com/in/maria-sol-bruna/;9.3;9.3;9.3;8.5;7.8;9.3;4
+Diego Federico Maceda;dmaceda2288@gmail.com;false;1;Argentina;2214884165;https://github.com/dmaceda;https://www.linkedin.com/in/dmaceda/;1;4;1;1;1;10;1
+Leonardo Octavio  Thowinsson Vides ;leoth.96@gmail.com;false;1;Colombia;3003081009;leoth96;www.linkedin.com/in/leonardo-thowinssonon-vides-87216a157;8;9;8;4;6;10;1
+Santiago Gabriel Rossi;santiagogabrielrossi@yahoo.com;false;1;Argentina;1134292001;https://github.com/santi-777?tab=repositories;https://www.linkedin.com/in/santiagorossi7;8.7;8;8.3;8.7;8.3;8.7;3
+Felipe Calderon;felipe.calderon321@gmail.com;true;2;Chile;+56984290489;felipecalderon;https://www.linkedin.com/in/felipecalderone;9;7.7;9.3;7.7;7.3;9;3
+Daniel Albanez;danielalbanez40@gmail.com;true;3;Argentina;+54 9 263 4522973;danielalbanez40;https://www.linkedin.com/in/danielalbanez/;8.6;8.6;8.3;9.5;7.4;7.3;8
+Daniel Penedo Lázaro;dpenedo@tutanota.com;true;2;Argentina;2236923537;dpenedo;https://www.linkedin.com/in/daniel-penedo-l%C3%A1zaro-9a043a240/;9.7;10;9.7;9.6;7.4;9.9;7
+Leonardo Koryl;leok_86@hotmail.com;true;2;Argentina;+542613007133;Leonardo-JK;https://www.linkedin.com/in/leonardo-koryl-4a407724;8.8;8.5;9.3;8.8;8.4;8.7;10
+Jose Moncada;jamoncada173@gamil.com;false;1;Colombia;3015457210;https://github.com/josemonk;Josemonk;9;8.5;8.5;9;8;9.5;2
+Jose Antonio Sandino Montano;josesandinonio@gmail.com;false;2;Nicaragua;50586205987;josesandino;https://www.linkedin.com/in/josesandino/;7;6.5;6.5;6.5;7;6;2
+Jeyther Jose Yriza Soto;jeyther13@gmail.com;true;2;Peru;+51926880954;https://github.com/Jeyther;https://www.linkedin.com/in/jeyther/;9.8;9.7;9.7;9.7;8.9;8.4;10
+Saira Emilse  Arteaga Miranda ;sairamiranda1@gmail.com;true;2;Mexico;+528126885648;smirart1;https://www.linkedin.com/in/sairamiranda;8.4;7.5;8.6;8.5;8;7.3;8
+Nora Saucedo;nps_22@hotmail.com;true;4;Argentina;3794787545;https://github.com/NorSAUCE;https://www.linkedin.com/in/nora-patricia-saucedo-6b3746225;9.5;9.6;9.5;9.4;9.2;8.9;10
+Alejandro Wogelman;alehellamn@gmail.com;true;3;Argentina;01158881060;https://github.com/AlejandroWogelman?tab=repositories;https://www.linkedin.com/in/alejandrowogel;7.6;8.2;9.2;7.8;9.2;7.8;5
+Gisel Padilla;agp.1792@gmail.com;false;1;Argentina;1167143631;Gisel92;https://www.linkedin.com/mwlite/in/gisel-padilla-750565a5;1;1;1;1;1;1;1
+Diego Ignacio Silva Cordoba;diegosilvacordoba@hotmail.com;true;2;Spain;655837843;Diegosilcor;https://www.linkedin.com/in/diego-ignacio-silva-cordoba;8;8.6;8.4;8.8;6.8;7.2;5
+Thomas  Kurz;thomaskurz.15@gmail.com;true;1;Argentina;2235136325;https://github.com/thom-as-thom;https://www.linkedin.com/in/thomas-kurz-0856a51b8/;10;10;10;10;10;10;1
+Ezequiel Gonzalez;ezexgonzalez@outlook.com;false;1;Argentina;1161993279;ezexgonzalez;https://www.linkedin.com/in/ezexgonzalez;9.2;9.6;9.4;9.4;8.6;9.6;5
+Facundo Mangioni;facumangioni@gmail.com;false;2;Argentina;2233009877;https://github.com/FacuMangi;https://www.linkedin.com/in/facundomangioni/;8.2;8.6;7.4;6.6;6.2;9.2;5
+Florencia Lioi;flor_camilal@hotmail.com;true;2;Argentina;2494347573;FlorLioi;www.linkedin.com/in/florencialioi;8.7;9;8.7;8.3;8;10;3
+Melanie Campos;cmelaniemich@gmail.com;true;2;Argentina;1139330724;https://www.behance.net/melaniecampos3;https://www.linkedin.com/in/melanie-campos-9983b0238/;8.7;8.9;9.3;9.6;9.7;8.1;7
+Ivan Belasich;ivanbelasich@gmail.com;true;3;Argentina;3447543862;ivanbelasich;https://www.linkedin.com/in/ivanbelasich/;9.5;9.5;9.6;9.2;8.6;9.6;10
+Rene Eustaquio Silva Carrillo;rene.scre@gmail.com;true;3;Mexico;3121977601;rene3255;https://www.linkedin.com/in/vmc555/;9.3;9.4;9.1;8.4;7.7;9.9;7
+Eliz Longart ;longartcoll@gmail.com;true;3;Colombia;3115597301;ElizLongart ;https://www.linkedin.com/in/eliz-longart-138791235;7.5;8;8;7.5;6.3;8.3;4
+Pablo Mateo  Silva Mendez;tutubertortugas@gmail.com;true;2;Mexico;3122439063;Pamasime790;https://www.linkedin.com/in/pablo-mateo-silva-mendez-04a2a0246/;7.3;6.1;8.2;9;7.7;8.9;10
+Lucia Flores;luciaflores0609@gmail.com;false;3;Argentina;1164292754;@lucflores;https://www.linkedin.com/in/lucia-flores/;9;8;9;8;7.5;10;2
+Diego Leonardo Vallejos Dimitroff Petcoff;diegodimitroffpetcoff@gmail.com;true;2;Argentina;3624997599;https://github.com/DiegoDimitroffPetcoff;https://www.linkedin.com/in/diegodimitroffpetcoff/;6.5;6.4;6.6;6.5;6.6;6.6;8
+Jose Barrientos;jb.barrientos@yahoo.com;true;1;Argentina;1149899492;classicaljo;https://linkedin.com/in/classicaljo;9;8.8;9.3;9.5;8.8;8.3;4
+Daniel Ovalle;danielovalle900@gmail.com;false;1;Colombia;3015203669;dsovalle;https://www.linkedin.com/in/dsovalle/;8;7.5;7;6.5;5.5;9;2
+Joel Acosta;joelac04@hotmail.com;false;1;Colombia;3208420657;acjoell;https://www.linkedin.com/in/acjoell/;9.7;9.3;9.7;9.3;8.3;9.7;3
+Juan Carlos Ojeda;ojeda.juancarlos02@gmail.com;false;1;Argentina;3794226900;https://github.com/ojedajuanc;https://www.linkedin.com/in/ojedajuanc;9;8;9;9;10;10;1
+Lautaro Alejandro Marchetti;lautaroamarchetti@gmail.com;false;2;Argentina;2284663573;https://github.com/MarchettiLA;https://www.linkedin.com/in/marchettila/;10;10;9.5;8.5;10;9.5;2
+Cristian Francisco  Mosquera Bone;cmmosqbone1@gmail.com;true;3;Germany;01726986218;https://github.com/crisger;https://www.linkedin.com/feed/;7.1;7.6;9.4;8.4;9.5;6.8;8
+Pablo Gonzalez;pabloj.zanelli@gmail.com;true;1;Argentina;3425130664;https://github.com/ThePabloRevengeance;https://www.linkedin.com/in/pablo-gonzalez-210810210/;5.5;3;3.5;6;1.8;8.8;4
+Cyntia Flores;cyntiaflores@yahoo.com;true;2;Argentina;54 9 1163004443;.;http://linkedin.com/in/cyntiaflores;9.5;9.7;9.8;8.8;9.8;9.8;6
+Agustin Boccio;agboccio@gmail.com;true;1;Spain;600314000;bocod;https://www.linkedin.com/in/agustinboccio;10;10;10;10;10;10;3
+Santiago Schroh;santiagoschroh@gmail.com;true;2;Argentina;2915131087;KhristyXV;https://www.linkedin.com/in/santiago-schroh-350099221/;7.9;7.5;6.9;6.4;6.3;6.5;8
+Lautaro Carreño;lautaro_11_27@hotmail.com;false;2;Argentina;3424420130;https://github.com/jakiro12;https://www.linkedin.com/in/lautaro-carre%C3%B1o-elias-9b9248b1/;6;6;7.5;6.5;6;8.5;2
+Erik Santiago Olarte Molina;blueowl2794@gmail.com;false;1;Colombia;3188944935;https://github.com/blueowl2794;https://www.linkedin.com/in/erik-santiago-olarte-molina-b3b5a2224/;7.3;7;5.3;6.5;5;8.8;4
+Gabriel Chazarreta;gfchazarreta@gmail.com;true;2;Argentina;+543885470980;gfchaza09;https://www.linkedin.com/in/gabriel-chazarreta/;8.2;7.6;8.4;8.2;7;7.2;5
+Luis Guzmán;lumigu.dev@gmail.com;true;2;Colombia;+573003801639;lumiguz;https://www.linkedin.com/in/lumidev/;8.2;7.7;8.1;8.3;7.1;6.9;15
+Facundo Cabrera;cabrera.facundo990@gmail.com;false;1;Argentina;1128572290;facundo1cabrera;www.linkedin.com/in/facundo-cabrera1;6;5.7;5.3;6.7;5.3;8;3
+Julian Erreguerena;julian.erreguerena@gmail.com;true;2;Argentina;542615357472;https://github.com/JuliErre;https://www.linkedin.com/in/julian-erreguerena-montini-b77055206/;8.5;8.4;8.5;8.6;8;8.4;8
+Ezequiel Astrada;astradaezequiel.tpi@gmail.com;true;3;Argentina;01161255260;https://github.com/as-ez;https://www.linkedin.com/in/as-ez/;9;8.6;9.2;9;8.4;9;10
+David Emiliano Morales Arraigada;demacomputacion@gmail.com;true;3;Argentina;02622435789;https://github.com/DEMAcomputacion;https://www.linkedin.com/in/david-morales-638979226/;8.4;8.6;9.2;9.8;9.6;7.2;5
+Rony Nickson Calderon Sara;rony.nick.cs@gmail.com;true;1;Argentina;3412012588;rony182;https://www.linkedin.com/in/rony-calderon/;10;10;10;10;10;10;1
+Rafael Martinez Rodriguez;rafaelhitachi@gmail.com;true;1;Colombia;+573146690964;https://github.com/ingrafaelmartinez;www.linkedin.com/in/rafael-martínez-rodríguez-2b266a30;5;5;5;1;1;9;1
+Francisco Rey;reyfrancisco98@hotmail.com;true;4;Argentina;2216127834;franrey98;https://www.linkedin.com/in/francisco-rey-71060419a/;8;7.7;7.9;8.2;7.3;7.5;11
+Leonardo Dávalos;davaloslm@hotmail.com.ar;true;2;Argentina;0;davaloslm;https://linkedin.com/in/leonardo-davalos;9.4;9.4;9.2;8.2;7.8;9;5
+Victoria  Ruiz ;avictoria_r@hotmail.com.ar;false;1;Argentina;3855372385;.;Www.linkedin.com/in/victoria-ruiz;7.8;7.5;7;6.8;5.3;8.3;4
+Alan Mateo  Naranjo Alvarado ;lamjo30@gmail.com;false;2;Argentina;635192125;github.com/L-A-M-J-O;www.linkedin.com/in/alann3009200330092003/;1.7;1.3;4.3;5.3;1.7;7.7;3
+Jesus Armando Buendia Hernandez;armando187984@gmail.com;true;2;Mexico;4441831274;https://github.com/ar1879/;https://www.linkedin.com/in/armando-hdz-493094a4;9.4;8.8;8.9;9.5;9;9.3;8
+Sara Valentina Latyn;latynsara41@gmail.com;true;2;Germany;+4917683715028;https://github.com/saravalentinal;https://www.linkedin.com/in/valentina-latyn/;9.6;9.2;9.3;8.7;8.6;8.4;9
+Walter Daniel Huaynapata Aguilar;dyangeltk17@gmail.com;true;3;Peru;+51958150210;Onnichan;https://www.linkedin.com/in/walter-daniel-huaynapata-aguilar-391041197/;7.9;7.9;7.8;7.9;7;7.9;10
+Andrés Fuentes;ingplazasfuentes@hotmail.com;true;3;Argentina;+5491162067307;https://github.com/Ingplazas;https://www.linkedin.com/in/eafuentes/;8.8;9.2;8.3;9.5;7.7;8.1;11
+Martín Hernandez;martinalejandrohernandez1@gmail.com;false;2;Argentina;3515924473;https://github.com/MartinCba;https://www.linkedin.com/in/martin-hernandez-a92362218/;6;5.3;4.3;4.3;2.7;6.3;3
+Franco Osores;franco_osores@hotmail.com;true;2;Argentina;03813357496;https://github.com/filburt88;https://www.linkedin.com/in/franco-osores/;9.3;9.3;9.5;9.7;9;9.8;6
+Javier Moron;requin883@gmail.com;true;3;Venezuela (Bolivarian Republic of);+584129332612;Requin883;https://www.linkedin.com/in/javier-moron-de-oliveira-a7504218a/;8.9;8.4;8.4;9.4;8.6;7.8;8
+Josefina Cordoba;cordobajosefinam@gmail.com;true;5;Argentina;+5493813302765;-;www.linkedin.com/in/cordobajosefina;9.6;9.6;9.6;8.8;7.6;9.6;5
+Matias Alonso Pisani;matiasalonso88@gmail.com;true;2;Argentina;0111533554248;https://github.com/matias5804;https://www.linkedin.com/in/matiasmalonso;9.3;9.2;9.3;8.8;7.7;7.6;10
+Mariana Ingrid Calle Villca;maring.calle@gmail.com;true;2;Argentina;1173631135;MarianaIngridC;https://www.linkedin.com/in/mariana-ingrid-calle/;8.2;7.2;7.7;9.2;7.8;8;6
+Alben Bustamante ;albenbustamante@gmail.com;true;3;Colombia;3123409468;alnicode;https://www.linkedin.com/in/alben-bustamante/;9.1;8.8;8.8;9.5;9.3;8.5;8
+Bruno Niello;brunoniello@gmail.com;true;1;Argentina;3498460438;https://github.com/Bruno-Niello;https://www.linkedin.com/in/bruno-niello-7b09051a4/;8.5;8.5;8.5;8;8;8;4
+Matias Ariel Jacinto;matymdq2015@gmail.com;false;1;Argentina;3516703484;matiasjacinto;www.linkedin.com/in/matias-jacinto-347420197;8.3;8;8;8;5.7;9;3
+Franco Serafini;francoserafini70@gmail.com;false;2;Argentina;2473414141;https://github.com/FrancoSer;www.linkedin.com/in/francoserafini35648;8.7;9;7.7;7;6.3;9;3
+Pablo Leyes;n.leyes.n@gmail.com;true;1;Argentina;1149483827;https://github.com/Yaguaret3;https://www.linkedin.com/in/pablo-nahuel-leyes-989b71211/;9;10;9;9;9;10;1
+Mikel Diaz;mikeldev@criptext.com;true;1;Panama;+50763271821;SBolivarLoL;https://www.linkedin.com/in/mikel-diaz-velasquez/;8.2;8.2;8.7;8.2;6.2;8.7;6
+Sebastian Lenza;sebastianlenza45@gmail.com;false;2;Argentina;+54 1125485926;https://github.com/Sebastianlenza2021;https://www.linkedin.com/in/sebasti%C3%A1n-lenza-330205148/;6.3;8;6.3;5.3;5.3;9.3;3
+Juan Rodriguez;juanrdgz167@gmail.com;false;1;Argentina;543813856923;juanrdgz;https://www.linkedin.com/in/juan-rodriguez167/;3;8;5;1;1;10;1
+Juan Manuel Benega;jmbenega@gmail.com;true;3;Argentina;+5491165543465;https://github.com/JuanBenega;https://www.linkedin.com/in/juanbenegadesarrolloweb/;8.9;9;8.4;8.8;8.3;8.1;9
+Florencia Carugno;flor2mil8@gmail.com;false;1;Argentina;1164351267;flor2mil8@gmail.com;https://www.linkedin.com/in/florencia-carugno-554a91202/;2;3;1;1;1;8;1
+Esteban Gonzalez;esteban.adrian.gonz@gmail.com;true;3;Argentina;1521804180;Adremess;https://www.linkedin.com/in/esteban-adrian-gonzalez/;8.8;7.8;8.4;9.2;8;9.4;5
+William Aguirre;williamag929@gmail.com;true;1;United States of America (the);9295093196;Williamag929;https://www.linkedin.com/in/william-a-7117b424;9;8;8;10;9;9;1
+Maria Verónica Linares Urbina;marievurb@gmail.com;false;1;Argentina;01173607927;https://github.com/mveez;https://www.linkedin.com/in/maria-ver%C3%B3nica-linares-urbina-b7569023b/;8.5;8.5;8.5;8.5;8.5;8.5;2
+Pablo Rumualdo;pablorumualdo2305@gmail.com;false;1;Argentina;03434654034;RumualdoPablo;https://www.linkedin.com/in/rumualdopablo/;8.3;8;8.7;9;7.3;9.3;3
+Joaquín Cejas;cejasjoaquin1998@gmail.com;false;1;Argentina;03424288096;https://github.com/Jcejas1998;https://www.linkedin.com/in/joaqu%C3%ADn-cejas/;8.5;8.8;7.8;7.3;5.5;8.8;4
+Tobias Selva;tobiasselva@gmail.com;false;1;Argentina;2234385080;tobiimdp12;https://www.linkedin.com/in/tobias-selva/;5.5;5;6;6;5.5;7;2
+Leandro Martini;leandromartini86@gmail.com;true;3;Argentina;0111530374277;https://github.com/manrique1986;https://www.linkedin.com/in/leandro-martini-developer/;8.4;8.4;8.6;7.8;6.6;8.5;10
+Andres Torales;andres.toraless@gmail.com;true;2;Argentina;01136056313;https://github.com/toralesandres;https://www.linkedin.com/in/toralesandres/;9.5;9.5;9.5;8.5;8;9.5;2
+Cristian  Romero ;rcristian1986@gmail.com;true;2;Argentina;+543764220303;cristiangromero;https://www.linkedin.com/in/rcristian/;8.6;8.1;8.6;9.4;8.6;7.5;8
+Analia Victorio;dravictorio@gmail.com;false;1;Argentina;+5491125020002;AnaVictorio;https://www.linkedin.com/in/analia-victorio/;1;1;1;1;1;1;1
+Ariel Fernando Cuello;cuelloariel@gmail.com;true;3;Argentina;+543804309950;https://github.com/cuelloariel;https://www.linkedin.com/in/cuello-ariel/;6.7;7.1;6.1;7;4.9;7.4;7
+Luca Hardmeier;hardmeierluca@gmail.com;true;2;Argentina;9541149378791;lucaHardmeier;https://www.linkedin.com/in/luca-hardmeier/;9.6;9.7;9.6;9.1;9.3;9.3;7
+Lucas Exequiel Abdala;lucasabdala94@gmail.com;false;3;Argentina;3816411006;Lucasabdala94;https://www.linkedin.com/in/lucas-abdalalules;7;6.7;7.7;6.3;5.3;7.7;3
+Rodrigo Spano;rorrospano17@gmail.com;false;3;Argentina;01166211051;https://github.com/RodrigoSpano;https://www.linkedin.com/in/rodrigospano/;9.4;9.2;9.2;9.2;8.6;8.4;5
+Maximiliano Britez;maxiibritez@gmail.com;true;2;Argentina;03764325131;https://github.com/maxi194;https://www.linkedin.com/in/maxibritez/;6;8;7;4;4;8;1
+Patricio Oliveto;tatooliveto10@gmail.com;true;1;Argentina;+5492281349275;https://github.com/tatooliveto;https://www.linkedin.com/in/patricio-oliveto-512996212/;8.8;8.8;8.2;8.4;6.8;9.4;5
+Jose Luis Morales ;josseluism@gmail.com;true;2;Venezuela (Bolivarian Republic of);04140110743;https://github.com/ZeusPod;https://www.linkedin.com/in/josemorales81/;9.4;9.4;9.3;9.5;9.6;9.4;8
+German Himmelfreundpointner ;gerdaom@gmail.com;true;1;Argentina;1155928879;GHimmel;www.linkedin.com/in/germán-himmelfreundpointner;6;5.7;5.3;7;5.3;8.7;3
+Agustin Prado;agustinprado007@gmail.com;true;1;Argentina;01165490770;https://github.com/subjekt-iv;https://www.linkedin.com/in/agust%C3%ADn-prado-64b1371b7/;9.3;9.5;9.7;9.7;8;9.2;6
+Maximiliano Salas;emaxisalas@gmail.com;true;2;Argentina;03874649729;https://github.com/Maxirx;https://www.linkedin.com/in/maximiliano-salas-23589a238/;9;7.3;10;10;9.3;9.7;3
+Yakairi González;yakigonzalezzamora@gmail.com;false;2;Argentina;+541125524074;https://www.linkedin.com/in/yakigonz%C3%A1lez;https://www.linkedin.com/in/yakigonz%C3%A1lez;8.3;9.3;7.3;7;6.3;10;3
+Jackson Paez;jackpower@hotmail.es;true;3;Colombia;3234380978;https://github.com/jackAvilaP;https://www.linkedin.com/in/jackson-avila-paez-5a0810241/;9;8;8.4;8.6;6.6;9.4;5
+Luis Guerrero;billie_waffen@hotmail.com;false;2;Mexico;5572843051;https://github.com/lgbriviesca/;https://www.linkedin.com/in/luis-guerrero-03320a106/;9.5;9.5;9.5;9.3;8.5;9.8;4
+Denis Parada;denispar.dev@gmail.com;true;1;Argentina;2604051876;https://github.com/DenisMPar;https://www.linkedin.com/in/denismpar/;10;9.3;9.7;10;10;10;3
+Oswaldo Ñaupa Laura;oswaldo.naupa@tecsup.edu.pe;true;2;Peru;968761779;oswaldonaupa;https://www.linkedin.com/in/oswaldo-naupa-laura/;8.7;8;8.7;9.3;8.9;7.7;7
+Diego Noblega;diegomendoza20015@gmail.com;true;2;Argentina;2616540638;Noblega-Diego;https://www.linkedin.com/in/diego-noblega/;9;9;9;9.6;9.4;8.8;8
+Edinson David  Bolaños Perdomo;edisonbj21@gmail.com;true;2;Colombia;3043871867;https://github.com/Monosen;https://www.linkedin.com/in/edinson-david-bola%C3%B1os-perdomo-293624212/;7;7;6;8;6;10;1
+Angelo Montero;angelomonteroosorio@gmail.com;true;2;Venezuela (Bolivarian Republic of);+573112457998;github.com/dextr0yer;linkedin.com/in/angelo-montero-ba4486239;8.3;8.4;7.9;7.9;7.2;8.6;14
+Juan Cruz Ises;juancruzises@gmail.com;false;1;Argentina;1123883960;https://github.com/JuanCruzIses;https://www.linkedin.com/in/juan-cruz-ises/;5.7;5.7;6.7;6.3;5.7;7;3
+German Carchi;germancarchi@gmail.com;true;1;Ecuador;+593998441886;https://github.com/germancarchi;https://www.linkedin.com/in/german-carchi/;9.7;9;8.7;8;8;9.7;3
+Wanda Fernández;wanda.romina.fernandez@gmail.com;false;1;Argentina;3516815714;https://www.behance.net/wandafernndez;https://www.linkedin.com/in/wanda-fernandez;5;6;4;5;3;7;1
+Florencia Castro;flor.castro.0608@gmail.com;false;1;Argentina;03513637973;-;https://www.linkedin.com/in/mflorcastro/;10;8;8;8;8;8;1
+Florencia Lema;lemaflorenciabelen@gmail.com;false;1;Argentina;1558549576;-;https://www.linkedin.com/in/florencialema;8;7.5;9;8.5;6;10;2
+Juan Francisco Reccia;reccia.francisco@gmail.com;true;1;Argentina;1132347507;franciscoreccia;https://www.linkedin.com/in/franciscoreccia/;8.8;9.6;9;9.2;6.6;9;5
+Gonzalo Latierro;gonzaloh.latierro@gmail.com;true;3;Argentina;1161935817;Gonzal86;https://www.linkedin.com/in/gonzalo-latierro-14470729;10;10;10;10;10;10;3
+Felipe Maldonado;felipe.arica@gmail.com;false;2;Chile;982776528;github.com/Ariaqho;linkedin.com/in/felipe-maldonado-nunez/;8;7;4;7;3;10;1
+Nicolas Goncalves;nicolasgoncky@gmail.com;true;2;Argentina;1162651085;Gonky10;www.linkedin.com/in/nicolas-goncalves-;8.2;7.7;8;8;6.8;6.8;6
+Alejandro Cardenas;ogopogo@fibertel.com.ar;true;2;Argentina;01148628335;https://github.com/Al3x4nDr0s;https://www.linkedin.com/in/alejandro-alfredo-cardenas/;9.5;9;9.8;9.8;9.3;9;4
+Maximiliano Palermo;maxi.palermo.racing@gmail.com;true;2;Argentina;1151781469;https://github.com/MPalermo91;https://www.linkedin.com/in/maximiliano-palermo/;8.7;8.3;8.7;9.3;8.3;8.2;6
+Kevin Huaza;andresnavia-96@hotmail.com;false;2;Colombia;3057893691;https://github.com/khuaza9612;https://www.linkedin.com/in/kevin-huaza-navia-a59b61225/;6.8;6;5.7;5.7;4.8;7;6
+Emanuel Martinez;emanuelbeirac@gmail.com;true;2;Argentina;2804643205;EmanuelMartinez01;linkedin.com/in/emanuelmartinez01;9.6;9.3;9.6;9.1;9.7;9.3;7
+Martín Kun;martinkunbrc@hotmail.com;true;3;Argentina;154297295;https://github.com/MartinKun;https://www.linkedin.com/in/mart%C3%ADn-kun-b13620209/;10;10;10;9.4;9.4;10;5
+Gabriel Hernan Figueroa;figueroagabrielhernan@gmail.com;false;1;Argentina;03484371973;https://github.com/hernan-figueroa;https://www.linkedin.com/in/f-gabriel/;5;5;10;7;5;10;1
+Matias Teijeiro;matias-teijeiro2015@hotmail.com;true;2;Uruguay;092838838;uspaz;https://www.linkedin.com/in/matias-teijeiro-072162164/;7.3;7;7.7;8.3;6;10;3
+André Umbert;andre.umbert96@gmail.com;true;2;Argentina;+543513115356;AndreUmbert;www.linkedin.com/in/andréumbert;9.6;9.4;9.6;9.3;9.4;9.7;7
+Gaston Timchuk Bilik;gaastontimchuk@gmail.com;true;1;Argentina;1163099115;Whoiamx;https://www.linkedin.com/in/gastontimchuk/;9;8.5;8.3;8.3;6;9.3;4
+Maria Jose Galeano Olmedo;galeano19.maria@gmail.com;true;2;Argentina;+5493515149022;JoGaleano;https://www.linkedin.com/in/galeano19maria/;9.8;9.8;9.8;10;9.3;9.8;4
+Juan Nonis;juanpablononis@hotmail.com;true;2;Argentina;+54 1173689423;https://github.com/JuanNonis;https://www.linkedin.com/in/juan-nonis-b3737a241/;9.1;9.5;9.3;8.6;7.6;9.4;8
+Hugo Iturrieta;hugo.sud.ste@gmail.com;true;1;Argentina;+542915132600;https://github.com/mehLabs;https://www.linkedin.com/in/hugoiturrieta/;9.4;9;9.2;8.4;8;9.6;5
+Jesus Leal;jesusalbertolv@gmail.com;true;2;Argentina;1133854893;Github.com/imjesusleal;www.linkedin.com/in/jesus-leal-6908291b2;10;9.7;10;10;10;10;3
+Pamela Suarez;pamela.s.qa@gmail.com;true;2;Argentina;3512572624;pamela.g-@hotmail.com;https://www.linkedin.com/in/suarezpamelaqa;9.5;9;8.8;7.3;7.3;9.8;4
+Lucia Cerpa;luciacerpap@gmail.com;false;1;Mexico;3931067232;LuciaCerpa;https://www.linkedin.com/in/luciacerpap;1;1;1;1;1;1;1
+Cristian Corzo;crcorzo04@hotmail.com;true;2;Argentina;+5493826436814;https://github.com/CrisCorzo97;https://www.linkedin.com/in/cristiancorzo;9;8.5;9;9;7.8;9.8;4
+Maria Laura Quintar;lauraquintar@gmail.com;true;1;Argentina;+542302555382;No tengo;https://www.linkedin.com/in/lauraquintar/;9.3;10;9.3;9.5;9.5;10;4
+Alejandro Moll;alexmoll2008@hotmail.com;true;2;Argentina;+543516315433;Alex-Moll;https://www.linkedin.com/in/alejandro-moll/;8.7;8.3;8.7;6.3;7;9.3;3
+Romina Bello;romi_bello@hotmail.com;true;2;Spain;+34646835436;https://github.com/rominabello87;https://www.linkedin.com/in/rominabello87/;10;10;10;9.8;9.8;10;4
+Nicolas Romano Blandini;nicolasromano2@gmail.com;false;1;Argentina;2614184831;https://github.com/NicoRM11;linkedin.com/in/nicolas-romano-blandini;5;5;10;10;6;7;1
+Victor Guillermo Rosales Núñez;kanekigamerandroid@gmail.com;true;1;Mexico;5623415243;Hai5eDFM;https://www.linkedin.com/in/victor-guillermo-rosales/;9.5;9.4;9.5;10;9.1;9.9;8
+Jonathan Alexander Poblet;jonathanpoblet@hotmail.com;true;3;Argentina;1130565913;https://github.com/jonathanpoblet;https://www.linkedin.com/in/jonathan-poblet/;8.9;9;9.4;9;8.1;9.3;7
+Emanuel  Tevez;ematevez@gmail.com;true;2;Argentina;+5492932500157;https://github.com/ematevez;https://www.linkedin.com/in/emanuel-juli%C3%A1n-tevez-147aa446/;8;7.6;8.3;8.3;6.4;7.8;8
+Larry Aguilera;larrydaguilera@gmail.com;true;2;Argentina;+542995133703;larrydaguilera;https://www.linkedin.com/in/larry-aguilera-081340b1/;9.5;9.5;9.5;10;10;9.5;2
+Kevin Grassi;kevinb45@gmail.com;true;2;Uruguay;+598 99249698;https://github.com/kevinb45 / https://www.behance.net/kevingrassi;https://www.linkedin.com/in/kevingrassi/;9.7;10;10;10;9;8;3
+Diego Torres;matiiiastorres@gmail.com;true;2;Argentina;3812508502;https://github.com/matiiiastorres;https://www.linkedin.com/in/diego-matias-torres-/;10;9;8;9;10;10;1
+José Ignacio  Ibarrondo Pelaez;ibarrondojosei@gmail.com;true;4;Argentina;3541527236;ibarrondojosei;https://www.linkedin.com/in/jos%C3%A9ignacioibarrondopelaez;9.3;9;9;8.3;7;9.3;3
+Mauro Arteaga;maueroskyer@gmail.com;true;1;Ecuador;0961772023;https://github.com/Mauroskyer;https://www.linkedin.com/in/mauro-arteaga-754543241/;10;10;10;10;10;10;3
+Alfredo Villegas;alfreddovillegas@gmail.com;true;2;Venezuela (Bolivarian Republic of);+584167565129;alfredovillegas;https://www.linkedin.com/in/alfredo-villegas-backend;10;10;10;10;10;10;1
+Mauro Arteaga;mauroskyer1997@gmail.com;true;1;Ecuador;0961772023;https://github.com/Mauroskyer;https://www.linkedin.com/in/mauro-arteaga-754543241/;9.3;9.3;9.7;9.7;9.7;9.7;3
+Anibal German Pistan;anibalgermanpistan@gmail.com;true;2;Argentina;1138905608;germanpistan;https://www.linkedin.com/in/anibal-german-pistan-3b9770172/;10;10;10;10;10;10;7
+Daniela Perez;danuperez43@gmail.com;true;2;Argentina;1561357053;https://github.com/danuperez;https://www.linkedin.com/in/daniela-perez-qa/;9.2;9.2;9.2;9.4;7;9.3;9
+Patricia Cor;jaimezpatricia@gmail.com;true;3;Uruguay;+59892730869;patriciacor ;https://www.linkedin.com/in/patricia-cor-dw ;9;7.8;8.7;9;7.8;8.7;6
+Matias Cañadas;hotbones22@gmail.com;true;2;Argentina;5492616928923;https://github.com/Hotbones;www.linkedin.com/matiascanadas;9.7;10;10;9.3;9.3;10;3
+Ignacio Irusta;ignacio_r99@hotmail.com;true;1;Argentina;01134550342;Ignacio-Irusta;https://www.linkedin.com/mwlite/in/ignacio-irusta-07b90821b;9.4;9.1;9;8.7;7;9;7
+Alberto Bovino;beto.bogino@gmail.com;true;2;Argentina;3571638789;https://github.com/betobogino;https://www.linkedin.com/in/alberto-bogino-303a12174/;9.7;9.3;9.7;9.7;9.7;9.3;3
+Agustin Medina;agustin_trompiz@yahoo.com.ar;true;2;Argentina;3794443058;https://github.com/agustinmedina;https://www.linkedin.com/in/agustin-medina-soto-a1a2a7132/;7;5.9;7.3;5.4;5;7.6;7
+Mario Karajallo;mariokarajallo92@gmail.com;true;2;Paraguay;+595985743672;mariokarajallo;https://www.linkedin.com/in/mariokarajallo/;9.6;9.8;9.4;9;7.8;9.8;5
+Mauro Arteaga;mauarte1997@gmail.com;true;2;Ecuador;0961772023;https://github.com/Mauroskyer;https://www.linkedin.com/in/mauro-arteaga-754543241/;10;10;10;10;10;10;1
+Federico Lumma;federico.lumma@gmail.com;true;1;Argentina;+542964400930;https://github.com/fexdelu;https://www.linkedin.com/in/federico-lumma-92722741/;9.3;8.8;8.9;8.4;7.8;9.3;8
+Osbely Lugo;osbelylugo@gmail.com;true;2;Ecuador;+593993358897;OsbelyLugo;www.linkedin.com/in/osbely-lugo;9.1;9.1;8.6;9.2;6;9.3;9
+Federico Di Cillo;fede.di.cillo@outlook.es;true;3;Argentina;3469690240;federicoDicillo ;https://www.linkedin.com/in/federico-di-cillo-773579233;9.7;9.7;9.7;9.7;9.6;10;7
+Kevin Grassi;kevinb45@hotmail.com;true;1;Uruguay;+598099249698;https://github.com/kevinb45 / https://www.behance.net/kevingrassi;https://www.linkedin.com/in/kevingrassi/;8.7;8.7;9.7;9.3;7;8;3
+Jocelyn Chambilla Miranda;jocelyn@mirandajc.com;true;1;Argentina;1134112659;mirandajc;https://www.linkedin.com/in/jocelynmiranda/;9.7;9;9;9.7;9.7;10;3
+Jesús Luciano Palma;jlucianopalma@gmail.com;true;1;Argentina;3815172806;jesuslpalma;www.linkedin.com/in/jesuslucianopalma;8.5;9.2;8;8.2;5.8;8.7;6
+Santiago Ezequiel Muñoz;san88.zzl.308@gmail.com;true;2;Argentina;02932457506;https://github.com/SantiagoEzequielMunioz;https://www.linkedin.com/in/santiago-m-b4833a236/;9.7;9;10;10;10;10;3
+Angel Villalba;villalb4angel@gmail.com;true;1;Argentina;+54 2234229791;@villalb4;https://www.linkedin.com/in/angelvillalba/;9.5;8.8;9.5;9.3;9;9.3;4
+Alex Terrones Rivera;alextrdev@gmail.com;true;1;Peru;+51 980885737;https://github.com/AlexTRDev;https://www.linkedin.com/in/alextrdev/;9.8;9.8;9.9;9.9;9.9;9.8;10
+Cristian Maximiliano Rocabado;cmrocabado@gmail.com;true;1;Argentina;3874818579;https://github.com/Maxidvp;https://www.linkedin.com/in/cristian-rocabado/;9.5;9.5;10;10;10;10;2
+María Alejandra De Los Ángeles Bracho Villanueva;mariabrachovillanueva@gmail.com;true;2;Venezuela (Bolivarian Republic of);+5804246204432;MariaBracho;https://www.linkedin.com/in/mar%C3%ADa-bracho-villanueva/;8.3;7;9;8.7;8.3;9.7;3
+Jhomar  Astuyauri Herencia ;jhomarcristianelias@gmail.com;true;1;Peru;967770643;jhomar1158-ux;https://www.linkedin.com/in/jhomar-astuyauri;9;9;9.7;8;7;9;3
+José Luis Panero Grando;junxior2000@gmail.com;true;1;Argentina;3564473912;junx2000;https://www.linkedin.com/in/josepanero/;6;5;5.5;8;5.5;6;2
+Felipe Silva;fsilvagalleguillos@gmail.com;true;2;Chile;+56981628522;https://github.com/Fipeman;https://www.linkedin.com/in/felipe-silva-galleguillos-73725020/;8.5;9;9.5;9.5;7.5;9.5;2
+Pablo Zalazar;pablo_zalazar@outlook.com;true;2;Argentina;+54 1130417901;https://github.com/pablo-zalazar?tab=repositories;https://www.linkedin.com/in/pablozalazar/;9.3;9.3;9.7;9.3;8;9.7;3
+Julián Ignacio Caloggi;juliancaloggi@hotmail.com;true;1;Argentina;1164558736;https://github.com/julianCaloggi;https://www.linkedin.com/in/jcdeveloperfs/;5;5;7;8;4;9;1
+Sebastián  Celi;sebastianceliamores@gmail.com;true;1;Ecuador;+593959746048;sebasceliamores;https://www.linkedin.com/in/isaac-celi-amores-441324160;8.2;8;9;8.4;7.4;8.2;5
+Emanuel Juri;emanueljuri@gmail.com;true;2;Argentina;2615715121;EmanuelJuri;https://www.linkedin.com/in/emanuel-juri/;8.8;8.5;9;10;9;8.8;4
+José Armando Ñiquen Farroñay;j.armando0807@gmail.com;true;1;Peru;933839178;joseniquen08;https://www.linkedin.com/in/jose-niquen/;9.3;9;8.7;9.3;10;10;3
+Diego Nieves;algorapidonose@gmail.com;true;2;Peru;912042779;Diego-Nieves26;https://www.linkedin.com/in/diego-nieves-04b409242/;9.3;9;9.3;9.3;9.5;9.5;6
+Alexander Figueredo;alexanderjfigueredo@gmail.com;true;1;Peru;+51931760528;ALexander2378;https://www.linkedin.com/in/alexander-figueredo-48b89a132/;6.5;6.5;6.5;5.5;5.5;9;2
+Karen Martina Huamán Centeno;karmahucents@gmail.com;true;1;Peru;922217897;yoelexe;https://www.linkedin.com/in/karen-martina-huam%C3%A1n-centeno-ab1673212/;6.2;5;5;4.8;2.6;8;5
+Rodrigo Palomo;repmlm01@gmail.com;true;2;Argentina;1165267318;RodrigoPalomo;https://www.linkedin.com/in/rodrigo-palomo/;8;8.5;8.3;8.3;8;8.5;4
+Gabriel Tomasel;gabitomasel@gmail.com;true;2;Argentina;1123932745;GTomasel;https://www.linkedin.com/in/gabrieltomasel/;9.3;9.3;9.3;9.7;8.3;9.3;3
+Cesar Leon;kaos4everl@gmail.com;false;1;Argentina;+542215686383;https://github.com/PrototypeK02;https://www.linkedin.com/in/cesar-leon-634940236/;10;10;10;10;10;10;1
+Juan Franco Rodriguez;juanfrancorodriguez99@gmail.com;true;2;Argentina;+542235450046;https://github.com/FrancoRodriguez99;https://www.linkedin.com/in/juan-franco-rodriguez-b922a1247/;9.3;9;9.5;9.5;9.3;9.5;4
+Tomas Godoy;tomas91188@gmail.com;true;1;Argentina;+5493764163921;https://github.com/GodoyTomas;https://www.linkedin.com/in/godoytomas/;7.3;7;5.5;5;3.8;8.8;4
+Luis Enrique  Soracá Benthan ;luisenriquesoraca27@gmail.com;true;2;Colombia;3024570425;LuisSoraca27;https://www.linkedin.com/in/luis-enrique-sorac%C3%A1-benthan-09a999241;9;8.7;9.7;10;9.3;10;3
+Tony  Ospino Parra;tonymiguelo@gmail.com;true;4;Peru;945609005;TonyOP46;https://www.linkedin.com/in/tony-ospino-parra-276454167/;5.3;5.3;5.3;4.8;3;7.5;4
+Nicolas Smael;nico.smael@gmail.com;true;2;Argentina;2914228243;SmaelNicolas;https://www.linkedin.com/in/smaeln/;9.8;9.7;10;9.8;9;9.7;6
+Leonardo Terlizzi;terlizzileonardo@gmail.com;true;2;Argentina;01121564246;ltizzi;https://www.linkedin.com/in/lterlizzi/;9;9;9.8;9.8;7;9.5;4
+David Chaban;davidchaban01@gmail.com;false;1;Argentina;1140632373;https://github.com/DavidChaban;https://www.linkedin.com/in/daviidc/;5;5;5;5;5;5;1
+Julio Cesar Gayosso Herrera;j_chalo@hotmail.com;true;2;Mexico;9931576220;julio.gayosso;https://www.linkedin.com/feed/;6.7;6;6.4;6.3;5.7;6.9;7
+Ignacio Fedorenco;ignaciofedorenco2317@gmail.com;true;2;Argentina;+543492217034;https://github.com/IgnFed;https://linkedin.com/mwlite/in/ignacio-fedorenco;7.3;6.8;8.5;9.3;7.5;7.3;4
+Antoni Quispealaya Jipa;quispealaya73@gmail.com;false;2;Peru;910485727;https://github.com/NosliwKuns;https://www.linkedin.com/in/antoni-quispealaya-front/;1;2;1;1;1;3;1
+Oscar Alexander Solorzano Zambrano;oscar.solorzano98@gmail.com;true;2;Ecuador;+593 982259813;https://github.com/OscarSolorzano;https://www.linkedin.com/in/oscar-solorzano/;9.3;9.7;9.3;9;9;9.7;3
+Yovana Velasquez Cruz;yovana.ulc@gmail.com;true;2;Peru;959170683;yovana888;https://www.linkedin.com/in/yovana-velasquez-cruz-a788bb142;10;10;10;10;10;10;2
+Itati Romero;itati3911@gmail.com;true;2;Argentina;+542216721922;itati3911;https://www.linkedin.com/in/bon-vivant/;8.3;8.3;8;6.3;7.7;9.3;3
+Manuel  Kloster;kloster.am@gmail.com;true;2;Argentina;+543436111048;https://github.com/Nekrocow;https://www.linkedin.com/mwlite/in/manuel-kloster-backend;9.4;9.7;9.7;9.6;8.1;9.7;7
+Sol Moyano;solmoyano1012@gmail.com;true;2;Argentina;5493512955075;SolMoyano1 ;https://www.linkedin.com/in/sol-moyano-8605b8194/;10;10;9.5;9;9.5;10;2
+Juan Pablo  Muñiz;devleon00@gmail.com;true;2;Mexico;+52 8124271352;devleon00;https://www.linkedin.com/in/devleon00;9.1;8;8.6;9.4;8.4;9.3;7
+Federico González;alambratore@gmail.com;true;1;Argentina;+5493516114150;FedericoDG;https://www.linkedin.com/in/fededg/;10;10;10;10;10;10;1
+Mariana Palavecino;marianapalavecino5@gmail.com;true;1;Argentina;2266541002;Marianapal;https://www.linkedin.com/in/marianapal/;9.4;9.7;9.3;8.7;9;9.7;7
+Rodrigo Zucchini;rodrigozucchini1997@gmail.com;true;1;Argentina;0111573691993;https://github.com/rodrigozucchini;https://www.linkedin.com/in/rodrigo-angel-zucchini/;8.3;8.3;8.3;7;7.5;8.5;4
+Marcos Guzmán;marcosguzzz@gmail.com;false;1;Ecuador;0999286146;marcosguz;https://www.linkedin.com/in/marcos-guzman-nazareno/;5;5;5;5;3;6;1
+Juan Felipe Chilito;jfchilito7@gmail.com;false;1;Colombia;3004734417;jfchilito7;www.linkedin.com/in/juan-felipe-chilito-banguero7;7;7;6;8;7;9;1
+Esteban Benabarre;esteban.benabarre@gmail.com;false;1;Argentina;+541156340008;https://github.com/Bena90;https://www.linkedin.com/in/esteban-benabarre/;1;1;1;1;1;1;1
+Francisco Hernan Garcia Mendez Jajan;frangm2702@gmail.com;true;1;Mexico;+525565057409;https://github.com/frangmen;https://www.linkedin.com/in/francisco-garcia-mendez/;9;8.8;9;8.7;8;9.7;6
+Pedro Fernandez;fernandepedro747@gmail.com;true;2;Venezuela (Bolivarian Republic of);+58 04144286843;PeterMonkey;https://www.linkedin.com/in/pedro-enrique-fern%C3%A1ndez-araujo-539394207/;9;8.7;8.9;9.6;8.9;9.7;7
+Valentin Ruggieri;valeru.251@gmail.com;true;2;Argentina;03512505784;https://github.com/valen-ruggieri;https://www.linkedin.com/in/valentinruggieri;7.8;7.3;7.5;7.5;6.5;7.3;4
+Valentin Ruggieri;valentin.r.ruggieri@gmail.com;true;1;Argentina;03512505784;https://github.com/valen-ruggieri;https://www.linkedin.com/in/valentinruggieri;10;10;10;10;10;10;4
+Valeria  Mancilla;valeushuaia2005@gmail.com;true;1;Argentina;2901472838;valeushu;http://www.linkedin.com/in/valeria-mancilla;8.7;7.2;8.3;8.5;7;8.2;6
+Matias Celaye;matiascelaye@gmail.com;true;2;Argentina;+543517878515;https://github.com/matiascelaye;https://www.linkedin.com/in/matiascelaye/;9;9.3;9;9;7.9;9.1;8
+Alberto Gomez Juan;agomezjuan@hotmail.com;true;3;Colombia;3005101992;agomezjuan;https://linkedin.com/in/agomezjuan;10;9.8;9.8;9.2;9;10;5
+Jorge Herrera;herreraajorgeh@gmai.com;true;1;Colombia;3137186952;Jorgeheag;www.linkedin.com/in/  jorge-herrera-88780314a;7.9;7.1;7.6;7.6;5.6;7.7;7
+Jeremy Pisco;jeremyvallejo2016@gmail.com;true;1;Colombia;311590040;https://github.com/jeremyklp;https://www.linkedin.com/in/jeremy-vallejo-pisco-137165220;5.7;4.7;5.4;6.1;5.1;6;7
+Anderson Cifuentes;andersoncifuentesdev@gmail.com;true;2;Colombia;+57 3213746925;oNEOBYTEo;https://www.linkedin.com/in/anderson-cifuentes-b380a7231/;7.3;7.7;8;7.7;6.7;9.3;3
+Alexander Martínez;alexmart0897@gmail.com;true;1;Nicaragua;84387815;AlexMartz08;https://www.linkedin.com/in/alexander-mart%C3%ADnez-775474211/;9;7;8;8;8;10;1
+Orlando Cardozo;orlandoca647@gmail.com;true;2;Paraguay;0995389937;https://github.com/orlandoca;https://www.linkedin.com/in/orlando-cardozo-0a0847205/;7.6;7.4;7.4;7.2;6.6;8.2;5
+Andrea Cacciatore;andrecacciatore@gmail.com;true;2;Argentina;1122886242;https://www.behance.net/andreacacciatore;https://www.linkedin.com/in/andrea-cacciatore/;10;10;10;9;7;10;1
+Gabriela Scire;gabrielascire@gmail.com;true;4;Argentina;+5492615913231;GabiScire;https://www.linkedin.com/in/gabrielascire/;9.8;9.8;9.8;9.5;8.3;9.8;4
+Alan Fránquez ;santifranquez@gmail.com;true;2;Uruguay;+59899664705;https://github.com/AlanFranquez;https://www.linkedin.com/in/alanfranquez/;7.7;8.7;8.7;8.3;5.7;9.7;3
+Benjamin Rodriguez Calix;benrc84@hotmail.com;false;1;Honduras;97239463;https://github.com/Bendark84;https://www.linkedin.com/in/benjamin-rodriguez-calix-070976241/;9;9;8;9;8;8;1
+Alicia Zuliani;luzul2424@gmail.com;true;2;Uruguay;+59898403477;https://github.com/LuZeta;https://www.linkedin.com/in/alicia-zuliani;9.6;9.6;9.4;8.4;9;10;5
+Matias Lupa;matiaslupa@gmail.com;true;1;Argentina;03517730830;https://github.com/matiaslupa;https://www.linkedin.com/in/matias-lupa-594443131/;8.7;9.3;9;8.3;7.3;9.7;3
+Luis Morales;luisfernandob87@gmail.com;true;2;Guatemala;58349349;https://github.com/luisfernandob87;https://www.linkedin.com/in/luis-morales-barillas/;9.5;9;10;10;10;10;2
+Juan Elias Jabib Caro;juaneliasjabib02@gmail.com;true;2;Colombia;+57 3028667486;https://github.com/JuanEliasJabib02?tab=repositories;https://www.linkedin.com/in/juan-elias-jabib-caro-105784229/;6.3;5.4;7.9;8.7;6;8.3;7
+Emanuel Palacio;emanuel.palacio.arq@gmail.com;true;2;Argentina;02914070019;https://github.com/EmanuelPalacio;https://www.linkedin.com/in/emanuel-palacio-8252a4238/;8.8;8.6;9.2;8.6;8.4;9;5
+Edgar Diaz Jaymez;iam.ediazjz@gmail.com;false;1;Mexico;2284001877;ediazjz;https://www.linkedin.com/in/ediazjz/;9;9;9;10;10;10;1
+Benjamin Padros;bpadros@gmail.com;true;1;Argentina;03815201213;https://github.com/bpadros;https://www.linkedin.com/in/benjaminpadros/;4;2;2;4;1;8;1
+Benjamin Diaz;benjamin14005@gmail.com;true;2;Argentina;+54 351 696 1708;https://github.com/D-Benja;https://www.linkedin.com/in/diaz-benjamin/;9;9.6;9.6;9.3;7.7;9.9;7
+Emanuel Capo;emanuel_c400@hotmail.com;true;2;Argentina;3516873753;https://github.com/Emanuel-Capo;www.linkedin.com/in/emanuel-capo;9.5;9.5;10;10;9.5;9.5;2
+Maiten Cullen;cullen.maiten@gmail.com;true;2;Argentina;3413540307;Maitén cullen;https://www.linkedin.com/mwlite/in/maiten-cullen-2bb0a3242;10;10;10;10;10;10;2
+Mario Martínez;mariomtz091@gmail.com;true;2;Argentina;01126151362;https://github.com/soymariomtz;https://www.linkedin.com/in/mario-mtz;7.7;7;8.2;8.7;6.2;8.3;6
+Dante Sarmiento;dante.sarmientof5@gmail.com;false;1;Argentina;3816521029;https://github.com/dante-sarmiento;https://www.linkedin.com/in/dante-sarmiento/;1;1;1;1;1;1;1
+Cintia Jimena Martínez;93katu@gmail.com;true;1;Argentina;3816677110;KatuGT;https://www.linkedin.com/in/cintiajimenamartinez;10;10;10;8;7;9;1
+Santiago Basualdo Cortez;santiagocortez1973@gmail.com;true;2;Argentina;+54 9 1167352362;https://www.behance.net/santiagouxui;https://www.linkedin.com/in/santiagocortez-ui/;8.6;8.4;8.3;8.4;8.1;8.7;7
+Emanuel Foschi;foschi246@gmail.com;true;2;Argentina;+541131821727;https://github.com/ManuFDev/;https://www.linkedin.com/in/emanuelfoschi/;8.9;9;9.1;8.3;8.3;9;7
+Bautista Sierra Lacosta;bsierralacosta@gmail.com;true;2;Argentina;2262631436;https://github.com/bauysi;https://www.linkedin.com/in/bautista-sierra-lacosta/;9.1;9.6;8.9;9.4;8.6;9.8;8
+Abdias Morales;abdias.morales03@gmail.com;false;1;Mexico;5567404532;https://github.com/Abdias03;https://www.linkedin.com/in/abdias-morales/;6;4;3;8;8;9;1
+Daniel González;oscar.d.gonzalez@gmail.com;true;1;Colombia;573186515096;odagora;https://www.linkedin.com/in/od-gonzalez/;10;10;10;9;8;10;1
+Stiven Morales;stimomez@gmail.com;true;2;Colombia;+57 3005771926;stimomez;https://www.linkedin.com/in/stiven-morales-8a528421a/;8.4;7;8;8.8;5.6;9.4;5
+Esteban Casile;estebancasile@gmail.com;true;2;Argentina;2644626802;https://github.com/estebanfak;https://www.linkedin.com/in/esteban-casile-7177986b/;9.5;8.5;9.5;9.8;8.8;9.5;4
+Hernán Emanuel  Reyes;hernan.reyes.14@gmail.com;true;2;Argentina;3813300498;https://github.com/hernanereyes;https://www.linkedin.com/in/hernanemanuelreyes/;9.7;9.7;8;5.7;6;10;3
+Bruno Zeppa Garcia;zegb94@gmail.com;true;1;Mexico;5611730315;https://github.com/BrunoZeppa;https://www.linkedin.com/in/brunozeppa/;10;9.7;9.3;9.7;9.3;10;3
+Genesis Perez;genesisbetaly@gmail.com;true;2;Argentina;1122523162;https://github.com/genesisbpa10;https://www.linkedin.com/in/genesisperezaldana/;10;10;10;10;10;10;2
+Joaquin Ramos;j.ramos5452@gmail.com;true;1;Argentina;+543885390251;https://github.com/JoarDev;https://www.linkedin.com/in/joardev/;7.7;7.7;7.3;6.7;6.3;8.3;3
+Maria Villen;villenmj@gmail.com;true;2;France;++33605560919;https://github.com/MariaVillen;https://www.linkedin.com/in/maria-villen/;8.4;8.2;9.6;9;7.8;7.8;5
+Andrea Abdala;andrea01abdala@gmail.com;true;3;Argentina;1155153550;AndruAb;https://www.linkedin.com/in/andruabdala/;8.9;8;8.7;9.4;7.4;9.1;7
+Rocio Lamberti;roo.lamberti@gmail.com;true;3;Argentina;541167403180;https://github.com/rociolamberti;https://www.linkedin.com/in/rocio-lamberti-7030a7133/;9.1;9.3;8.4;9.4;8.7;9;7
+fabian di paolo;dipaolo@gmail.com;true;2;Argentina;03412557997;Hamerzin;https://www.linkedin.com/in/fabian-di-paolo-846533117;9;9;9.2;8.7;7.8;8.9;9
+Micaela Ailen Andres;micaailenandres@gmail.com;true;2;Argentina;1165845564;https://github.com/MicaAndres;www.linkedin.com/in/micaelaandres;8.5;8;7.5;7.5;8;9;2
+Francisco  Santos;franciscosantosaraoz2000@gmail.com;true;6;Argentina;+543815126903;https://github.com/FranciscoSantos01;https://www.linkedin.com/in/francisco-santos-a6973a1ab/;8.9;8.8;8.8;8.4;7.6;9.4;9
+Lilia Ramirez Vallejo;ravalidesign@gmail.com;false;1;Mexico;5529131005;ravalidesign;www.linkedin.com/in/lilia-ramírez-vallejo;6;7;7;4;3;7;1
+Alexander Paul Castañeda Salinas;alex88_upt@hotmail.com;true;2;Peru;+51984043705;https://github.com/iwill88;https://www.linkedin.com/in/alexander-paul-casta%C3%B1eda-salinas-125555b0/;9;8.5;9.5;9.5;8.5;9.5;2
+Jorge Camargo Molina;jorgecamargo2012902@gmail.com;true;2;Colombia;+57313279815;KuraiRantan;www.linkedin.com/in/camargo-jorge/;7.8;6.3;7.8;9.5;5.5;9;4
+Jhonny Calvo;calvorondon@gmail.com;true;2;Venezuela (Bolivarian Republic of);+584125845721;https://github.com/Bluejhonny;https://www.linkedin.com/in/jhonnycalvo/;10;9.5;10;10;9.5;10;2
+Augusto  Silva;augustonicolassilva@gmail.com;true;1;Argentina;+543465441176;AugustoSilva9;https://www.linkedin.com/in/augusto-silva-baa8a81a9/;7.3;7.1;6.7;7;5.3;8.1;7
+Jorge Ezequiel Tricarico;jorge.tricarico@gmail.com;true;2;Argentina;115047976;https://github.com/JorgeTricarico;https://www.linkedin.com/in/jorge-ezequiel-tricarico;8.3;8.3;8.3;8.3;6.8;9;4
+Giscard Callejas;giscardcallejas@gmail.com;true;2;Nicaragua;+50578255156;https://github.com/Giscard10;https://www.linkedin.com/in/giscard-michael-6a98681ba;9;8;9;7;8;10;1
+Mónica  Arana;aranah2021@gmail.com;true;1;Peru;921378020;https://github.com/Arana2022;https://www.linkedin.com/in/m%C3%B3nica-arana-32b97429/;6;5.5;6.8;7.3;3.8;6;4
+Yeminson Sanchez;yeminsons@gmail.com;true;2;Chile;991257720;https://github.com/YeminsonSanchez;https://www.linkedin.com/in/yeminson-sanchez;9.8;9.8;9.8;9.8;8.3;9.8;4
+Hugleidys Ortega;hugleidyso@gmail.com;true;2;Venezuela (Bolivarian Republic of);+584145909005;Ahugehug ;www.linkedin.com/in/hugleidys-ortega;9.3;9;9;9.7;9;10;3
+Ivana Beatriz Molina Atencio ;molinaatencioivana@hotmail.com;true;2;Argentina;2644563949;Iviss2580;https://www.linkedin.com/in/ivana-molina-atencio-;7.3;9;6.3;6.7;3.3;10;3
+Christian Sotelo;emd_12@hotmail.com;true;2;Argentina;1154575587;https://github.com/Sotorcho;https://www.linkedin.com/in/christian--sotelo/;9.4;9.2;9.4;9.2;8.6;9.6;5
+Luis Javier Aleman Mora;javiersettex@gmail.com;true;2;Colombia;3224685663;https://github.com/gitjaleman;https://www.linkedin.com/in/javier-aleman/;7.7;7.7;8;7.8;6;8.2;6
+Lucio Arrieta;lugastellu19@gmail.com;false;1;Argentina;03329402087;https://github.com/lucio1907;https://www.linkedin.com/in/lucio-gastellu-arrieta-9b4789213/;7.5;7.5;8.5;9;9;9.5;2
+Elias David Galeano;galeanoeliasdavid@gmail.com;true;2;Argentina;1164232503;https://github.com/galeanoelias;https://www.linkedin.com/in/elias-david-galeano;9.3;9.1;9.4;9.1;8;9;8
+Alejandro Tomasella;aletomasella09@gmail.com;true;1;Argentina;+5493777651464;https://github.com/aletomasella;https://www.linkedin.com/in/aletomasella/;8.5;7.5;9.5;9;9.5;9;2

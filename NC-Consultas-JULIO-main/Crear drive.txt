@@ -1,0 +1,235 @@
+Cohorte;Grupo;Miembro;Email;Telefono;Area;Lenguaje;Stack;Disponibilidad;teamLeader;canal;meet
+C22;c22-test;Julio Otero;julioignaciootero@gmail.com;+541121714727;Back-End;undefined;Figma;Tarde;false;C07RYLN3R6E;bdc-zmmt-rhj
+C22;c22-test;Help;nocountryhelp@gmail.com;+541121714727;UX/UI;undefined;Figma;Tarde;false;C07RYLN3R6E;bdc-zmmt-rhj
+H3;h3-01-klowhub;Nicolás Wnorowsky;wnorowsky.nicolas@gmail.com;+5493515308220;Back-End;Typescript;Express, Node;Full-Time;N/A;C0802DUBV2M;undefined
+H3;h3-01-klowhub;Fernando Agustin Perez;aguss.97@outlook.com;+543513749287;Back-End;Javascript;React, Node;Full-Time;N/A;C0802DUBV2M;undefined
+H3;h3-01-klowhub;Abimael Junior  Pacheco Cardenas ;pachecoabimael360@gmail.com;3014891728;Back-End;Javascript;React, HTML, CSS, Node, Express, Figma, Postman;Full-Time;N/A;C0802DUBV2M;undefined
+H3;h3-01-klowhub;Steeven Sanchez;stiwers1997@gmail.com;+593983071265;Front-End;Typescript;Next;Full-Time;N/A;C0802DUBV2M;undefined
+H3;h3-01-klowhub;Hernan Exequiel Maydana;exedevcoding22@gmail.com;+543454076854;Front-End;Javascript;React, Next, Figma;Full-Time;N/A;C0802DUBV2M;undefined
+H3;h3-01-klowhub;Matias Cabrera;matiasc.02.2003@gmail.com;+5491138482552;Front-End;Typescript;React, HTML, CSS, Express, Node, Next, Trello;Full-Time;N/A;C0802DUBV2M;undefined
+H3;h3-01-klowhub;Ximena Ellis;ximenaellis@gmail.com;+59892276252;Project Manager;Otro;Figma, Adobe Illustrator, Jira, Trello, Miro, HTML, CSS;Full-Time;N/A;C0802DUBV2M;undefined
+H3;h3-01-klowhub;Carlos Daniel Jiménez Cálcena;timonrock2015@gmail.com;+543644700759;QA Tester;Python;Jira, Postman, Trello, Miro, Django, CSS, HTML;Full-Time;N/A;C0802DUBV2M;undefined
+H3;h3-01-klowhub;Sol Armani ;para.solarmani@gmail.com;2494062909;UX/UI;Java;Figma, Photoshop;Mañana;N/A;C0802DUBV2M;undefined
+H3;h3-02-klowhub;Orlando Cardenas;orlandocardenas0107@gmail.com;+5493755378465;Back-End;Javascript;Node, Express, Next, Postman, React, HTML, CSS, Flask, Django, Trello, Jira;Full-Time;N/A;C080CHBS86L;undefined
+H3;h3-02-klowhub;Rafael Orozco;quinteroenrrique321@gmail.com;+573247716650;Back-End;Javascript;Nest, Node, Otro;Full-Time;N/A;C080CHBS86L;undefined
+H3;h3-02-klowhub;Cesar  Lopez;cesar.s.mlopez@gmail.com;+573001213960;Back-End;Javascript;Nest, Django, Node, Express, React, HTML, CSS, Trello, Next, Postman;Full-Time;N/A;C080CHBS86L;undefined
+H3;h3-02-klowhub;Marcos Lopez;marcoslopezdev18@gmail.com;+5493757588790;Front-End;Typescript;React, CSS;Full-Time;N/A;C080CHBS86L;undefined
+H3;h3-02-klowhub;Angelica  Rodriguez;angie00069@gmail.com;+573007949947;Front-End;Javascript;React, HTML, CSS, Postman, Trello, Jira, Figma;Full-Time;N/A;C080CHBS86L;undefined
+H3;h3-02-klowhub;Freddy Moya Pacheco;freddymoya2013@gmail.com;+51963495435;Front-End;Java;React, Spring, Vue, CSS, HTML;Full-Time;N/A;C080CHBS86L;undefined
+H3;h3-02-klowhub;Sebastian Di Giuseppe;scanevaro87@gmail.com;+543794532982;Project Manager;Java;Miro, Otro, Trello, Jira, Android Studio;Full-Time;N/A;C080CHBS86L;undefined
+H3;h3-02-klowhub;Jose Yezid Castro Rodriguez;jcastroprogrammer@hotmail.com;+573183626629;QA Tester;Python;Otro;Full-Time;N/A;C080CHBS86L;undefined
+H3;h3-02-klowhub;Mayra Coronel;mayrakcoronel@gmail.com;+5491165736404;UX/UI;Ninguno;Figma;Mañana;N/A;C080CHBS86L;undefined
+H3;h3-03-klowhub;Thomas Ignacio Lopez;thomasignaciolopez@gmail.com;+5491131908253;Back-End;Javascript;React, Node, Express, Figma, Jira, Postman, Trello, Miro, React Native;Full-Time;N/A;C07V3P7L858;undefined
+H3;h3-03-klowhub;Javier Colodro;javiercolodro@gmail.com;+5493584392425;Back-End;Typescript;Node, Express;Full-Time;N/A;C07V3P7L858;undefined
+H3;h3-03-klowhub;Franco David  Garay;francovangaray1@gmail.com;+543513088123;Back-End;Javascript;React, React Native, HTML, CSS, Express, Node, Next, Nest;Full-Time;N/A;C07V3P7L858;undefined
+H3;h3-03-klowhub;Benjamín Carías;sbenjacarias@gmail.com;+50577266874;Front-End;Javascript;React, Next, Node, Express, Trello, Postman, HTML, CSS;Full-Time;N/A;C07V3P7L858;undefined
+H3;h3-03-klowhub;Joel Llallico;jtrvic7@gmail.com;+51970759204;Front-End;Typescript;React, Figma, Next, CSS, HTML, Node, Express, Postman, Jira;Full-Time;N/A;C07V3P7L858;undefined
+H3;h3-03-klowhub;Martín Kun;martinkunbrc@hotmail.com;+5492944283269;Front-End;Typescript;React, Next, HTML, CSS, Postman, Trello;Mañana;N/A;C07V3P7L858;undefined
+H3;h3-03-klowhub;Carolina Saggio;csaggio74@hotmail.com;+542216300509;Project Manager;Ninguno;Jira, Miro, Otro, Figma;Mañana;N/A;C07V3P7L858;undefined
+H3;h3-03-klowhub;Fernando Lamas;facagre@gmail.com;+5491159786972;QA Tester;Ninguno;Jira;Full-Time;N/A;C07V3P7L858;undefined
+H3;h3-03-klowhub;Lucero Rubí Fernández Cortez;lrfernandez.cortez@gmail.com;+51982926282;UX/UI;Otro;Figma, Adobe Illustrator, Photoshop, Trello, Jira;Mañana;N/A;C07V3P7L858;undefined
+H3;h3-04-klowhub;Alex Marin Mendez;alexmarinmendez@gmail.com;+51942270712;Back-End;Javascript;Express, Node;Mañana;N/A;C0802DYKYD7;undefined
+H3;h3-04-klowhub;Felipe  Calderón ;felipe.calderon321@gmail.com;+56984290489;Back-End;Typescript;React, Node, Express, Next;Mañana;N/A;C0802DYKYD7;undefined
+H3;h3-04-klowhub;Jonathan Daniel Arce;jonathandanielarce9@gmail.com;+541123346010;Back-End;Typescript;Nest, Express, Node;Mañana;N/A;C0802DYKYD7;undefined
+H3;h3-04-klowhub;Tomas Gabriel Aquino Bajusz;tomasaquinogabi@gmail.com;+543624218103;Front-End;Javascript;React, CSS, Node, Express, Next, Figma, Trello, Postman;Mañana;N/A;C0802DYKYD7;undefined
+H3;h3-04-klowhub;Facundo Martin Medina Carranza;medinafacundom@gmail.com;+543512114555;Front-End;Typescript;React, Node, Express, Flutter, HTML, CSS, Next, Jira, Postman, Trello, Miro;Mañana;N/A;C0802DYKYD7;undefined
+H3;h3-04-klowhub;Hector Gomez;camiloduquee@gmail.com;+573163398675;Front-End;Javascript;React, HTML, CSS, Node, Express, Next, Figma;Mañana;N/A;C0802DYKYD7;undefined
+H3;h3-04-klowhub;Rafaela Esteves;contactame@rafaelaestevesg.com;+593994130389;Project Manager;Ninguno;Trello, Miro, Adobe Illustrator, Photoshop, Figma, Otro, Jira;Tarde;N/A;C0802DYKYD7;undefined
+H3;h3-04-klowhub;Silvia Inés Villalba;silviainesvillalba@gmail.com;+543512475413;QA Tester;Otro;Jira, Trello;Full-Time;N/A;C0802DYKYD7;undefined
+H3;h3-04-klowhub;Nicolás García Tortosa;nicolastortosa91@gmail.com;+541124059585;UX/UI;Ninguno;Figma, Photoshop, Adobe Illustrator;Mañana;N/A;C0802DYKYD7;undefined
+H3;h3-05-klowhub;Juan Pablo  Morales ;azarjpm15@gmail.com;+5492616820304;Back-End;Javascript;Node, Express, Jira, Postman;Mañana;N/A;C07V68SKBU4;undefined
+H3;h3-05-klowhub;Víctor Araya;victor.d.araya@gmail.com;+56934410248;Back-End;Typescript;Express, Postman, Node, Otro;Mañana;N/A;C07V68SKBU4;undefined
+H3;h3-05-klowhub;Alejandro Escudero;alekosescu@gmail.com;+5493786400746;Back-End;Javascript;Node, Express, HTML, CSS;Mañana;N/A;C07V68SKBU4;undefined
+H3;h3-05-klowhub;Pablo Velasco;pablor.velasco.suarez@gmail.com;+542615446912;Front-End;Javascript;React, Node, Express, Next;Mañana;N/A;C07V68SKBU4;undefined
+H3;h3-05-klowhub;Victor Raul Maye Mamani;v1c70rotakmer@gmail.com;+51921461345;Front-End;Javascript;React, Next, Codeigniter, Express;Mañana;N/A;C07V68SKBU4;undefined
+H3;h3-05-klowhub;Teo Demattei Ortega;dematteiteo@gmail.com;11 26724494;Front-End;Typescript;React, Next, Jira, Trello, CSS;Mañana;N/A;C07V68SKBU4;undefined
+H3;h3-05-klowhub;Ivan Rovner;ivanrovner7@gmail.com;+543624617806;Project Manager;Ninguno;Jira, Trello, Miro;Tarde;N/A;C07V68SKBU4;undefined
+H3;h3-05-klowhub;Gladys Ferreira;g__56@hotmail.com;+5491160412513;QA Tester;Javascript;Jira;Tarde;N/A;C07V68SKBU4;undefined
+H3;h3-05-klowhub;Alixeth  Giacalone ;alixeth15@hotmail.com;+541125105859;UX/UI;Ninguno;Figma;Mañana;N/A;C07V68SKBU4;undefined
+H3;h3-06-klowhub;Rodrigo Georgetti;rodrigogeorgetti.cba@gmail.com;+5493534082835;Back-End;Javascript;Node, Express, React;Mañana;N/A;C080CHCCXPA;undefined
+H3;h3-06-klowhub;Damian R Fernandez;damian.fernandez.dev@gmail.com;+541158920849;Back-End;Typescript;React, Express, Node, Otro;Mañana;N/A;C080CHCCXPA;undefined
+H3;h3-06-klowhub;Alvaro Denis Miranda Mita;alvaromirandamita@gmail.com;+541165486354;Back-End;Typescript;React, React Native, Laravel, Node, Express, Nest, Next, Flutter, Postman, Trello, HTML, CSS;Mañana;N/A;C080CHCCXPA;undefined
+H3;h3-06-klowhub;Maria Villen;villenmj@gmail.com;+33981653659;Front-End;Typescript;React, HTML, CSS, Node, Express, Next;Mañana;N/A;C080CHCCXPA;undefined
+H3;h3-06-klowhub;Javier Alejandro Ruiz Diaz;javier17utn@gmail.com;+543704264610;Front-End;Javascript;React, HTML, CSS, Node, Express, Trello;Mañana;N/A;C080CHCCXPA;undefined
+H3;h3-06-klowhub;Josias Misael  Luna ;lunajosiasm@gmail.com;+543816467059;Front-End;Typescript;React, HTML, CSS;Mañana;N/A;C080CHCCXPA;undefined
+H3;h3-06-klowhub;Mónica  Díaz Garzón;monicadiazgarzon@gmail.com;+56995363678;Project Manager;Ninguno;Miro, Trello;Tarde;N/A;C080CHCCXPA;undefined
+H3;h3-06-klowhub;Luz Tabraj ;luz.tabrajb@gmail.com;+541136562439;QA Tester;Python;Postman, Jira, Trello, Miro;Tarde;N/A;C080CHCCXPA;undefined
+H3;h3-06-klowhub;Natalia Rovere;nr.rovere@gmail.com;+541168962233;UX/UI;Ninguno;Figma;Mañana;N/A;C080CHCCXPA;undefined
+H3;h3-07-klowhub;Yazuline  Viveros Bedoya ;ingeniera-yazuline@hotmail.com;+573148101115;Back-End;Typescript;Node;Noche;N/A;C0802DZ7KU1;undefined
+H3;h3-07-klowhub;Javier Pignataro;jgp.workmail@gmail.com;+5491161315637;Back-End;Javascript;Node, Express;Noche;N/A;C0802DZ7KU1;undefined
+H3;h3-07-klowhub;Cristian Illi;svrk73@gmail.com;+541164944258;Back-End;Javascript;Nest, Node, React, Next, Postman, CSS, HTML;Noche;N/A;C0802DZ7KU1;undefined
+H3;h3-07-klowhub;Julio Nicolas Romero Olmos;romero.nico18@gmail.com;+543804287324;Front-End;Typescript;Next;Noche;N/A;C0802DZ7KU1;undefined
+H3;h3-07-klowhub;Franco Maidana;woldehtes@gmail.com;+541124804777;Front-End;Typescript;React, Next;Noche;N/A;C0802DZ7KU1;undefined
+H3;h3-07-klowhub;Rafael Ricardo Strongoli;rafaelstrongoli@gmail.com;+543624643450;Front-End;Typescript;React, HTML, CSS, Next, Figma, Jira, Trello;Noche;N/A;C0802DZ7KU1;undefined
+H3;h3-07-klowhub;Patricia  Fernandez;pat.fernandez20@gmail.com;+56965720864;Project Manager;Python;React, HTML, CSS, Trello, Figma;Noche;N/A;C0802DZ7KU1;undefined
+H3;h3-07-klowhub;Luiggi Mera;luiggimera01@gmail.com;+18293998662;QA Tester;Python;HTML, CSS, Jira, Trello, Postman;Noche;N/A;C0802DZ7KU1;undefined
+H3;h3-07-klowhub;David Yánez;david.yanez.epn@gmail.com;+593987123961;Front-End;Typescript;Next, React, Node, Express;Noche;N/A;C0802DZ7KU1;undefined
+H3;h3-08-klowhub;Percy Tejada;percytejada.code@gmail.com;+51971176251;Back-End;Javascript;Node, Express, Postman, React;Noche;N/A;C07V0TNT7NH;undefined
+H3;h3-08-klowhub;Jackson Paez;arenca44@gmail.com;+3234380978;Back-End;Javascript;React, Django, Node, Express, Postman, Flutter, HTML, CSS, Otro;Noche;N/A;C07V0TNT7NH;undefined
+H3;h3-08-klowhub;Matias Benitez Benitez;matiasuzumy@gmail.com;+541135968608;Back-End;Typescript;Express, Node;Noche;N/A;C07V0TNT7NH;undefined
+H3;h3-08-klowhub;Juan Ramirez;guillecarck@gmail.com;+51956402456;Front-End;Typescript;React, Nest;Noche;N/A;C07V0TNT7NH;undefined
+H3;h3-08-klowhub;Gabriela Patiño;gabyapd05@gmail.com;+584142931360;Front-End;Javascript;React;Noche;N/A;C07V0TNT7NH;undefined
+H3;h3-08-klowhub;David Mamani;davidmedev@gmail.com;+541168628337;Front-End;Typescript;Next, React, HTML, CSS, Postman, Jira, Trello, Miro;Noche;N/A;C07V0TNT7NH;undefined
+H3;h3-08-klowhub;Franco Margutti;fn.margutti@gmail.com;+542616063806;Project Manager;Javascript;Jira, Trello, React;Noche;N/A;C07V0TNT7NH;undefined
+H3;h3-08-klowhub;Arnoldo Jose Felce Rondon;arnoldfelce2@gmail.com;+5491162591766;QA Tester;Ninguno;Figma, Jira, Trello, Photoshop, HTML;Noche;N/A;C07V0TNT7NH;undefined
+H3;h3-08-klowhub;Pedro Alejandro Núñez Castañeda;pedronuca3@gmail.com;+51974158230;Front-End;Javascript;Next, React;Noche;N/A;C07V0TNT7NH;undefined
+H3;h3-09-klowhub;Gabriel  Braga ;guebe.braga5@gmail.com;+59898781046;Back-End;Javascript;Node;Tarde;N/A;C07UX53H9KQ;undefined
+H3;h3-09-klowhub;Gaspar Castillo Catrifol;castillicatrifol@gmail.com;+56987264971;Back-End;Typescript;Nest, Next, React, Express, Postman, Node;Tarde;N/A;C07UX53H9KQ;undefined
+H3;h3-09-klowhub;Omar Nazareno Lujan;omarnlujan@gmail.com;+542474404051;Back-End;Typescript;Node;Tarde;N/A;C07UX53H9KQ;undefined
+H3;h3-09-klowhub;Lautaro Durán;duranlautarogabriel@gmail.com;+542226566509;Front-End;Typescript;Next, React, Trello;Tarde;N/A;C07UX53H9KQ;undefined
+H3;h3-09-klowhub;Matias Paredes;mjparedes2505@gmail.com;+5491124611071;Front-End;Typescript;Next, React, Node, Express, Nest, Trello;Tarde;N/A;C07UX53H9KQ;undefined
+H3;h3-09-klowhub;Marco Perez Donoso;marcopdonoso@gmail.com;67400666;Front-End;Typescript;Next, React;Tarde;N/A;C07UX53H9KQ;undefined
+H3;h3-09-klowhub;Jhonatan Remon;jhony.fori@gmail.com;+541122559596;Project Manager;Typescript;HTML, CSS, Node, Express, Adobe Illustrator, Photoshop;Tarde;N/A;C07UX53H9KQ;undefined
+H3;h3-09-klowhub;Diana Marcela  Ramírez Zarta ;mymarce27@gmail.com;+573053163933;QA Tester;Javascript;Postman, Express, Node, Trello;Tarde;N/A;C07UX53H9KQ;undefined
+H3;h3-09-klowhub;Alexis Mesa;alexismesac@gmail.com;+593 986778088;UX/UI;Otro;Figma;Tarde;N/A;C07UX53H9KQ;undefined
+H3;h3-10-klowhub;Maximiliano Ingeniero;maximilianoingeniero@gmail.com;+542216098205;Back-End;Javascript;React, HTML, CSS, Node, Express, Nest, Next, Jira, Trello, Postman;Tarde;N/A;C07V0TP4H6H;undefined
+H3;h3-10-klowhub;Héctor Manuel García Noguera;garcia17h@gmail.com;+56999881047;Back-End;Javascript;React, HTML, CSS, Node, Express, Postman;Tarde;N/A;C07V0TP4H6H;undefined
+H3;h3-10-klowhub;Harrison Díaz;dbhrnf@gmail.com;+528134131011;Back-End;Javascript;Express, React, Node;Tarde;N/A;C07V0TP4H6H;undefined
+H3;h3-10-klowhub;Nicolas Ramirez;jjnicoramirez@gmail.com;+5493416355559;Front-End;Javascript;React, Angular, .Net;Tarde;N/A;C07V0TP4H6H;undefined
+H3;h3-10-klowhub;Yhordi Choque Espinoza ;yordychoque124@gmail.com;+59167807899;Front-End;Javascript;React, HTML, CSS, Figma, Jira, Trello, Next;Tarde;N/A;C07V0TP4H6H;undefined
+H3;h3-10-klowhub;Facundo Pettersson;petterssonfacundo@gmail.com;+541155795134;Front-End;Typescript;React, HTML, CSS, Trello, Miro, Otro, Postman, Next, Jira, Node;Tarde;N/A;C07V0TP4H6H;undefined
+H3;h3-10-klowhub;Veronica De Rosa;veronica.derosa@gmail.com;+542984400055;Project Manager;Ninguno;Otro;Tarde;N/A;C07V0TP4H6H;undefined
+H3;h3-10-klowhub;Jeniree Suarez;jeni20suarez@gmail.com;+541134111909;QA Tester;Python;HTML, Figma, Jira, Postman;Tarde;N/A;C07V0TP4H6H;undefined
+H3;h3-10-klowhub;Camila Eberwein;deydrim.dg@gmail.com;+542923510667;UX/UI;Ninguno;Figma, Adobe Illustrator, Photoshop;Tarde;N/A;C07V0TP4H6H;undefined
+H3;h3-11-openlab;Juan Pablo Molina;juan.molina159@gmail.com;3541375197;Front-End;Javascript;React, HTML, CSS;Noche;N/A;C07UX53PWH4;undefined
+H3;h3-11-openlab;Vladimir Villacres;villacresa@gmail.com;+593995578990;Front-End;Javascript;React, Vue, HTML, CSS, Express, Nest, Next, Django, Postman, Trello;Noche;N/A;C07UX53PWH4;undefined
+H3;h3-11-openlab;Matias Nicolas Acevedo;matias.nicolas.acevedo@gmail.com;+543513221989;Back-End;Java;React, Spring;Noche;N/A;C07UX53PWH4;undefined
+H3;h3-11-openlab;Anibal Elbaum;ing.elbaum@gmail.com;+5493512847586;Back-End;Java;Postman, Spring, React;Noche;N/A;C07UX53PWH4;undefined
+H3;h3-11-openlab;Damian Berrojalvis;d.berrojalvis@gmail.com;+541135492636;Project Manager;Python;Trello, Django, React;Noche;N/A;C07UX53PWH4;undefined
+H3;h3-11-openlab;Ricardo David Minhot;rdminhot@gmail.com;+542214816026;QA Tester;Python;Django, Jira;Noche;N/A;C07UX53PWH4;undefined
+H3;h3-11-openlab;Maria Cintia  Crifo ;cintiacrifo@gmail.com;+5492615062457;UX/UI;Otro;Otro;Noche;N/A;C07UX53PWH4;undefined
+H3;h3-11-openlab;Paula Sancho;pauli.sancho@gmail.com;+5491134548059;UX/UI;Javascript;Figma, Adobe Illustrator, Photoshop, Trello, HTML, CSS;Noche;N/A;C07UX53PWH4;undefined
+H3;h3-12-openlab;Pablo Calderon;pablocdm08@gmail.com;2615993000;Front-End;Javascript;HTML, CSS, Angular, Flask, Django, Vue, Figma;Noche;N/A;C0802DZUQQ1;undefined
+H3;h3-12-openlab;Franco Alex Torrico;francotorrico1999@gmail.com;+541135699913;Back-End;Java;Spring, HTML, CSS, Jira, Postman, Trello, Flask;Noche;N/A;C0802DZUQQ1;undefined
+H3;h3-12-openlab;Miguel Angel Chavez;chavez.miguel.angel154@gmail.com;+541156151222;Back-End;Java;React, Spring, Express, Postman, HTML, CSS, Node;Noche;N/A;C0802DZUQQ1;undefined
+H3;h3-12-openlab;Triana  Devia ;trianadevia@gmail.com;+542615173107;Project Manager;Python;Jira;Noche;N/A;C0802DZUQQ1;undefined
+H3;h3-12-openlab;Lisette Malavé López;liss.malave@gmail.com;+541126575577;QA Tester;Ninguno;Jira, Postman, Trello;Noche;N/A;C0802DZUQQ1;undefined
+H3;h3-12-openlab;Natividad  Romero;romanat94@gmail.com;+5491158704207;UX/UI;Otro;HTML, CSS, Figma, Photoshop, Trello, Miro;Noche;N/A;C0802DZUQQ1;undefined
+H3;h3-12-openlab;Livia  Garrido;liviagarrido7@gmail.com;+5493518030891;UX/UI;Ninguno;Figma, Miro, Jira, Trello;Noche;N/A;C0802DZUQQ1;undefined
+H3;h3-12-openlab;Leandro Matias Saig;saig.matias@gmail.com;+5493518527716;Front-End;Javascript;React, Figma, React Native, HTML, CSS;Full-Time;N/A;C0802DZUQQ1;undefined
+H3;h3-13-openlab;Abel Alejandro Acuña Lasarte;ale_lasarte@hotmail.com;+5493858480489;Front-End;Javascript;React, HTML, CSS, Node, Express, Next;Noche;N/A;C0802E03W7K;undefined
+H3;h3-13-openlab;Bárbara Aylén Espinola;baesp2022@gmail.com;+541162666307;Front-End;Javascript;React;Noche;N/A;C0802E03W7K;undefined
+H3;h3-13-openlab;Cristian Gomez;cristiangomez0686@outlook.com;+543874424798;Back-End;Java;Spring, HTML, React, CSS, Postman, Trello;Noche;N/A;C0802E03W7K;undefined
+H3;h3-13-openlab;José Angel Suarez;angelsuarez2612@gmail.com;+541171382861;Back-End;Java;Spring, Hibernate;Noche;N/A;C0802E03W7K;undefined
+H3;h3-13-openlab;Sara Elizabeth Alcántara Ramos;pmsaraalcantara@gmail.com;+584241658581;Project Manager;PHP;Jira, Trello, Miro, Spring;Noche;N/A;C0802E03W7K;undefined
+H3;h3-13-openlab;Jairo  Sandoval ;jandrad38807@gmail.com;+541169623304;QA Tester;Ninguno;Trello;Noche;N/A;C0802E03W7K;undefined
+H3;h3-13-openlab;Juan Ignacio Lobo;juanignaciolobo97@gmail.com;+541131082286;UX/UI;Javascript;Figma;Noche;N/A;C0802E03W7K;undefined
+H3;h3-13-openlab;Joaquin Peña;joaku_14@hotmail.com;+541136107388;UX/UI;Ninguno;Photoshop, Adobe Illustrator, Figma, Trello, Miro;Noche;N/A;C0802E03W7K;undefined
+H3;h3-14-bookie;Cristian  Cerón;cristian.ceronb@gmail.com;+573158323317;Project Manager;Otro;Miro, Trello, Flutter, Figma;Noche;N/A;C07V0TPLFFX;undefined
+H3;h3-14-bookie;Jose Luis Huanca;zonajl@gmail.com;60023734;Mobile;Dart;Flutter, Node, Express, Figma, Postman, Trello;Noche;N/A;C07V0TPLFFX;undefined
+H3;h3-14-bookie;Jhosep Jesus Orlando Tinta Mancilla;tmjhosep@gmail.com;+59168078308;Mobile;Dart;Flutter, Nest;Noche;N/A;C07V0TPLFFX;undefined
+H3;h3-14-bookie;Daniel Matos;deme12.1@gmail.com;+511 941915290;Back-End;Java;Spring, Postman;Noche;N/A;C07V0TPLFFX;undefined
+H3;h3-14-bookie;Maximiliano Damian  Echeverria;maxiicarp88@gmail.com;+541157642102;Back-End;Java;Spring, Postman, Trello, Hibernate;Noche;N/A;C07V0TPLFFX;undefined
+H3;h3-14-bookie;Sofía Belén Álvarez;sofia15ba@gmail.com;+541160285989;UX/UI;Ninguno;Figma;Noche;N/A;C07V0TPLFFX;undefined
+H3;h3-14-bookie;Valentina Molina Monroy;molinamonroyv@gmail.com;+573204551835;UX/UI;Ninguno;Photoshop, Figma, Adobe Illustrator, Trello, Miro, Otro;Noche;N/A;C07V0TPLFFX;undefined
+H3;h3-14-bookie;Juan Manuel  Ramos Lencina;juanmanuelramoslencina@gmail.com;+541158140195;Front-End;Javascript;React, React Native, HTML, CSS, Node, Next, Trello;Noche;N/A;C07V0TPLFFX;undefined
+H3;h3-15-bookie;Nahuel Rocha;rocha.nahuel@hotmail.com;+542234499769;Back-End;Java;Spring, Hibernate, Postman;Full-Time;N/A;C07V3PN6RMG;undefined
+H3;h3-15-bookie;Santiago Perez Kay;santiagoperezkay88@gmail.com;+543462516761;Back-End;Java;HTML, CSS, Spring, Hibernate, Jira, Postman, Otro, Trello;Full-Time;N/A;C07V3PN6RMG;undefined
+H3;h3-15-bookie;Angie Kelly Becerra Contreras;angie.becerra94@gmail.com;+5531972338647;UX/UI;Ninguno;Figma, Trello, Miro, Jira, Photoshop, Adobe Illustrator;Full-Time;N/A;C07V3PN6RMG;undefined
+H3;h3-15-bookie;Aylén Sol Martel;aylen.s.martel@gmail.com;+541133061765;UX/UI;Javascript;Figma, Adobe Illustrator, Photoshop, Jira, Trello, Miro;Full-Time;N/A;C07V3PN6RMG;undefined
+H3;h3-15-bookie;Angel Salazar Maylle;angel.salazarmaylle@gmail.com;+51925518365;QA Tester;Javascript;Otro;Tarde;N/A;C07V3PN6RMG;undefined
+H3;h3-15-bookie;Luis Manzano;yuiftw05@gmail.com;+50432564101;Front-End;Typescript;React, React Native, HTML, CSS, Node, Express, Next;Full-Time;N/A;C07V3PN6RMG;undefined
+H3;h3-15-bookie;Jose Ignacio Mascherpa;joseimascherpa@gmail.com;+543424236353;Mobile;Typescript;React Native, Android Studio, Express;Full-Time;N/A;C07V3PN6RMG;undefined
+H3;h3-15-bookie;Luis Daniel Reyes López;drdanielreyes5@gmail.com;+50237125071;Mobile;Typescript;React, React Native, HTML, CSS, Django, Laravel, Node;Tarde;N/A;C07V3PN6RMG;undefined
+H3;h3-16-bookie;Facundo Aguero;facundoagueroc@gmail.com;+541154211266;Back-End;Java;Spring;Full-Time;N/A;C07UP7UR7P1;undefined
+H3;h3-16-bookie;Lionel  Staricoff ;staricofflionel@gmail.com;+573234981741;Back-End;Java;Spring, Trello, Jira, Postman, Hibernate, CSS, HTML, Otro;Full-Time;N/A;C07UP7UR7P1;undefined
+H3;h3-16-bookie;Michellangela Jasmin  Sierra Oliveros;michellangelasierra@gmail.com;+541171077783;UX/UI;Javascript;React, CSS, HTML, Next, Jira, Figma;Full-Time;N/A;C07UP7UR7P1;undefined
+H3;h3-16-bookie;Diego Alexander;ad.contacto7@gmail.com;+573012434176;UX/UI;Javascript;Figma;Full-Time;N/A;C07UP7UR7P1;undefined
+H3;h3-16-bookie;Jovahin Abraham  Rivera ;jovahinrivera@gmail.com;5586137242;Front-End;Javascript;Node, Express, HTML, CSS, React, React Native;Full-Time;N/A;C07UP7UR7P1;undefined
+H3;h3-16-bookie;Luis Angel Guzman Salvatierra ;lguzman.58erb@outlook.com;+51959307797;Mobile;Typescript;React Native;Mañana;N/A;C07UP7UR7P1;undefined
+H3;h3-16-bookie;Silvia Cordova;silvia.alinacr@gmail.com;+971521259317;Back-End;Typescript;HTML, CSS, Node, Next, React Native, Trello;Mañana;N/A;C07UP7UR7P1;undefined
+H3;h3-17-proptech;Rodrigo Kohnen;roddericckk@gmail.com;+595986144272;Back-End;C#;.Net;Noche;N/A;C07V0U2NG5T;undefined
+H3;h3-17-proptech;Matías Henríquez;matias.henriquez.dev@gmail.com;+543541241965;Back-End;C#;React, .Net;Noche;N/A;C07V0U2NG5T;undefined
+H3;h3-17-proptech;Matías Quirico;mquirico10@gmail.com;+541168466787;Front-End;Javascript;React, HTML, CSS, Express, Node, Postman, Trello;Noche;N/A;C07V0U2NG5T;undefined
+H3;h3-17-proptech;Angela Barrenechea;angelacba86@gmail.com;+51901691772;Front-End;Javascript;React, CSS, HTML;Noche;N/A;C07V0U2NG5T;undefined
+H3;h3-17-proptech;Roger Parra;parra.roger05@gmail.com;+5491158415399;Project Manager;Otro;Jira, Trello, Miro;Noche;N/A;C07V0U2NG5T;undefined
+H3;h3-17-proptech;Malena De Arriba;dearribamalena@gmail.com;+543816694482;UX/UI;Javascript;Figma;Noche;N/A;C07V0U2NG5T;undefined
+H3;h3-17-proptech;Danitza Alejandra Mora Vitoviz;danitzavitoviz@gmail.com;+573237944244;UX/UI;C#;Figma, HTML, CSS;Noche;N/A;C07V0U2NG5T;undefined
+H3;h3-17-proptech;Juan  Sincich;juansincich@gmail.com;+543518625147;Front-End;Javascript;React;Noche;N/A;C07V0U2NG5T;undefined
+H3;h3-18-proptech;Abel Montes Vega;amontesvega2191@gmail.com;+5491123875637;Back-End;C#;.Net, Angular, HTML, CSS, Postman, Otro, Trello, Miro, Jira;Full-Time;N/A;C07V3M1DDEF;undefined
+H3;h3-18-proptech;Alex Damian Brost;alexdam36@gmail.com;+542262585850;Back-End;C#;CSS, HTML, Hibernate, .Net, Figma, Trello;Full-Time;N/A;C07V3M1DDEF;undefined
+H3;h3-18-proptech;Melina Elizabeth Sanchez;alguien4598@gmail.com;+5493364328535;Front-End;Javascript;React, HTML, CSS, .Net, Figma, Jira, Trello, Miro;Full-Time;N/A;C07V3M1DDEF;undefined
+H3;h3-18-proptech;Angel Añez;angdavid2910@gmail.com;+584246764447;Front-End;Typescript;React, HTML, CSS, Node, Express;Full-Time;N/A;C07V3M1DDEF;undefined
+H3;h3-18-proptech;Natalia Caniza;naticanizatoral@gmail.com;+543876180044;UX/UI;Javascript;Figma;Full-Time;N/A;C07V3M1DDEF;undefined
+H3;h3-18-proptech;Rosvir  Pérez;rosvir16@gmail.com;+584243493620;UX/UI;Ninguno;Figma, Jira, Miro, Trello;Full-Time;N/A;C07V3M1DDEF;undefined
+H3;h3-18-proptech;Emanuel Andrés Capo;emanuel_c400@hotmail.com;+5493516873753;Front-End;Typescript;Angular, .Net;Full-Time;N/A;C07V3M1DDEF;undefined
+H3;h3-18-proptech;Deivison Jimenez;deivi.jimenez@gmail.com;+584141104299;Back-End;C#;Angular, React, HTML, CSS, .Net, Nest, Jira, Postman, Trello, Miro;Mañana;N/A;C07V3M1DDEF;undefined
+H3;h3-19-proptech;Eric Hernández;erhh.015@gmail.com;+522471069835;Back-End;PHP;Laravel;Noche;N/A;C080CHSS7J4;undefined
+H3;h3-19-proptech;Ivan Danilo Gonzalez;ivann-gonzalez@hotmail.com;+5493446638016;Back-End;PHP;React, Laravel;Noche;N/A;C080CHSS7J4;undefined
+H3;h3-19-proptech;Andrés Obando;joseobando30@gmail.com;+593969583316;Front-End;Javascript;React, HTML, CSS;Noche;N/A;C080CHSS7J4;undefined
+H3;h3-19-proptech;Pablo Spector;pablo_spector@hotmail.com;+5493413930534;Front-End;Typescript;React;Noche;N/A;C080CHSS7J4;undefined
+H3;h3-19-proptech;Lucía Belén Pfaff;lupfaff3@gmail.com;+541140373429;UX/UI;Ninguno;Figma, Jira, Trello, Miro, Adobe Illustrator, Photoshop;Noche;N/A;C080CHSS7J4;undefined
+H3;h3-19-proptech;Naomi  Leiva;leivanaomi.b@gmail.com;+543516760032;UX/UI;Javascript;Figma, Jira, Photoshop, Adobe Illustrator;Noche;N/A;C080CHSS7J4;undefined
+H3;h3-19-proptech;Duvan Aponte Ramirez;duvanaponteramirez@gmail.com;+573142011509;Front-End;Javascript;React;Noche;N/A;C080CHSS7J4;undefined
+H3;h3-19-proptech;Orlando  Neris;orlandoneris24@gmail.com;+5493764391393;Back-End;PHP;Otro;Noche;N/A;C080CHSS7J4;undefined
+H3;h3-20-proptech;Johann Mauricio Gaviria Rodriguez;johannmgr@gmail.com;+573044729864;Back-End;Python;Django;Mañana;N/A;C07V0U3194M;undefined
+H3;h3-20-proptech;Juan Novas;juanignacionovas@gmail.com;+5491168897640;Back-End;Python;Django, Trello;Mañana;N/A;C07V0U3194M;undefined
+H3;h3-20-proptech;Jorge Alberto Henriquez Novoa;jorgeahenriqueznovoa@gmail.com;+573004136759;Front-End;Javascript;React, Figma, Django;Mañana;N/A;C07V0U3194M;undefined
+H3;h3-20-proptech;Edivaldo Gomes;edslavianov@gmail.com;+34605558412;Front-End;Javascript;React;Mañana;N/A;C07V0U3194M;undefined
+H3;h3-20-proptech;Rodrigo Ruiz;rodri.br18@gmail.com;+542235912195;UX/UI;Otro;Otro, Miro, Trello, Jira, Photoshop, Adobe Illustrator, Figma;Mañana;N/A;C07V0U3194M;undefined
+H3;h3-20-proptech;Tania Soto;soto_tania@hotmail.com;+5493515943206;UX/UI;Otro;Figma, Adobe Illustrator, Photoshop, Trello, Miro;Mañana;N/A;C07V0U3194M;undefined
+H3;h3-20-proptech;Leon Asturizaga;leonasturizaga@gmail.com;+5491124020248;Front-End;Java;React, Spring;Mañana;N/A;C07V0U3194M;undefined
+H3;h3-20-proptech;Angie Vanegas;arco527@gmail.com;+573052761383;Back-End;Python;Flask;Mañana;N/A;C07V0U3194M;undefined
+H3;h3-21-proptech;Rafael Gauna;rafaelgauna123@gmail.com;+543735479602;Back-End;Python;Django, Otro, Postman, Miro, Trello;Mañana;N/A;C07V3M1MLCT;undefined
+H3;h3-21-proptech;Gerardo Carrizo;gerardo.carrizo123.gc@gmail.com;+542614719903;Back-End;Python;Postman, Django;Mañana;N/A;C07V3M1MLCT;undefined
+H3;h3-21-proptech;Micaela  Donatti;mdonattiprogramacion@gmail.com;+541164609581;Front-End;Javascript;React, HTML, CSS;Mañana;N/A;C07V3M1MLCT;undefined
+H3;h3-21-proptech;Anthony Mendoza Serrano;goodfriend_18@hotmail.com;+51993902027;Front-End;Javascript;React, Trello, HTML, CSS, Node, Postman;Mañana;N/A;C07V3M1MLCT;undefined
+H3;h3-21-proptech;Antonella Staffolani;antostaffolani@gmail.com;+543816202829;UX/UI;Ninguno;Photoshop, Adobe Illustrator, Figma, Miro, Trello, Jira;Mañana;N/A;C07V3M1MLCT;undefined
+H3;h3-21-proptech;Cristian  Dal Piva;cristiandalpiva@hotmail.com;+542995282169;UX/UI;Javascript;HTML, CSS, Figma, Trello, Miro;Mañana;N/A;C07V3M1MLCT;undefined
+H3;h3-21-proptech;David Nazariego;dnazariego@gmail.com;+56964040431;Front-End;Javascript;React, HTML, CSS, Flask, Node, Figma, Trello, Jira;Mañana;N/A;C07V3M1MLCT;undefined
+H3;h3-21-proptech;Anthony Parra;antho7294@gmail.com;+573187994120;Back-End;Java;Spring;Mañana;N/A;C07V3M1MLCT;undefined
+H3;h3-22-proptech;Jaime  Diaz;jjd21017@gmail.com;3012092269;Back-End;Java;Spring, Hibernate, Postman;Tarde;N/A;C07V3PNS75Y;undefined
+H3;h3-22-proptech;Exequiel Baez;exequielbaez@gmail.com;+5493512474193;Back-End;Java;Spring, Hibernate;Tarde;N/A;C07V3PNS75Y;undefined
+H3;h3-22-proptech;Mateo Ahumada;brandonahumada804@gmail.com;+543825417601;Front-End;Typescript;React, HTML, CSS, Trello;Tarde;N/A;C07V3PNS75Y;undefined
+H3;h3-22-proptech;Ariel Fabian Martinez;arielstereo@msn.com;1126922128;Front-End;Javascript;React;Tarde;N/A;C07V3PNS75Y;undefined
+H3;h3-22-proptech;Sasha Sawosz;sashasawosz@hotmail.com;+541133446897;UX/UI;Javascript;Figma, Jira, Trello, Miro;Tarde;N/A;C07V3PNS75Y;undefined
+H3;h3-22-proptech;Lucía Florencia Gangi;luciafgangi@hotmail.com;+5493512692607;UX/UI;Javascript;Figma, Photoshop, Adobe Illustrator, Jira;Tarde;N/A;C07V3PNS75Y;undefined
+H3;h3-22-proptech;Ariadna  Vazquez;ariadna.dalleth.vazquez@gmail.com;2311304565;Front-End;Javascript;Figma, Adobe Illustrator, Jira, Postman, Trello, Laravel, Node, Angular, HTML, CSS;Tarde;N/A;C07V3PNS75Y;undefined
+H3;h3-22-proptech;Eder Romero Marcas;ederromero32@gmail.com;+51946502602;Back-End;Java;Spring, Postman;Tarde;N/A;C07V3PNS75Y;undefined
+H3;h3-23-proptech;Leonel Omar Amaya Mejía;omar.mejia2099@gmail.com;+573172166152;Back-End;Java;Spring, Hibernate, Postman;Tarde;N/A;C07UX5MADL6;undefined
+H3;h3-23-proptech;Fabian Manrique;fabianmanrique10@gmail.com;+573197736573;Back-End;Java;Spring;Tarde;N/A;C07UX5MADL6;undefined
+H3;h3-23-proptech;Diego  Romero ;diegoromero.dr021@gmail.com;+541135749312;Front-End;Javascript;Angular;Tarde;N/A;C07UX5MADL6;undefined
+H3;h3-23-proptech;Valeria  Preciado ;preciadovaleriam@gmail.com;+523151079921;Front-End;Javascript;React, Node, HTML, CSS;Tarde;N/A;C07UX5MADL6;undefined
+H3;h3-23-proptech;Rocio Claus;rocioclaus@gmail.com;+541135562388;UX/UI;Ninguno;Figma, Trello, Miro;Tarde;N/A;C07UX5MADL6;undefined
+H3;h3-23-proptech;Brenda Comas;brendacomasok@gmail.com;+543455226513;UX/UI;Ninguno;Figma, Photoshop, Adobe Illustrator, Trello, Jira, HTML, CSS;Tarde;N/A;C07UX5MADL6;undefined
+H3;h3-23-proptech;Alvaro Amestoy;alvaroamestoycontact@gmail.com;+59892894864;Front-End;Javascript;React;Mañana;N/A;C07UX5MADL6;undefined
+H3;h3-23-proptech;Juan Antonio Ruiz Hernandez;jaruiz721818@gmail.com;+525633000064;Back-End;Java;Spring, Postman;Tarde;N/A;C07UX5MADL6;undefined
+H3;h3-24-proptech;Diego Cristian Alfredo Veras;verasdiegoca78@gmail.com;+5491124864548;Back-End;Java;React;Full-Time;N/A;C080CHWR22U;undefined
+H3;h3-24-proptech;Catriel Escobar;catriellescobar@gmail.com;+541122529360;Back-End;Java;Spring;Full-Time;N/A;C080CHWR22U;undefined
+H3;h3-24-proptech;Alejandro Serrano Herrera;alejandro_0793@hotmail.com;+527461064677;Front-End;Javascript;React, HTML, CSS, Node, Express, Next, Figma, Jira, Postman, Trello;Full-Time;N/A;C080CHWR22U;undefined
+H3;h3-24-proptech;Veronica Bravo;verobravo112012@gmail.com;+541164469434;Front-End;Javascript;React, HTML, CSS, Node, Jira, Postman, Trello, Miro;Full-Time;N/A;C080CHWR22U;undefined
+H3;h3-24-proptech;Federico Merediz;fedemerediz@hotmail.com;+5493416542886;UX/UI;Javascript;Figma, Adobe Illustrator, Photoshop, Trello;Full-Time;N/A;C080CHWR22U;undefined
+H3;h3-24-proptech;Santiago Vergara;santiagoo.vergaraa@gmail.com;+541130867285;UX/UI;Ninguno;Figma, Adobe Illustrator, Photoshop, Trello, Miro;Mañana;N/A;C080CHWR22U;undefined
+H3;h3-24-proptech;Lissbeth  Escobar;lissbethescobar09@gmail.com;+50377423686;Front-End;Javascript;HTML, CSS, React, Next, Node, Express;Full-Time;N/A;C080CHWR22U;undefined
+H3;h3-24-proptech;Ricardo Nicolás Canul Ibarra;ricardoibarra2044@gmail.com;9996477603;Back-End;Java;Spring, Hibernate;Full-Time;N/A;C080CHWR22U;undefined
+H3;h3-25-proptech;Ricardo  Tolomei;ricardoandrestolomei@gmail.com;+541159881970;Back-End;Java;Spring, Hibernate, Postman, Trello, Jira, HTML, CSS, React, Figma;Noche;N/A;C0802EHGNAV;undefined
+H3;h3-25-proptech;Christian Ivan Cachero;christian.ivan.cachero@gmail.com;011 4064-2458;Back-End;Java;Spring, Hibernate, HTML, CSS, Otro;Noche;N/A;C0802EHGNAV;undefined
+H3;h3-25-proptech;Santiago Gonzalez;santigonzalez.dev@gmail.com;+543513230089;Front-End;Typescript;React;Noche;N/A;C0802EHGNAV;undefined
+H3;h3-25-proptech;Agustin Prato;agustinprato56@gmail.com;+584247057146;Front-End;Javascript;HTML, CSS, Vue, Trello;Noche;N/A;C0802EHGNAV;undefined
+H3;h3-25-proptech;Christian Rodríguez Kase;christian.kase@hotmail.com;+541133200768;UX/UI;Ninguno;Figma, Adobe Illustrator, Photoshop, Miro;Noche;N/A;C0802EHGNAV;undefined
+H3;h3-25-proptech;Lizeth Natalia  Velasco Uribe ;lizethvelasco.20@gmail.com;+573150014415;UX/UI;Python;Figma;Noche;N/A;C0802EHGNAV;undefined
+H3;h3-25-proptech;Fabio Roldan;fabiocroldan@gmail.com;+542494543416;Front-End;Javascript;React, HTML, CSS, Next, Node, Express, Nest;Noche;N/A;C0802EHGNAV;undefined
+H3;h3-25-proptech;Christian Arias;chrisday2009@hotmail.com;+573218757793;Back-End;Java;Spring, HTML, Jira, Hibernate, Trello, CSS, Otro;Noche;N/A;C0802EHGNAV;undefined
+H3;h3-26-proptech;Ezequiel Alejandro Guzman;ezealeguzman@gmail.com;+5491155845764;Back-End;Python;Django, React Native, HTML, CSS, Angular, Flask, .Net, Postman;Noche;N/A;C07UP7Z8RN3;undefined
+H3;h3-26-proptech;Felix Pacheco;pachecolobos.felix@gmail.com;+56963546825;Back-End;Python;Flask, Django, React, Postman, Trello;Noche;N/A;C07UP7Z8RN3;undefined
+H3;h3-26-proptech;Max  Cereceda;cereceda1991@gmail.com;+51931141140;Front-End;Javascript;React, CSS, HTML, Node, Express, Nest, Next, Figma;Noche;N/A;C07UP7Z8RN3;undefined
+H3;h3-26-proptech;Noé  Hernández ;evilld94@gmail.com;60474702;Front-End;Typescript;React Native, React;Noche;N/A;C07UP7Z8RN3;undefined
+H3;h3-26-proptech;Aldo Miranda;aldo.mmm@hotmail.com;+525527478171;UX/UI;Ninguno;HTML, Figma, Adobe Illustrator, Photoshop, Trello, CSS;Tarde;N/A;C07UP7Z8RN3;undefined
+H3;h3-26-proptech;Mariano Poulsen;marianopoulsen93@gmail.com;+542634537907;UX/UI;Javascript;HTML, CSS;Tarde;N/A;C07UP7Z8RN3;undefined
+H3;h3-26-proptech;German Gatica;gergati1994@gmail.com;+542915051269;Front-End;Javascript;React, HTML, CSS, Next, Express, Node;Noche;N/A;C07UP7Z8RN3;undefined
+H3;h3-26-proptech;Juan Fernández;fernandezjuanjc@gmail.com;+584249612324;Back-End;Python;HTML;Noche;N/A;C07UP7Z8RN3;undefined
+H3;h3-teamleaders;Diego Tuesta;diego.productividad@gmail.com;+51950968012;Team Leader;undefined;undefined;Tarde;N/A;undefined;undefined
+H3;h3-teamleaders;Gloria Nabor;inkantador@gmail.com;+525522014025;Team Leader;undefined;undefined;Full-Time;N/A;undefined;undefined
+H3;h3-teamleaders;Luz Frere;freremarialuz@gmail.com;+5491157665414;Team Leader;undefined;undefined;Mañana;N/A;undefined;undefined
+H3;h3-teamleaders;Rodrigo Cordoneda Bojanich;rodrigocordoneda@gmail.com;+56938860492;Team Leader;undefined;undefined;Noche;N/A;undefined;undefined
+H3;h3-teamleaders;Marcelo  Peralta ;cheloperalta22@gmail.com;+542616325753;Team Leader;undefined;undefined;Tarde;N/A;undefined;undefined
+H3;h3-teamleaders;Elisa Luna;esimpatica2013@gmail.com;+541176529298;Team Leader;undefined;undefined;Noche;N/A;undefined;undefined
+H3;h3-teamleaders;Lorena Sartori;charata.01@gmail.com;+543512066768;Team Leader;undefined;undefined;Tarde;N/A;undefined;undefined
+H3;h3-teamleaders;Matias  Badano;matiasss95@gmail.com;+542324674325;Team Leader;undefined;undefined;Full-Time;N/A;undefined;undefined
+H3;h3-teamleaders;Estefanía Ochoa Henao;estefaniaochoah@gmail.com;+573002671340;Team Leader;undefined;undefined;Tarde;N/A;undefined;undefined
+H3;h3-teamleaders;José  Contreras ;joselbcontreras@gmail.com;+541168523358;Team Leader;undefined;undefined;Noche;N/A;undefined;undefined
+H3;h3-teamleaders;Maria Cristina  Gutierrez;mcgargentina@gmail.com;+541132560068;Team Leader;undefined;undefined;Noche;N/A;undefined;undefined
+H3;h3-teamleaders;Fernando  Martinez;martinezfenix99@gmail.com;+541168632863;Team Leader;undefined;undefined;Tarde;N/A;undefined;undefined
+H3;h3-teamleaders;Leonardo  Cortes;gleonardo.cortes@gmail.com;+573152877177;Team Leader;undefined;undefined;Noche;N/A;undefined;undefined
+H3;h3-teamleaders;Walter Mersing;mersingwalter@gmail.com;+5492914361705;Team Leader;undefined;undefined;Tarde;N/A;undefined;undefined
+H3;h3-teamleaders;Victor Zegarra;retromantis@hotmail.com;+51985352085;Team Leader;undefined;undefined;Full-Time;N/A;undefined;undefined

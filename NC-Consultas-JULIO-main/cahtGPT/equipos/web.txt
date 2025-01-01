@@ -1,0 +1,67 @@
+from itertools import count
+
+# Función para crear los equipos según las especificaciones
+def crear_equipos(data):
+    # Preparar el DataFrame para agrupar y contar
+    equipos = []
+    team_id_counter = count(1)
+    
+    # Agrupar por disponibilidad
+    for dispo, group in data.groupby('dispo'):
+        # Agrupar por área y stack dentro de cada disponibilidad
+        grouped = group.groupby(['Area', 'Stack'])
+        
+        # Buffers para cada tipo de rol dentro del equipo
+        backend = []
+        frontend = []
+        managers = []
+        designers = []
+        testers = []
+        
+        # Distribuir miembros en los buffers respectivos
+        for (area, stack), members in grouped:
+            if area == 'Back-End':
+                backend.extend((team_id_counter, member) for member in members.itertuples())
+            elif area == 'Front-End':
+                frontend.extend((team_id_counter, member) for member in members.itertuples())
+            elif area == 'Project Manager':
+                managers.extend((team_id_counter, member) for member in members.itertuples())
+            elif area == 'UX/UI':
+                designers.extend((team_id_counter, member) for member in members.itertuples())
+            elif area == 'QA Tester':
+                testers.extend((team_id_counter, member) for member in members.itertuples())
+
+        # Crear equipos manteniendo el balance de roles
+        while backend or frontend or managers or designers or testers:
+            team = []
+            team_number = next(team_id_counter)
+            
+            # Asignar miembros al equipo desde cada buffer
+            team.extend(backend[:5])
+            del backend[:5]
+            team.extend(frontend[:5])
+            del frontend[:5]
+            team.extend(managers[:1])
+            del managers[:1]
+            team.extend(designers[:1])
+            del designers[:1]
+            team.extend(testers[:1])
+            del testers[:1]
+            
+            # Agregar el equipo completo a la lista de equipos
+            for _, member in team:
+                equipos.append({
+                    'numero de equipo': team_number,
+                    'Email': member.Email,
+                    'Area': member.Area,
+                    'Stack': member.Stack,
+                    'Disponibilidad': member.dispo
+                })
+
+    return pd.DataFrame(equipos)
+
+# Crear los equipos
+equipos_df = crear_equipos(data)
+
+# Mostrar la cantidad de equipos y los primeros registros del DataFrame final
+equipos_df.info(), equipos_df.head(20)

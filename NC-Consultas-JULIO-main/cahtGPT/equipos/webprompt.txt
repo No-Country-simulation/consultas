@@ -1,0 +1,7 @@
+puedes comportarte como un analista de datos con experiencia y programador, me gustaria crear equipos a partir de un archivo webapp.xlsx. La idea es crear equipos de 13, el equipo debe tener las areas variadas. El archivo tiene una columna Email, una columa lenguaje, Area donde dice en que trabaja el participante, stack que utiliza,  y una columna disponibilidad. Quiero que las personas esten agrupadas por la misma disponibilidad.
+Las distintas areas son Front-End, Back-End, Project Manager, UX/UI, QA Tester y la intencion es que en cada equipo tenga la misma proporcion en lo posible de las distintas areas.
+Los equipos deben estar conformados por hasta 5 back-end, 5 front-end, 1 UX/UI, 1 QA Tester y 1 Project Manager.
+Los Back-End de cada equipo deberan tener el mismo stack entre si.
+Los Front-End de cada equipo deberan tener el mismo stack entre si.
+Los Back-End pueden variar del Front-End
+Me gustaria que me devuelvas el procesamiento en un csv separado por ; con las columnas numero de equipo (autoincremental por equipo que agrupe a cada equipo ), Email, Area, stack, Disponibilidad

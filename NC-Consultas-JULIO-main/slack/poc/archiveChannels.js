@@ -1,0 +1,130 @@
+const canales = [
+  //   "C07P1MK6AAK",
+  //   "C07P1MK6W07",
+  "C07P1MKAX5M",
+  "C07P1MLPWG7",
+  "C07P1MLS42K",
+  "C07P1MLSPGF",
+  "C07P1MLT7EK",
+  "C07P1MM1YAK",
+  "C07P1MMT18X",
+  "C07P1MN34R5",
+  "C07P9K4R4TG",
+  "C07P9K9MAFQ",
+  "C07P9K9RNMC",
+  "C07P9KCSEFQ",
+  "C07P9KE6KUN",
+  "C07P9KE76JJ",
+  "C07P9KFCLPQ",
+  "C07P9KFGJ0N",
+  "C07P9KFQLAJ",
+  "C07P9KHDSHL",
+  "C07PDC8122H",
+  "C07PDC82W5T",
+  "C07PDC8880M",
+  "C07PDCCK3D3",
+  "C07PDCCQLG5",
+  "C07PDCDFG85",
+  "C07PDCDJBD3",
+  "C07PDCDPD9T",
+  "C07PDCDPX1T",
+  "C07PDCFNW6R",
+  "C07PG5H26EP",
+  "C07PG5H4YE7",
+  "C07PG5H5M8T",
+  "C07PG5H672P",
+  "C07PG5J9YHZ",
+  "C07PG5JD0CB",
+  "C07PG5JDHS7",
+  "C07PG5JE119",
+  "C07PG5JG9R9",
+  "C07PG5JHC3V",
+  "C07PG5JKHQT",
+  "C07PG5KCKNX",
+  "C07PG5KGNDR",
+  "C07PG5KQVGT",
+  "C07PG5KUQEP",
+  "C07PG5LP9BM",
+  "C07PG5LPS9H",
+  "C07PG84H3GA",
+  "C07PG84L0QJ",
+  "C07PG87GS9G",
+  "C07PG87L5PC",
+  "C07PG88TE3U",
+  "C07PG88VCBU",
+  "C07PG897H98",
+  "C07PG89A2TU",
+  "C07PG8A0KR8",
+  "C07PG8A316W",
+  "C07PG8AEEGJ",
+  "C07PG8AEYSE",
+  "C07PG8BBNBU",
+  "C07PG8BCVFC",
+  "C07PJNUT43E",
+  "C07PJNUUEG4",
+  "C07PJNV1E68",
+  "C07PJNV4CRJ",
+  "C07PJNXSEMS",
+  "C07PJNXU97W",
+  "C07PJNY3ATE",
+  "C07PJNY3V2Q",
+  "C07PJNY79PW",
+  "C07PJP0BJ84",
+  "C07PJP0FLR2",
+  "C07PJP0L344",
+  "C07PJP0M55J",
+  "C07PJP0RYSG",
+  "C07PJP1N4R2",
+  "C07PUU7033K",
+  "C07PUU74VQR",
+  "C07PUUA3ED7",
+  "C07PUUBK5JM",
+  "C07PUUBQJ57",
+  "C07PUUCHC0H",
+  "C07PUUCL63T",
+  "C07PUUCTSF3",
+  "C07PUUDT81X",
+  "C07Q525C6AC",
+  "C07Q525EJ48",
+  "C07Q525G8M6",
+  "C07Q528B856",
+  "C07Q528HF40",
+  "C07Q528J14G",
+  "C07Q528K480",
+  "C07Q529R87J",
+  "C07Q52A2GSC",
+  "C07Q52A2YU8",
+  "C07Q52A4Y9W",
+  "C07Q52AQG8G",
+  "C07Q52AV1TJ",
+  "C07Q52B3GGY",
+  "C07Q52B429W",
+  "C07Q52B4MEC",
+  "C07Q52B542C",
+  "C07Q52B79FA",
+  "C07Q52B9FA4",
+];
+
+const { WebClient } = require("@slack/web-api");
+const dotenv = require("dotenv");
+dotenv.config();
+// Your OAuth token
+const token = process.env.TOKEN_NC_SLACK;
+const web = new WebClient(token);
+const fs = require("fs");
+async function archive() {
+  try {
+    for (const canal of canales) {
+      const result = await web.conversations.archive({
+        channel: canal,
+      });
+
+      console.log(result.ok + " " + canal);
+      //   return;
+    }
+  } catch (error) {
+    console.error(error);
+  }
+}
+
+archive();

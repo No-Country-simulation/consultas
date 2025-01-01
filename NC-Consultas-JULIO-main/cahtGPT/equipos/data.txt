@@ -1,0 +1,56 @@
+import pandas as pd
+
+# Load the uploaded Excel file
+data_path = "/mnt/data/Data.xlsx"
+data = pd.read_excel(data_path)
+
+# Display the first few rows of the dataframe to understand its structure
+data.head()
+
+
+
+
+/////////////
+
+
+from collections import defaultdict
+import numpy as np
+
+# Function to split into teams of up to 10 members
+def create_teams(data, max_team_size=10):
+    # Sort data by availability and area for uniform distribution
+    sorted_data = data.sort_values(by=["disponibilidad", "Area"])
+    
+    # Initialize variables
+    teams = defaultdict(list)
+    team_counter = 1
+    
+    # Group by availability
+    for availability, group in sorted_data.groupby("disponibilidad"):
+        # Shuffle group to randomize team assignments while respecting area distribution
+        group = group.sample(frac=1).reset_index(drop=True)
+        
+        # Split into teams
+        num_teams = int(np.ceil(len(group) / max_team_size))
+        for i in range(num_teams):
+            start_index = i * max_team_size
+            end_index = min((i + 1) * max_team_size, len(group))
+            teams[team_counter] = group.loc[start_index:end_index-1]
+            teams[team_counter]['Número de equipo'] = team_counter
+            team_counter += 1
+
+    # Concatenate all team dataframes
+    result = pd.concat(teams.values())
+    return result
+
+# Apply function to create teams
+team_data = create_teams(data)
+
+# Reorder columns and sort by team number
+team_data = team_data[['Número de equipo', 'Email', 'Area', 'disponibilidad']]
+
+# Save to CSV
+output_csv_path = "/mnt/data/Team_Assignment.csv"
+team_data.to_csv(output_csv_path, index=False, sep=';')
+
+team_data.head(), output_csv_path

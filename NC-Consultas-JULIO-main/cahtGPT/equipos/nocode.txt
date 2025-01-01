@@ -1,0 +1,55 @@
+import pandas as pd
+from itertools import count
+
+def formar_equipos_ajustado(data):
+    # Agrupar por disponibilidad
+    grouped = data.groupby('disponibilidad')
+    team_counter = count(1)  # Contador para los números de equipo
+    teams = []
+
+    # Iterar sobre cada grupo de disponibilidad
+    for _, group in grouped:
+        # Asegurar que cada equipo tenga al menos un Desarrollo y un Design
+        desarrollo = group[group['Area'] == 'Desarrollo']
+        design = group[group['Area'] == 'Design']
+        otros = group[~group['Area'].isin(['Desarrollo', 'Design'])]
+
+        # Mezclar los DataFrame para evitar patrones de selección
+        desarrollo = desarrollo.sample(frac=1).reset_index(drop=True)
+        design = design.sample(frac=1).reset_index(drop=True)
+        otros = otros.sample(frac=1).reset_index(drop=True)
+
+        # Crear equipos mientras haya al menos un Desarrollo y un Design disponible
+        i = j = 0
+        while i < len(desarrollo) and j < len(design):
+            current_team_number = next(team_counter)  # Número de equipo actual
+            team_size = 2  # Inicialmente incluye 1 Desarrollo y 1 Design
+            team = [desarrollo.iloc[i], design.iloc[j]]
+            i += 1
+            j += 1
+
+            # Añadir otros miembros hasta completar el equipo de 6 o hasta que no haya más miembros disponibles
+            while team_size < 6 and len(otros) > 0:
+                team.append(otros.iloc[0])
+                otros = otros.iloc[1:]
+                team_size += 1
+
+            # Asignar número de equipo y guardar el equipo
+            for member in team:
+                member['Número de equipo'] = current_team_number
+                teams.append(member)
+
+    # Crear un DataFrame con todos los equipos formados
+    teams_df = pd.DataFrame(teams)
+    return teams_df[['Número de equipo', 'Email', 'Area', 'disponibilidad']]
+
+# Cargar los datos
+data_path = '/path/to/your/data.xlsx'
+data = pd.read_excel(data_path)
+
+# Formar los equipos ajustados
+adjusted_teams_df = formar_equipos_ajustado(data)
+
+# Exportar a CSV
+output_path = '/path/to/your/output.csv'
+adjusted_teams_df.to_csv(output_path, sep=';', index=False)

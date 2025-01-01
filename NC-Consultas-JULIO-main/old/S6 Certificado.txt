@@ -1,0 +1,148 @@
+Fullname;Email;Filtro;Area;stack;lag
+Omar Lestrade Zapata;omarlestradez@gmail.com;true;Front-End;React;Javascript
+Julian  Perna;julianperna@gmail.com;true;Front-End;React;Javascript
+Alexis  Estrada ;trab.proyec.alex@gmail.com;true;Front-End;Angular;Typescript
+Jose Manuel Ugalde Borbolla;jmugaldeb@gmail.com;true;Back-End;.Net;C#
+Luciano Olmedo;lucianonicolasolmedo@gmail.com;true;Front-End;React;Javascript
+Maximiliano Miño;maximiliano.mino323@gmail.com;true;Front-End;React;Typescript
+Yohan Olmedo Bello Trejos;yohanwebdev@gmail.com;true;Back-End;Node;Javascript
+Natali Leones;naleonesaguiar@gmail.com;true;Design;figma - trello - photoshop - ilustrator - highub - git;Ninguna de estas
+Yamila Gisele Paez;yamilapaez2@hotmail.com;true;DevOps;Github actions, aws, heroku, React;Typescript
+Noelia Canabal;ndcc93@gmail.com;true;Design;Figma;Ninguna de estas
+Carlos Diaz;carlosprivate0000@gmail.com;true;Back-End;Express;Javascript
+Raphael Richardson;raphael.richardson@gmail.com;true;Mobile;React Native;Javascript
+Marcos Exequiel  Britos;marcos97britos@gmail.com;true;Mobile;React Native;Javascript
+Sergio Oscar Calbiño;serggio.c86@gmail.com;true;Front-End;React;Javascript
+Yenifer  Ramirez;yeniferramirez11@gmail.com;true;Front-End;Vue;Javascript
+Rivers Emmanuel  Morales Salazar ;rivers.morales@uppuebla.edu.mx;true;PM;Trello, slack;Ninguna de estas
+Julia Lopez;juliailopez90@gmail.com;true;No Code;Bubble;Ninguna de estas
+Diana Zambrano;zambrano.84.d@gmail.com;true;Design;Figma, Marvel, Photoshop, Whimsical, Optimal Workshop;Ninguna de estas
+Alejandro Wogelman;alehellamn@gmail.com;true;Front-End;React;Javascript
+Ivan Belasich;ivanbelasich@gmail.com;true;Front-End;React;Javascript
+Francisco Rey;reyfrancisco98@hotmail.com;true;Mobile;React Native;Javascript
+Leonardo Dávalos;davaloslm@hotmail.com.ar;true;Back-End;Ninguna de estas;Java
+Walter Daniel Huaynapata Aguilar;dyangeltk17@gmail.com;true;Front-End;Vue;Javascript
+Javier Morón ;requin883@gmail.com;true;Front-End;React;Typescript
+Maximiliano Palermo;maxi.palermo.racing@gmail.com;true;Mobile;Xamarin;C#
+Martín Kun;martinkunbrc@hotmail.com;true;Front-End;React;Javascript
+Jonathan Poblet;jonathanpoblet@hotmail.com;true;Front-End;React;Typescript
+Larry Aguilera;larrydaguilera@gmail.com;true;PM;Spring Boot, git, Java, Spring Security;Ninguna de estas
+Kevin Grassi;kevinb45@gmail.com;true;Design;Figma;Ninguna de estas
+Matias Cañadas ;hotbones22@gmail.com;true;PM;Agiles - Scrum;Ninguna de estas
+Sergio Peralta;seperalta88@gmail.com;true;Front-End;Vue;Typescript
+Pablo Zalazar;pablo_zalazar@outlook.com;true;Front-End;React;Typescript
+Nicolas Smael;nico.smael@gmail.com;true;Front-End;React;Typescript
+Antoni Quispealaya ;quispealaya73@gmail.com;true;Front-End;Nextjs;Typescript
+Andrea Cacciatore;andrecacciatore@gmail.com;true;Design;Figma, Miro, Trello, Optimal Workshop;Ninguna de estas
+Alan Fránquez;santifranquez@gmail.com;true;Design;Photoshop, Illustrator, Figma;Ninguna de estas
+Alicia Zuliani;luzul2424@gmail.com;true;PM;ClickUp - Notion ;Ninguna de estas
+Luis Fernando Tapia Rodríguez;luisfer.tp07@gmail.com;true;No Code;Bubble;Ninguna de estas
+Emanuel Capo;emanuel_c400@hotmail.com;true;Front-End;React;Javascript
+Maitén  Cullen;cullen.maiten@gmail.com;true;Front-End;React;Javascript
+Cintia Jimena Martinez;93katu@gmail.com;true;Front-End;React;Javascript
+Santiago Basualdo;santiagocortez1973@gmail.com;true;Design;Figma, FigJam, Miro, Canva, Maze y Optimal Workshop;Ninguna de estas
+Micaela  Andres;micaailenandres@gmail.com;true;Design;Figma;Ninguna de estas
+Francisco Santos;franciscosantosaraoz2000@gmail.com;true;Front-End;React;Javascript
+Jhonny Calvo;calvorondon@gmail.com;true;Back-End;Express;Javascript
+Miguel Vera;miguelverap01@gmail.com;true;Back-End;Express;Javascript
+Sebastián  Barcia ;sebastianbarcia@hotmail.com;true;Front-End;React;Javascript
+Exequiel  Robles Vega;diindustrial01@gmail.com;true;Design;figma;Ninguna de estas
+Agustin Galvan;agustingalvan02@gmail.com;true;Front-End;React;Javascript
+Miguel Guerrero;yannokaiserfrom@gmail.com;true;Back-End;Node;Javascript
+Yhanahi Rosenthal;yhanai@hotmail.com;true;Front-End;React;Javascript
+Lucas Gonzalez;lucass2205@gmail.com;true;Back-End;Spring;Java
+Emiliano Pérez;emi.esp86@gmail.com;true;Front-End;React;Javascript
+Leonel Pérez;leonelperez.b23@gmail.com;true;Front-End;Angular;Javascript
+Sebastian Cuendias;sebastiancuendias@hotmail.com;true;Design;Figma;Ninguna de estas
+José Francisco Zelaya;zzpanch@gmail.com;true;Front-End;React;Javascript
+Andrés Burbano;andres.burbano.dev@gmail.com;true;Front-End;React;Javascript
+Nicolás Gutiérrez;gutierrezalexisnicolas@gmail.com;true;Front-End;React;Javascript
+Kimberlly  Barraza ;kimbarraza27@duck.com;true;Back-End;Express;Javascript
+Emilce Fernández ;emilcemfernandez@gmail.com;true;Design;Figma, Ilustrator, Photoshop ;Ninguna de estas
+Emiliano Ivaldi;emiliano.ivaldi@outlook.com;true;No Code;ninguna de estas;Ninguna de estas
+Rafael León;leonr2701@gmail.com;true;Front-End;React;Javascript
+Valentina Ryng;ramosryngvalen@gmail.com;true;Tester;Jira, Postman, Trello, Excel, MySQL;Ninguna de estas
+Melany Daiana  Ressler;meelressler1999@gmail.com;true;Front-End;React;Javascript
+Fausto Centurión;faustogc1997@gmail.com;true;Tester;Jira, Postman;Ninguna de estas
+Andres Felipe  Padilla Mantilla ;andres.felipe.padilla.ma@gmail.com;true;Back-End;Node;Javascript
+Rodrigo Salinas;ras123gg@gmail.com;true;Back-End;Spring;Java
+Lucas Ariel López Delgado;lucaslopezd@hotmail.com;true;Back-End;Spring;Java
+Sofía Munno ;sofiamunno3@gmail.com;true;Design;Figma;Ninguna de estas
+Fredy Alberto Varon Guzman;fredyalberbaron@hotmail.com;true;Back-End;Node;Typescript
+Andrea Ceballos Alcaraz;andrealcaraz004@gmail.com;true;Tester;Java, Jira, Bases de datos;Java
+Mateo Del Campillo;mateodelcampillo01@gmail.com;true;Back-End;Fiber, MongoDB;GO
+Edinson  Meneses;edison.jm26dev@gmail.com;true;Back-End;.Net;C#
+Gabriel Mancilla Ducuara;gabrielmancilladucuara@gmail.com;true;Back-End;Node;Javascript
+Hugo Vera Garcia;hugo.vera.garcia@gmail.com;true;Back-End;Node;Javascript
+Pedro Nicolas Bordon;nbordon91@gmail.com;true;Back-End;Node;Javascript
+Juan Manuel Fernández;juanm.fernandez@hotmail.com;true;Back-End;Express;Typescript
+Ramiro Jiménez ;ramirojs2099@gmail.com;true;Design;Figma;Ninguna de estas
+Luciano Cerullo;lucianonicolas10@gmail.com;true;Front-End;React;Javascript
+Celeste Reinaudo;celestereinaudo@yahoo.com.ar;true;Back-End;Flask;Python
+Diego Guzmán;guzman.diego@outlook.com.ar;true;Front-End;React;Javascript
+Fabian Romano;fabian.ed.romano@gmail.com;true;Front-End;React;Javascript
+Miguel Bazzarelli;ebazzarelli@gmail.com;true;Back-End;Node;Javascript
+Orlando Flores;lalomax365@gmail.com;true;Front-End;React;Javascript
+Adrian Centurion;adrianmcenturion@gmail.com;true;Front-End;React;Javascript
+Mayder David Cortés;cortesdavid381@gmail.com;true;Front-End;Vue;Typescript
+Justo Ricci;riccijusto@hotmail.com;true;Design;Figma, adobe illustrator, photoshop;Javascript
+Federico Santoro;federicogabsantoro@gmail.com;true;Front-End;React;Javascript
+Leandro Vizgarra;leandro.elias.vizgarra@gmail.com;true;Back-End;Spring;Java
+Maite Guadalupe Mejia;maite_1humano@outlook.es;true;Back-End;Spring;Java
+Nahuel Barreto;nahuelbarreto54@gmail.com;true;Front-End;React;Javascript
+Ignacio Perez;ignacio.perez.jobs@gmail.com;true;Front-End;React;Javascript
+Jared Mejia;jaredmejia4440@gmail.com;true;Back-End;Express;Typescript
+Fernando Marina;fernando.m.marina@gmail.com;true;Back-End;Spring;Java
+Carlos  Huane;carloshuanesarmiento@gmail.com;true;Mobile;React Native;Javascript
+Jesús Eduardo Quintero Carmona;quinterojd@yahoo.com;true;Tester;Jira-xray, selenium IDE;Ninguna de estas
+Federico Montenegro;fedejulianmontenegro@gmail.com;true;Front-End;React;Javascript
+Daniela  Gerlo ;dgerlo87@gmail.com;true;Tester;Azure, trello;Ninguna de estas
+Agustin Ramirez;rlagustin0@gmail.com;true;Front-End;React;Javascript
+Facundo Cali;facundocali1234@gmail.com;true;Back-End;Express;Javascript
+Alejandro Senger;alex.senger@hotmail.com;true;Back-End;Express;Javascript
+Gustavo Pereira Villa;gapereira@outlook.es;true;Back-End;Express;Javascript
+Agustin Kiryk;agustin.kiryk@gmail.com;true;Back-End;Spring;Java
+Daniel  Ramos;ramosperca015@gmail.com;true;Front-End;React;Javascript
+Diana Duarte Escobar;dianita.escobar.18@gmail.com;true;Design;Figma;Ninguna de estas
+Rocío Flores Durán;rociofloresduran88@gmail.com;true;Front-End;Angular;Typescript
+Miguel Angel;michellsms893@gmail.com;true;Front-End;React;Javascript
+Nicolas Cadel;nicolas.cadel.87@gmail.com;true;Design;Figma, Jira, Photoshop;C#
+David Mamani;davidmedev@gmail.com;true;Front-End;React;Typescript
+Mateo García;mattwork07@gmail.com;true;Front-End;Nextjs;Javascript
+Luciana Mansilla;luciana.mansilla77@gmail.com;true;Design;Figma, Adoble illustrator, CSS, HTML, Boostrap, SASS;Ninguna de estas
+Carina Bosio;caribosio72@gmail.com;true;Front-End;React;Javascript
+Maria Alejandra Vedoya;alevedoyaok@gmail.com;true;Back-End;Spring;Java
+Mariana Galetto;marianag604@hotmail.com;true;Design;Figma, Illustrator, Photoshop;Ninguna de estas
+Paula Alejandra  Ortiz Sánchez ;alejitaortiz10@gmail.com;true;Tester;Postman, Trello, Jira, bases de datos.;Java
+Brian Polesel;poleselbrian@gmail.com;true;PM;Etc;Ninguna de estas
+Jose Andres Gavilanes;joseandresgavilanes2012@gmail.com;true;Front-End;React;Javascript
+Ana Lisseth Juárez Marenco;lisa13suarez@gmail.com;true;Front-End;React;Javascript
+Gean Franco Rodriguez;geanx120@gmail.com;true;Back-End;Express;Javascript
+Ariel Martinez;arielstereo@msn.com;true;Front-End;React;Javascript
+Bianca Olsson;olssonbiancanadine@gmail.com;true;Design;Figma;Javascript
+Lucas Zarate;mrlucaszarate@gmail.com;true;Front-End;React;Javascript
+Gerardo Vargas;lalovargaslol@gmail.com;true;Design;Figma, Adobe XD, Illustrator, Photoshop;Ninguna de estas
+Emilio Carrozzino;emicarrozzino@gmail.com;true;Design;Figma, Jira;Ninguna de estas
+Adonis Castellanos;adoniscastellanos1@gmail.com;true;Back-End;Spring;Java
+Leandro Pereyra;me.leandrop@gmail.com;true;Mobile;React Native;Javascript
+Dario Elguero;darioelguero@gmail.com;true;Front-End;React;Javascript
+Rodrigo Amoretti;rodrigoamoretti695@gmail.com;true;Back-End;Node;Javascript
+César  Herrera;herrera.cesar.arg@gmail.com;true;Back-End;Express;Typescript
+Nathalia Riascos Mosquera;riascosnathalia6@gmail.com;true;Front-End;React;Typescript
+Santiago Rivanegra;santiagorivanegra@hotmail.com;true;Back-End;Node;Javascript
+Gonzalo Loncaric;gonzalo.loncaric@gmail.com;true;Design;Figma;Javascript
+Luis Navarro;navaluisrodolfo@gmail.com;true;Front-End;React;Javascript
+Alfredo Profumieri;profumieri.a@gmail.com;true;Back-End;Node;Javascript
+Santiago Castellani;monitocastellani@gmail.com;true;Front-End;Angular;Typescript
+José martin Miño;martin.laoctava@gmail.com;true;Front-End;React;Javascript
+Roberth Lopez;alejandroberth@gmail.com;true;Front-End;React;Javascript
+Marcelo Llerena;marcelo.gabriel.llerena@gmail.com;true;Front-End;Nextjs;Typescript
+Gabriel Castillo;jesus.castilloc@outlook.com;true;Front-End;React;Javascript
+Pablo Gianferro;pablogianferro@gmail.com;true;Back-End;Express;Javascript
+Alejandro Serna;aserna37@hotmail.com;true;Front-End;Angular;Javascript
+Martin Maldonado;martinmaldonado.arg@gmail.com;true;Design;Figma;Ninguna de estas
+Lautaro  Durán ;duranlautarogabriel@gmail.com;true;Front-End;React;Javascript
+Daniel Torres;danto@hotmail.com;true;Back-End;.Net;C#
+Hernán Costarelli;hernancostarelli@gmail.com;true;Back-End;Spring;Java
+Angela María  Testino Ibarra;angela11021997@gmail.com;true;Front-End;React;Javascript
+Eduardo Arevalo;eduardo.arevalo072@gmail.com;true;Front-End;React;Javascript

@@ -1,0 +1,42 @@
+const fs = require("fs");
+const path = require("path");
+
+const folders = [
+  "h3-01-klowhub",
+  "h3-02-klowhub",
+  "h3-03-klowhub",
+  "h3-04-klowhub",
+  "h3-05-klowhub",
+  "h3-06-klowhub",
+  "h3-07-klowhub",
+  "h3-08-klowhub",
+  "h3-09-klowhub",
+  "h3-10-klowhub",
+  "h3-11-openlab",
+  "h3-12-openlab",
+  "h3-13-openlab",
+  "h3-14-bookie",
+  "h3-15-bookie",
+  "h3-16-bookie",
+  "h3-17-proptech",
+  "h3-18-proptech",
+  "h3-19-proptech",
+  "h3-20-proptech",
+  "h3-21-proptech",
+  "h3-22-proptech",
+  "h3-23-proptech",
+  "h3-24-proptech",
+  "h3-25-proptech",
+  "h3-26-proptech",
+];
+
+folders.forEach((folder) => {
+  const dirPath = path.join(__dirname, `${folder} (Documentacion)`);
+  fs.mkdir(dirPath, { recursive: true }, (err) => {
+    if (err) {
+      console.error(`Error creating directory ${folder}:`, err);
+    } else {
+      console.log(`Directory ${folder} (Documentacion) created successfully.`);
+    }
+  });
+});

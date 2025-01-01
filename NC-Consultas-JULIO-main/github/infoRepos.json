@@ -1,0 +1,765 @@
+[
+  {
+    "repo": "c3-g59-m",
+    "branch": ["front", "main", "osvaldo", "tb-back", "transactions"],
+    "authors": ["dsotilloi", "osvaldo-ojeda", "Tomasberro", "ins4w-tmp"]
+  },
+  {
+    "repo": "c3-g24-m",
+    "branch": ["duffy", "francisco", "mariano", "master", "sanaya"],
+    "authors": [
+      "miguelbduffy",
+      "marianolastiri",
+      "Day-Centorbi",
+      "Edu568",
+      "pabloandramirez",
+      "Sanayaleal",
+      "fgimenezteira"
+    ]
+  },
+  {
+    "repo": "C3-G39",
+    "branch": ["main", "megas-golang"],
+    "authors": ["megas-vanzi", "Robertgolang"]
+  },
+  {
+    "repo": "c3-g29-t",
+    "branch": ["main"],
+    "authors": ["Edt-477", "ndasanbiagio", "MetalFaq"]
+  },
+  {
+    "repo": "c3-g14-m",
+    "branch": [
+      "dev",
+      "devCristian",
+      "devDaniel",
+      "devJulian",
+      "devYoiner",
+      "main"
+    ],
+    "authors": ["cquevedo1", "Aboy77", "melk15", "servidan", "yoinercoding"]
+  },
+  {
+    "repo": "C3-G05",
+    "branch": ["main"],
+    "authors": ["laautarolopez", "megas-vanzi", "erickdc7", "FrancoIza"]
+  },
+  {
+    "repo": "C3-G52",
+    "branch": [
+      "Nicolas",
+      "alejandro",
+      "clara",
+      "clarav",
+      "dev",
+      "enzo",
+      "linkeacard",
+      "main",
+      "martin",
+      "santiago"
+    ],
+    "authors": [
+      "alejandroBarua",
+      "kiddopro",
+      "sRojasDev",
+      "marianobazanc",
+      "Clara-V-B",
+      "lucas3982",
+      "EnzoGRDev",
+      "reptilcuantico99"
+    ]
+  },
+  {
+    "repo": "C3-G11",
+    "branch": [
+      "ariel",
+      "celso",
+      "developer",
+      "eduardo",
+      "facuh5",
+      "facundo",
+      "frontIvo",
+      "geronimo",
+      "geronimoDev",
+      "igna",
+      "jhonatan",
+      "main",
+      "oriana",
+      "revert-16-geronimoDev"
+    ],
+    "authors": [
+      "celsobrc",
+      "Oriana10",
+      "Ivo-glitch",
+      "CanCerber0",
+      "facuh5",
+      "ignabarolo",
+      "ArielF96"
+    ]
+  },
+  {
+    "repo": "C3-G47",
+    "branch": [
+      "DEV",
+      "DEV-Alba-v1",
+      "DEV-Joaquin-V1",
+      "DEV-Juan-v1",
+      "Dev-Ale-V1",
+      "main"
+    ],
+    "authors": ["KhalaRKS", "Alevilla94", "TatianaPrada", "JoaquinLillo"]
+  },
+  {
+    "repo": "c3-g58-frontend",
+    "branch": [
+      "alert_on_login",
+      "dashboard",
+      "dashboard2",
+      "develop",
+      "footer",
+      "jsonPeliculas",
+      "login_modal",
+      "login_modal_2",
+      "login_modal_3",
+      "login_modal_4",
+      "loginNew",
+      "modal_styles",
+      "modal_4",
+      "optimizacion_room"
+    ],
+    "authors": [
+      "zunkraz",
+      "brianim97",
+      "Meellcarraro",
+      "FedericoDG",
+      "ezequielg1989"
+    ]
+  },
+  {
+    "repo": "c3-g58-backend",
+    "branch": ["develop", "email_service", "footerNew", "main"],
+    "authors": [
+      "zunkraz",
+      "brianim97",
+      "Meellcarraro",
+      "FedericoDG",
+      "ezequielg1989"
+    ]
+  },
+  {
+    "repo": "c3-g66-t-backend",
+    "branch": ["dev", "feature/apihotel-phinax", "master"],
+    "authors": [
+      "PhiNax",
+      "ailenolha",
+      "AdnerbImohan1107",
+      "Pr0vius",
+      "LisandroPer"
+    ]
+  },
+  {
+    "repo": "C3-G70-T-Front",
+    "branch": ["dev", "main"],
+    "authors": [
+      "TanisJam",
+      "paolobillordo",
+      "ccpc93js",
+      "AlejandroPedrosa",
+      "vladi965"
+    ]
+  },
+  {
+    "repo": "C3-G70-T-Back",
+    "branch": ["main"],
+    "authors": ["TanisJam", "paolobillordo", "ccpc93js", "AlejandroPedrosa"]
+  },
+  {
+    "repo": "c3-g66-t-front",
+    "branch": ["dev", "master"],
+    "authors": [
+      "PhiNax",
+      "ailenolha",
+      "AdnerbImohan1107",
+      "Pr0vius",
+      "LisandroPer"
+    ]
+  },
+  {
+    "repo": "C3-G42-T",
+    "branch": ["front-end", "master", "master-backend"],
+    "authors": ["josedejesusAmaya", "vairome", "VenanciaFeu"]
+  },
+  {
+    "repo": "C3-G07",
+    "branch": ["develop", "main", "mauri"],
+    "authors": [
+      "victordlt",
+      "joer9514",
+      "MauricioRaulFerreyra",
+      "zms456",
+      "Afalkenhagen",
+      "IsabelTT",
+      "JulianOrtiz2022",
+      "AgustinPipicello"
+    ]
+  },
+  {
+    "repo": "C3-G21",
+    "branch": [
+      "Brian",
+      "FrontEnd",
+      "Joel",
+      "Paola",
+      "acamus",
+      "aspinosi-back",
+      "main"
+    ],
+    "authors": [
+      "agustinabellone",
+      "Aboy77",
+      "AdrianSP1",
+      "MatiasGalarza21",
+      "PaolaCartala",
+      "acamus79",
+      "Ing-AndresAvenda"
+    ]
+  },
+  {
+    "repo": "C3-G62",
+    "branch": [
+      "Ajuste_Header",
+      "Footer",
+      "Inicio_Header",
+      "Login-Frontend",
+      "artist-card-component",
+      "develop",
+      "develop-backend",
+      "develop-frontend",
+      "em-controllers",
+      "hero-section-home",
+      "main",
+      "marketplace-page",
+      "product-card-component",
+      "sm-deploy",
+      "sm-model",
+      "subir_obra"
+    ],
+    "authors": [
+      "JairDev",
+      "EricM76",
+      "darkp0lx",
+      "valen315",
+      "MendietaSergio",
+      "santiagohsv",
+      "CubillasG",
+      "javierdelgado1998"
+    ]
+  },
+  {
+    "repo": "C3-G37-M-Ecommerce-en-php",
+    "branch": ["main"],
+    "authors": ["dert98", "ignaciobatalla", "FrancoBerdeja", "William0814"]
+  },
+  {
+    "repo": "C3-G64-T",
+    "branch": [
+      "M-Development",
+      "caprispablo",
+      "leandroArriola",
+      "main",
+      "tomi"
+    ],
+    "authors": [
+      "tmuzzillo",
+      "Kuroikuma",
+      "maxiCalderonBuono",
+      "kida10-tech",
+      "Landro9",
+      "caprispablo"
+    ]
+  },
+  {
+    "repo": "C3-G03-M",
+    "branch": [
+      "back",
+      "disenio-home",
+      "disenio-login",
+      "main",
+      "secciones",
+      "templates"
+    ],
+    "authors": [
+      "paodesign",
+      "Aboy77",
+      "FerRom1979",
+      "fabioanny47",
+      "kida10-tech",
+      "CamiloEMP",
+      "Alan2527",
+      "AgustinaRevenga",
+      "JulianSuarez1"
+    ]
+  },
+  {
+    "repo": "C3-G44",
+    "branch": [
+      "Dante",
+      "JorgeV",
+      "Martin",
+      "PreProd",
+      "frontend_developer",
+      "main"
+    ],
+    "authors": [
+      "maurifl",
+      "martinjuncos",
+      "Esteban015",
+      "karinakorn",
+      "rodridega",
+      "Armando-Amezquita",
+      "jorgevelasquezv",
+      "nnicolivera"
+    ]
+  },
+  {
+    "repo": "C3-G02-M-Client",
+    "branch": [
+      "LogeoConFace-Google",
+      "RegisterIntegradoBackEnd",
+      "dev",
+      "home",
+      "main"
+    ],
+    "authors": [
+      "gustavosidoti",
+      "KevinPlucci",
+      "Bernal97",
+      "ferwinred",
+      "flortalavera"
+    ]
+  },
+  { "repo": "C3-G55-M", "branch": ["master"], "authors": ["AugustoMau"] },
+  {
+    "repo": "C3-G48-M",
+    "branch": [
+      "InicioSesion",
+      "NavBar",
+      "cards",
+      "carousel",
+      "feat/footer",
+      "main"
+    ],
+    "authors": [
+      "necogamy",
+      "jhessym",
+      "deztidev",
+      "MARCKBELT",
+      "botcarola",
+      "JuanMG22",
+      "LksR-dev"
+    ]
+  },
+  {
+    "repo": "C3-G55",
+    "branch": [
+      "add/barbercomponent",
+      "develop",
+      "featured/headerhero",
+      "main",
+      "master",
+      "storage"
+    ],
+    "authors": [
+      "lucasnbet",
+      "delafuentej",
+      "fidelp27",
+      "Joseph137-code",
+      "AugustoMau",
+      "belunarobles"
+    ]
+  },
+  {
+    "repo": "C3-G02-M-SERVER",
+    "branch": ["busqueda", "dev", "gustavo", "login", "main"],
+    "authors": [
+      "gustavosidoti",
+      "KevinPlucci",
+      "Bernal97",
+      "ferwinred",
+      "flortalavera"
+    ]
+  },
+  {
+    "repo": "C3-G26",
+    "branch": ["juniors90", "main"],
+    "authors": ["juniors90", "YaninaManhardt", "federto", "nicocryptor"]
+  },
+  {
+    "repo": "C3--G10",
+    "branch": ["main"],
+    "authors": [
+      "DanteIturri",
+      "Vortorexi2017",
+      "carop2580",
+      "Juan-ci",
+      "PadillaTom",
+      "JohanaMM",
+      "Lucatejada"
+    ]
+  },
+  {
+    "repo": "C3-G09_frontend",
+    "branch": ["main", "vero"],
+    "authors": ["Osskr", "VeroAnd", "JJSiabato", "Bipperty"]
+  },
+  {
+    "repo": "C3-G09_backend",
+    "branch": ["IgnacioGibbsDEV", "OsskrDEV", "main"],
+    "authors": ["Osskr", "Bipperty"]
+  },
+  {
+    "repo": "C3-G15",
+    "branch": [],
+    "authors": [
+      "MatiasGalarza21",
+      "espana3411",
+      "kida10-tech",
+      "acamus79",
+      "Ing-AndresAvenda"
+    ]
+  },
+  {
+    "repo": "C3-G51",
+    "branch": ["cesar", "jesus-backend", "main"],
+    "authors": [
+      "deyvisnvg",
+      "kaolof",
+      "CesarC87",
+      "Martin-Sil21",
+      "juanarede",
+      "Flore9",
+      "ilaoming"
+    ]
+  },
+  {
+    "repo": "C3-G63",
+    "branch": [
+      "acreditar",
+      "components-Login",
+      "components-signup",
+      "componets-SignUp",
+      "firebase-store",
+      "form-email",
+      "master",
+      "portfolio-cryptos"
+    ],
+    "authors": [
+      "eddysanoli",
+      "TomasKleinschuster",
+      "EmilioAlmeida",
+      "Edu568",
+      "malks14",
+      "ArleysGatica",
+      "decdabo",
+      "kukukex"
+    ]
+  },
+  {
+    "repo": "C3-G65",
+    "branch": ["card-profile", "julian", "main", "navbar"],
+    "authors": [
+      "JoseIgnacioTapia",
+      "EstebanVivar",
+      "Daiana-ortiz",
+      "julianperna",
+      "VictorFalconi",
+      "GabytaDev",
+      "JulietaRomano",
+      "VivarDev"
+    ]
+  },
+  {
+    "repo": "C3-G31",
+    "branch": [
+      "Facu",
+      "German",
+      "H2",
+      "HU10-perfil-empresa",
+      "backend-structure",
+      "develop",
+      "implementacion-sqlalchemy",
+      "main"
+    ],
+    "authors": [
+      "xN03Lx",
+      "JuanGonzalez99",
+      "GermanRindsberg",
+      "LeonelPeredo",
+      "fidelp27",
+      "FacundoCG",
+      "carmelafarias"
+    ]
+  },
+  {
+    "repo": "C3-G04",
+    "branch": ["dev", "main"],
+    "authors": [
+      "pinzon678",
+      "marcospopovich",
+      "zagu5",
+      "RomanPinelo",
+      "EdisMR",
+      "Pipulin",
+      "matiasfeliu92",
+      "ignaciobatalla"
+    ]
+  },
+  { "repo": "C3-G48", "branch": ["main"], "authors": ["JuanMG22"] },
+  {
+    "repo": "C3-G61",
+    "branch": [
+      "config-project",
+      "dev",
+      "feat-about-us-page",
+      "feat-bookingList-component",
+      "feat-calendar-component",
+      "feat-landing",
+      "feat-usersTable-component",
+      "fix-footer-styles",
+      "fix-login-form",
+      "fix-merged-pull-request",
+      "fix-routes",
+      "form-dania",
+      "leo-contactUs",
+      "leo-rewrite-pages",
+      "leo-router",
+      "main",
+      "nav-leo",
+      "order-login-form",
+      "radikeback",
+      "rodrigo-footer",
+      "tests-json-server"
+    ],
+    "authors": [
+      "Joako20",
+      "walter-wf",
+      "Lestradez",
+      "RadikeCosa",
+      "DiegoBetancourt",
+      "RodrigoFdz01",
+      "DaniaJA98"
+    ]
+  },
+  {
+    "repo": "C3-G04-BACK",
+    "branch": ["development", "main", "user"],
+    "authors": ["ReactSn0w"]
+  },
+  {
+    "repo": "C3-G46-T",
+    "branch": ["main"],
+    "authors": ["patriciosm", "Marco5X", "MarianaPastran"]
+  },
+  {
+    "repo": "C3-G45",
+    "branch": ["backend", "front", "main"],
+    "authors": ["evavargas", "M-Gonzalo", "bryanscalzo97", "LucaRM95", "maegop"]
+  },
+  {
+    "repo": "C3-G41",
+    "branch": [
+      "backend",
+      "dashboard-user-w-account",
+      "develop",
+      "feature/login",
+      "frontend-Angular",
+      "main",
+      "singleSPA"
+    ],
+    "authors": [
+      "yosassenav",
+      "juliagostina95",
+      "federicorojas11",
+      "SimonMora",
+      "FacundoSaldivia",
+      "agustinmme",
+      "lupattin"
+    ]
+  },
+  {
+    "repo": "C3_G-71",
+    "branch": [
+      "ST-09",
+      "ST-12",
+      "ST-13",
+      "ST-14",
+      "ST-19",
+      "ST-20",
+      "developer",
+      "yonatan"
+    ],
+    "authors": [
+      "matiasConchaSoto96",
+      "YonPalac1",
+      "JoaquinGorosito",
+      "LuiscEscalona"
+    ]
+  },
+  {
+    "repo": "C3-G32",
+    "branch": ["main"],
+    "authors": ["kawpls", "Nikolaz2312"]
+  },
+  {
+    "repo": "c3-g23-t",
+    "branch": [
+      "Agregar-idCliente-a-producto",
+      "Rama-de-Registro",
+      "dev_G",
+      "domain",
+      "experimentalBranch1",
+      "main",
+      "productRequest",
+      "rama-de-borrado-user",
+      "rama-de-trabajo"
+    ],
+    "authors": [
+      "tenikaler-smith",
+      "ianklebold",
+      "Abel3581",
+      "PadillaTom",
+      "gabynavarro",
+      "Carlos-Farfan-Mc"
+    ]
+  },
+  {
+    "repo": "c3-g53-m",
+    "branch": ["main", "nico"],
+    "authors": [
+      "taipe1",
+      "oliveravictor",
+      "leticiafunes",
+      "Nicoore90",
+      "avilarino",
+      "Nahuel-D-Bogado"
+    ]
+  },
+  {
+    "repo": "C3-G36",
+    "branch": ["develop", "edu-calendar", "javier-calendar", "main"],
+    "authors": ["jgelvez", "EduMogro", "matiask89", "jjbonet"]
+  },
+  {
+    "repo": "C3-G34-t",
+    "branch": [
+      "Back-new",
+      "Dev-Cristian",
+      "Developers",
+      "Developers-C",
+      "Feature_JavierGarcia",
+      "To_Check_Issues",
+      "main"
+    ],
+    "authors": [
+      "magustinaperlo",
+      "RedFoxArg",
+      "mFranchi92",
+      "JonathanMerchan",
+      "FLMarquez"
+    ]
+  },
+  {
+    "repo": "C3-G17-T",
+    "branch": ["Marlon", "backend", "develop", "juanjoc88", "main", "master"],
+    "authors": ["RubiRS29", "MarlonJoseInfante", "juanjoc88"]
+  },
+  { "repo": "C3-G13", "branch": [], "authors": ["ClaudioEC91"] },
+  {
+    "repo": "C3-G69-T",
+    "branch": [
+      "Develop",
+      "Landing",
+      "borrado",
+      "diseñoHomeIv",
+      "main",
+      "responsLand"
+    ],
+    "authors": ["LucianaHer"]
+  },
+  {
+    "repo": "C3-G69-t-Client",
+    "branch": [
+      "Develop",
+      "FinSubirImg",
+      "Landing",
+      "PasarAEspañol",
+      "borrado",
+      "crearGarage",
+      "diseñoHomeIv",
+      "feacture/login",
+      "fixUseEffect",
+      "formDeNico",
+      "formLoginFixed",
+      "lapatitadeldiv",
+      "main",
+      "newLanding",
+      "prueFav",
+      "pruebaApiKey",
+      "pruebaCart",
+      "responsLand",
+      "subirImagenFe"
+    ],
+    "authors": [
+      "IvanaPalacio",
+      "emmazaragoza",
+      "frandepe",
+      "marya277",
+      "LucianaHer",
+      "Nicolasgrillo1"
+    ]
+  },
+  {
+    "repo": "C3-G69-t-Api",
+    "branch": [
+      "DataBase",
+      "Develop",
+      "SearchByName",
+      "deleteProduct",
+      "favoritos",
+      "loginAutentication",
+      "loginUser",
+      "main",
+      "models-bd",
+      "nameDB",
+      "searchProductYGarage"
+    ],
+    "authors": [
+      "IvanaPalacio",
+      "emmazaragoza",
+      "frandepe",
+      "marya277",
+      "LucianaHer",
+      "Nicolasgrillo1"
+    ]
+  },
+  {
+    "repo": "c3-g23-t-frontend",
+    "branch": [
+      "develop",
+      "feature/css-inicial",
+      "feature/featuredProducts",
+      "feature/home",
+      "feature/homepage",
+      "feature/loginCustom",
+      "feature/navigation",
+      "feature/registerCustom",
+      "main"
+    ],
+    "authors": ["tenikaler-smith", "PadillaTom"]
+  },
+  {
+    "repo": "C3-G45-backend",
+    "branch": ["database_change", "main"],
+    "authors": ["M-Gonzalo", "maegop"]
+  }
+]

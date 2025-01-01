@@ -1,0 +1,3 @@
+puedes comportarte como un analista de datos con experiencia y programador, me gustaria crear equipos a partir de un archivo nocode.xlsx. La idea es crear equipos de hasta 6 personas. El archivo tiene una columna Email, una columa Area donde dice en que trabaja el participante, y una columna disponibilidad. Quiero que las personas esten agrupadas por la misma disponibilidad.
+Las distintas areas son Desarrollo, Design, Marketing, Automatizacion, Research, y la intencion es que en cada equipo haya un desarrollo y un design al menos.
+Me gustaria que me devuelvas el procesamiento en un csv separado por ; con las columnas numero de equipo (autoincremental por equipo), Email, Area, Disponibilidad

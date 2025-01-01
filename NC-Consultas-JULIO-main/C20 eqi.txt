@@ -1,0 +1,1498 @@
+Cohorte;Grupo;Miembro;Email;Telefono;Area;Lenguaje;Stack;Disponibilidad;teamLeader
+H1;h1-01-n-csharp-react;Rodrigo Kohnen;roddericckk@gmail.com;+595986144272;Back-End;C#;.Net;Noche;N/A
+H1;h1-01-n-csharp-react;Juan Ignacio Colapaolo;jinbyos@gmail.com;+5491125497020;Back-End;C#;.Net;Noche;N/A
+H1;h1-01-n-csharp-react;Jhonny Mateo  Rosero Cortes ;mateoroserok13@gmail.com;+573225683977;Front-End;Javascript;React;Noche;N/A
+H1;h1-01-n-csharp-react;Isabelle  De Souza ;isabelle.cristine19@gmail.com;57 3227160424;Front-End;Javascript;React, CSS, HTML, Figma;Noche;N/A
+H1;h1-01-n-csharp-react;Oscar Araujo;araujo.oskr@gmail.com;+56932179059;UX/UI;Python;React, HTML, CSS, Figma, Miro, Jira, Trello;Noche;N/A
+H1;h1-01-n-csharp-react;Elian Fajimeth Contreras Gomez;elianfajimethcontreras@gmail.com;+57 3192471044;Project Manager;Ninguno;Figma, Jira, Trello, Miro;Noche;N/A
+H1;h1-01-n-csharp-react;Thamairy Gonzalez;ingthamairyg@gmail.com;+542216721716;QA Tester;Python;Flask, Django, Jira, Trello, Postman, React;Noche;N/A
+H1;h1-02-csharp-react;Agustina  Balcarcel;balcarcelagustina@gmail.com;+5491138725553;Back-End;C#;.Net;Full-Time;N/A
+H1;h1-02-csharp-react;Leonardo  Olivera ;olezdev@gmail.com;+541124076383;Back-End;C#;.Net;Mañana;N/A
+H1;h1-02-csharp-react;María Laura  Carballo;carballolaury@gmail.com;+5492974216780;Front-End;Javascript;React, HTML, CSS;Mañana;N/A
+H1;h1-02-csharp-react;Leandro Rossi;rossileandrof@gmail.com;+541123917875;Front-End;Javascript;React, HTML, CSS;Full-Time;N/A
+H1;h1-02-csharp-react;Diego Alexander;ad.contacto7@gmail.com;+573012434176;UX/UI;Python;Figma;Full-Time;N/A
+H1;h1-02-csharp-react;Sol Rodriguez;rodso.design@gmail.com;+5491160570818;UX/UI;Ninguno;Figma, Photoshop, Adobe Illustrator;Mañana;N/A
+H1;h1-02-csharp-react;Tomas Crespo;tomascrespoes@gmail.com;+34642191833;Project Manager;Ninguno;Trello, Jira, Miro, Figma;Tarde;N/A
+H1;h1-02-csharp-react;José Gustavo Arza;gustavo.arza@gmail.com;+542804881978;QA Tester;Python;Figma, Jira, Trello, Miro;Full-Time;N/A
+H1;h1-03-java-react;David Ramón Thomen;thomendavid1@gmail.com;+543704787049;Back-End;Java;Spring, Hibernate;Noche;N/A
+H1;h1-03-java-react;Alexander Machicado Gomez;machicadogomezalexander@gmail.com;+51934842747;Back-End;Java;Angular, Spring, Hibernate, Postman, Trello, Miro;Noche;N/A
+H1;h1-03-java-react;Franco Javier Nieva;franco97nieva@gmail.com;+543865629703;Front-End;Javascript;React, HTML, CSS, Trello, Postman;Noche;N/A
+H1;h1-03-java-react;Matias Fiordelli;matifiordelli@gmail.com;+543492669476;Front-End;Javascript;React, HTML, CSS, Node, Express, Trello;Noche;N/A
+H1;h1-03-java-react;Cinthia  Gutiérrez Vargas ;cinthialacolocha90@gmail.com;+50663290216;QA Tester;Javascript;Postman, React, HTML, CSS, Jira, Trello, Figma, .Net;Noche;N/A
+H1;h1-03-java-react;Daiana Belén  Caffiero;daianacaffiero@gmail.com;+542234487554;UX/UI;Ninguno;Figma, Photoshop, Adobe Illustrator;Noche;N/A
+H1;h1-03-java-react;Lourdes Avalos;lulyavalosmartinez@gmail.com;1163366048;Front-End;Javascript;React, HTML, CSS, React Native, Trello, Figma;Tarde;N/A
+H1;h1-04-java-react;Valerie Ramos;valerie22@live.com;+50766647379;Back-End;Java;Spring, Postman, Figma;Tarde;N/A
+H1;h1-04-java-react;Matias Nicolas Acevedo;matias.nicolas.acevedo@gmail.com;+543513221989;Back-End;Java;React;Tarde;N/A
+H1;h1-04-java-react;Facundo Marco Bacigalupo;marcofacundolucas@gmail.com;+541127398858;Front-End;Javascript;React;Tarde;N/A
+H1;h1-04-java-react;Juan Camilo Martinez Rivera;camilom200107@gmail.com;+573006547458;Front-End;Javascript;React, HTML, CSS;Tarde;N/A
+H1;h1-04-java-react;Lisandro Arguello;lisandromarguello@gmail.com;+543794120561;UX/UI;Ninguno;HTML, Figma, Jira, Miro, Otro;Tarde;N/A
+H1;h1-04-java-react;Cynthia Olocco;cynthiaolocco@gmail.com;+543517501200;UX/UI;Otro;Figma, Adobe Illustrator, Photoshop, Jira, Trello;Tarde;N/A
+H1;h1-04-java-react;Dario Romero;romero.darior@gmail.com;+543624519345;Project Manager;Python;Django, Trello;Tarde;N/A
+H1;h1-04-java-react;Yosmarli Parica;yosmaparica@gmail.com;+541161088763;QA Tester;Javascript;Postman, Trello;Tarde;N/A
+H1;h1-05-java-react;Eliseo Montenegro;secondmtx@gmail.com;+5493721444102;Back-End;Java;Spring;Mañana;N/A
+H1;h1-05-java-react;Luciana Del Milagro Mazur;lucianamazur62@gmail.com;+543513110691;Back-End;Java;Spring;Mañana;N/A
+H1;h1-05-java-react;Felipe Calderon;felipe.calderon321@gmail.com;+56984290489;Front-End;Typescript;React, Node, Express, Next, Postman, Trello;Mañana;N/A
+H1;h1-05-java-react;Maday Choque;work.maday@gmail.com;+51931302092;Front-End;Typescript;React;Mañana;N/A
+H1;h1-05-java-react;Kevin Grassi;kevinb45@gmail.com;+598 99249698;UX/UI;Otro;Figma, Trello, Miro, Photoshop, Jira, Otro;Mañana;N/A
+H1;h1-05-java-react;Rodrigo Ruiz;rodri.br18@gmail.com;+542235912195;UX/UI;Otro;HTML, CSS, Figma, Adobe Illustrator, Photoshop, Trello, Jira, Otro;Mañana;N/A
+H1;h1-05-java-react;Sandra Rodriguez;sandris19@gmail.com;+573007851344;Project Manager;Otro;Jira, Trello, Miro, Figma;Mañana;N/A
+H1;h1-05-java-react;Luz Tabraj ;luz.tabrajb@gmail.com;+541136562439;QA Tester;Python;Postman, Trello, Miro, Jira;Mañana;N/A
+H1;h1-06-java-react;Andrés Segura;andres.segura.dev@gmail.com;+573502762219;Back-End;Java;Spring, React, Next, Postman;Mañana;N/A
+H1;h1-06-java-react;Guillermo Diván;guillermodivan@hotmail.com;+543513849396;Back-End;Java;React, Spring, Hibernate, Postman, Trello;Mañana;N/A
+H1;h1-06-java-react;Emanuel Pagés;emanuelpages.ps@gmail.com;+5491168467372;Front-End;Javascript;React, CSS, HTML, Next;Mañana;N/A
+H1;h1-06-java-react;Sol Abigail  Rázuri Fiorilli;solabigail00@hotmail.com;+541132118654;Front-End;Javascript;React, HTML, CSS, Node, Express, Next, Figma, Jira, Postman, Trello, Miro;Mañana;N/A
+H1;h1-06-java-react;Vanina Restelli;restellivanina@gmail.com;3416176543;UX/UI;Ninguno;Figma, Photoshop, Adobe Illustrator, Trello;Mañana;N/A
+H1;h1-06-java-react;Paula  Mendez;paula.mar@gmx.com;+573024789509;UX/UI;Ninguno;Figma, Trello, Miro;Mañana;N/A
+H1;h1-06-java-react;Diana Marcela Ramirez Zarta;mymarce27@gmail.com;+573053163933;QA Tester;Javascript;Trello, React, HTML, CSS, Codeigniter, Node, Express, Figma;Mañana;N/A
+H1;h1-07-java-react;Ivan Alexandro Moroz;alexandromoroz5@gmail.com;+5491167299200;Back-End;Java;Spring, Hibernate, Postman, Trello;Tarde;N/A
+H1;h1-07-java-react;Pablo Magnavachi;pmagnavachi@gmail.com;+543416744546;Back-End;Java;Spring;Tarde;N/A
+H1;h1-07-java-react;Facundo Pettersson;petterssonfacundo@gmail.com;+541155795134;Front-End;Typescript;React, HTML, CSS, Figma, Trello, Otro;Tarde;N/A
+H1;h1-07-java-react;Mauricio Chambi;mauriciochambicaceres@gmail.com;1161910935;Front-End;Typescript;React, HTML, CSS, Next, Postman, Trello, Otro, Flask;Tarde;N/A
+H1;h1-07-java-react;Agustin Avellaneda;agustin2051@gmail.com;+5493834191967;Project Manager;Typescript;React, Express, Next, Node;Tarde;N/A
+H1;h1-07-java-react;Angelo Montero Osorio;angelomonteroosorio@gmail.com;+573112457998;QA Tester;Kotlin;Miro, Trello, Postman, Jira, Android Studio, Flutter, Figma, Django, React, React Native, Node, Express, Nest, Next;Full-Time;N/A
+H1;h1-07-java-react;Andrea Pamela Gastaldi Lopez;andiellie@gmail.com;+528716158631;UX/UI;Ninguno;Figma, Adobe Illustrator, Photoshop, Trello, HTML, CSS, Miro;Tarde;N/A
+H1;h1-07-java-react;Ismael Arias Miranda;contacto.armiranda@gmail.com;+525561750684;UX/UI;Javascript;Figma, Photoshop, Trello, Otro;Mañana;N/A
+H1;h1-08-java-react;Javier Ccasani Perez;ccasani93@gmail.com;+51999312812;Back-End;Java;Spring;Noche;N/A
+H1;h1-08-java-react;Miguel Angel Chavez;chavez.miguel.angel154@gmail.com;+541156151222;Back-End;Java;React, HTML, CSS, Spring, Hibernate, Node, Express, Jira, Postman;Noche;N/A
+H1;h1-08-java-react;Edgardo  Silva ;edgardosilva.es@gmail.com;+56975364914;Front-End;Javascript;React, Next;Noche;N/A
+H1;h1-08-java-react;Gabriela Patiño;gabyapd05@gmail.com;+584142931360;Front-End;Javascript;React, Laravel;Noche;N/A
+H1;h1-08-java-react;Maria Bebion;mabebion.mb@gmail.com;+5493624602962;QA Tester;PHP;HTML, CSS, Jira, Postman, Trello, Figma;Noche;N/A
+H1;h1-08-java-react;German Ravarotto;g44ravarotto@gmail.com;+543413692180;UX/UI;Javascript;React, HTML, CSS, Figma, Adobe Illustrator, Trello;Noche;N/A
+H1;h1-08-java-react;Yanira  Martínez ;mgyanira96.2020@gmail.com;+34613510004;UX/UI;Ninguno;Figma, Photoshop, Jira, Trello, Miro;Tarde;N/A
+H1;h1-08-java-react;Franco Maidana;woldehtes@gmail.com;+541124804777;Front-End;Javascript;React;Noche;N/A
+H1;h1-09-java-react;Juan Pablo  Morales;azarjpm15@gmail.com;+5492616820304;Back-End;Javascript;Node;Mañana;N/A
+H1;h1-09-java-react;Esteban Gonzalez;esteban.adrian.gonz@gmail.com;+541121804180;Back-End;Javascript;Node, Express;Mañana;N/A
+H1;h1-09-java-react;Mauro Laime;maurol.dev@gmail.com;+541160612399;Front-End;Javascript;React;Mañana;N/A
+H1;h1-09-java-react;Facundo Rafael Nuñez;facurael@gmail.com;+543804249741;Front-End;Javascript;React;Mañana;N/A
+H1;h1-09-java-react;Florencia Sarkis;florsarkis@gmail.com;+34605356628;UX/UI;Ninguno;Figma, Adobe Illustrator, Photoshop, Jira, Miro, Trello;Mañana;N/A
+H1;h1-09-java-react;Ivan  Medina;ivan.luciano.medina@gmail.com;+541131221108;UX/UI;Ninguno;HTML, CSS, Miro, Trello, Jira, Adobe Illustrator, Figma;Mañana;N/A
+H1;h1-09-java-react;Mikhail  Garcilano;mikhailgarcilano1997@gmail.com;+543444448098;QA Tester;Ninguno;Jira, Postman, Trello;Mañana;N/A
+H1;h1-09-java-react;Alan  Rios;riosalan264@gmail.com;+543517401912;Front-End;Typescript;Angular, Nest;Mañana;N/A
+H1;h1-10-java-react;Cintia Jimena Martinez;93katu@gmail.com;3816677110;Front-End;Typescript;Next, React, React Native, HTML, CSS, Trello;Noche;N/A
+H1;h1-10-java-react;David Mamani;davidmedev@gmail.com;+541168628337;Front-End;Typescript;Next;Noche;N/A
+H1;h1-10-java-react;Gonzalo Villegas;gvillegas1276@gmail.com;+573194989976;Back-End;Java;Spring, Hibernate;Noche;N/A
+H1;h1-10-java-react;Nicolas Lemos;lemosnicolas92@gmail.com;+5491130472660;Back-End;Java;Spring, Hibernate;Noche;N/A
+H1;h1-10-java-react;Sebastian Gabriel Chavez;sebasxgc@outlook.com;+541128968631;QA Tester;Javascript;Postman, Jira, Trello, Miro, CSS, HTML;Noche;N/A
+H1;h1-10-java-react;Rene Silva Silva Carrillo;rene.scre@gmail.com;+523121977601;Project Manager;Python;Django;Noche;N/A
+H1;h1-10-java-react;Yhordi  Choque Espinoza ;yordychoque124@gmail.com;+59167807899;Front-End;Javascript;React, HTML, CSS, Node, Figma, Trello;Noche;N/A
+H1;h1-11-node-react-react;Sonny Pimentel;spimentelm1201@gmail.com;+51968977152;Back-End;Typescript;Node, Express, Nest, Jira, Trello, Postman, Django;Noche;N/A
+H1;h1-11-node-react-react;Carlos Valerio;cvaleriocenteno.88@gmail.com;+5491162959787;Front-End;Javascript;React, HTML, CSS, Node, Express, Photoshop, Adobe Illustrator, Postman;Noche;N/A
+H1;h1-11-node-react-react;Ricardo  Blazquez ;rblazquez111@gmail.com;+541135655163;Front-End;Javascript;React, Next, HTML, CSS, Express, Node;Noche;N/A
+H1;h1-11-node-react-react;Alex Marín Méndez;alexmarinmendez@gmail.com;+51942270712;Project Manager;Javascript;Node, Express;Noche;N/A
+H1;h1-11-node-react-react;Eliana Giacone;eliana.giacone8@gmail.com;+541135113830;QA Tester;Ninguno;Jira, Figma;Noche;N/A
+H1;h1-11-node-react-react;Elideicer San Martin;elideicersm@gmail.com;+59897400487;UX/UI;Ninguno;Figma, Trello;Noche;N/A
+H1;h1-11-node-react-react;Diego Garay;diegogaraycullas@gmail.com;+51949384843;Back-End;Typescript;Node, Nest;Noche;N/A
+H1;h1-11-node-react-react;Leandro  Brangi;leandrobrangi@gmail.com;+5493513780700;Front-End;Javascript;React, React Native, HTML, CSS, Node, Express, Figma, Adobe Illustrator, Photoshop, Next, Trello, Postman;Noche;N/A
+H1;h1-12-node-react-react;Juan Nebbia;juan.nebbia@gmail.com;02944905177;Back-End;Javascript;Nest, Node, Express;Mañana;N/A
+H1;h1-12-node-react-react;Lucas Scifo;lucasscifo14@gmail.com;+5493775437128;Back-End;Javascript;Node, Express, Postman;Mañana;N/A
+H1;h1-12-node-react-react;Aracely Cruz Del Ángel;91bluesora@gmail.com;+525577458792;Front-End;Javascript;React, Postman, Next, HTML, CSS;Mañana;N/A
+H1;h1-12-node-react-react;Carlos Barboza;michaelbarboza7@gmail.com;+5491140970460;Front-End;Javascript;React, HTML, CSS, Node, Figma, Jira, Trello, Postman, Express;Mañana;N/A
+H1;h1-12-node-react-react;Cintia Elizabeth Redondas;ceredondas@gmail.com;+5492914122213;QA Tester;Javascript;Postman, Trello, Jira;Mañana;N/A
+H1;h1-12-node-react-react;Cecilia  Ibañez;ce.ibanez@gmail.com;01165771157;UX/UI;Ninguno;Figma, Adobe Illustrator, Photoshop, Trello, HTML, CSS;Mañana;N/A
+H1;h1-12-node-react-react;Ana Laura Alamino;analaura.alaminoc@gmail.com;+542644460203;UX/UI;Otro;HTML, CSS, Miro, Trello, Photoshop, Adobe Illustrator, Figma;Mañana;N/A
+H1;h1-12-node-react-react;Jeronimo Quintana;jero.quintana18@gmail.com;+5493813625231;Front-End;Javascript;React;Noche;N/A
+H1;h1-13-node-react;Billy Campagnoli;bjcampagnoli@gmail.com;+584142051955;Back-End;Typescript;React, Node, Express, Nest;Noche;N/A
+H1;h1-13-node-react;Dario Benitez;reedq2.alt@gmail.com;+543704009882;Back-End;Javascript;React, Spring, Vue, Express, Node;Noche;N/A
+H1;h1-13-node-react;Martín Kun;martinkunbrc@hotmail.com;+542944283269;Front-End;Typescript;React;Noche;N/A
+H1;h1-13-node-react;Andrey Gomez;afgomezv@hotmail.com;+573502076277;Front-End;Typescript;React, React Native, HTML, CSS, Node, Express, Nest, Next, Postman, Figma, Trello;Noche;N/A
+H1;h1-13-node-react;Guido Gutierrez;jossrobson@gmail.com;+5492346535336;UX/UI;Otro;Figma, Photoshop, Adobe Illustrator;Noche;N/A
+H1;h1-13-node-react;Diego Vidal Lopez;diego27796gagan@gmail.com;+529934320592;Project Manager;Ruby;React, Postman, Node, Express;Noche;N/A
+H1;h1-13-node-react;Fernando Ramirez;fenixo846@gmail.com;+543624818562;QA Tester;Java;Jira, Postman, Otro;Full-Time;N/A
+H1;h1-13-node-react;Jose Imhoff;jose-imhoff@hotmail.com;+5493492516734;Front-End;Javascript;React, HTML, CSS, Jira, Postman;Tarde;N/A
+H1;h1-14-node-react;Isaac  Flores Vargas ;isaacfloresva@gmail.com;+50660069725;Back-End;Javascript;React, Express, Node, Trello;Mañana;N/A
+H1;h1-14-node-react;Franco Nordinelli;imnordi@gmail.com;+5491127221084;Back-End;Java;React, Angular, Spring, Hibernate, Trello;Mañana;N/A
+H1;h1-14-node-react;Leon Asturizaga;leonasturizaga@gmail.com;+5491124020248;Front-End;Java;React, Spring;Mañana;N/A
+H1;h1-14-node-react;Lorena De Los Angeles Lizama Gajardo;lorena.lizamag@gmail.com;+541124513172;UX/UI;Ninguno;Figma;Mañana;N/A
+H1;h1-14-node-react;Cristian Tiberio  Cortes Mondragon;ccortesm2000@gmail.com;+573124553100;Front-End;Javascript;React;Full-Time;N/A
+H1;h1-14-node-react;Melisa Yunis;yunismelisa@gmail.com;+5493515057267;QA Tester;Java;Postman, Jira, Trello, Hibernate, Spring;Mañana;N/A
+H1;h1-14-node-react;Rodrigo Georgetti;rodrigogeorgetti.cba@gmail.com;+5493534082835;Back-End;Javascript;React, Node, Express;Mañana;N/A
+H1;h1-14-node-react;Sebastián Roberto Gómez;sebasr.gomez90@gmail.com;+5492916494376;UX/UI;Ninguno;Figma, Adobe Illustrator, Photoshop, Jira, Trello, Miro;Mañana;N/A
+H1;h1-15-python-react;Juan Ignacio Lobo;juanignaciolobo97@gmail.com;+541131082286;UX/UI;Javascript;Figma;Tarde;N/A
+H1;h1-15-python-react;Max Cereceda;cereceda1991@gmail.com;+51931141140;Front-End;Javascript;React;Noche;N/A
+H1;h1-15-python-react;Fernando Suarez;fer.gab.sua@gmail.com;+541138721828;Back-End;Python;Django, HTML, CSS, Flask, Postman, Trello, Otro;Noche;N/A
+H1;h1-15-python-react;Damian Berrojalvis;d.berrojalvis@gmail.com;+541135492636;Back-End;Python;Django;Noche;N/A
+H1;h1-15-python-react;Alvaro  Amestoy ;alvaroamestoycontact@gmail.com;+59892894864;Front-End;Javascript;React;Noche;N/A
+H1;h1-15-python-react;Rafael Ricardo Strongoli;rafaelstrongoli@gmail.com;+5493624643450;Front-End;Typescript;React, HTML, CSS, Next, Jira, Trello;Noche;N/A
+H1;h1-15-python-react;Félix Antonio Pacheco Lobos;pachecolobos.felix@gmail.com;+56963546825;Back-End;Python;Django, React;Noche;N/A
+H1;h1-teamleaders;Yefferson Espinoza;espinozayeff@gmail.com;+573152711140;Team Leader;undefined;undefined;Tarde;N/A
+H1;h1-teamleaders;Alejandra Carla  Panizza ;mamiehijos@gmail.com;+541153231128;Team Leader;undefined;undefined;Mañana;N/A
+H1;h1-teamleaders;Verónica  Eschenmoser ;eschenmoserv@gmail.com;+543624227972;Team Leader;undefined;undefined;Tarde;N/A
+H1;h1-teamleaders;Josefina Cordoba ;cordobajosefinam@gmail.com;+543813302765;Team Leader;;Figma, Adobe Illustrator, Trello, Miro, React;Mañana;N/A
+C20;c20-01-ft-csharp-angular;Julian  Nahuel Torres;jntorres2012@gmail.com;+541157095588;Back-End;C#;.Net;Full-Time;true
+C20;c20-01-ft-csharp-angular;Jacinto Gutierrez;5843@holbertonstudents.com;+573108251700;Back-End;C#;.Net;Full-Time;false
+C20;c20-01-ft-csharp-angular;Daniel Diaz;danieldiazdev00@gmail.com;+542974946013;Back-End;C#;.Net;Full-Time;false
+C20;c20-01-ft-csharp-angular;Damian Eduardo Peralta;damii-peralta@hotmail.com;+5491166853411;Back-End;C#;.Net;Full-Time;true
+C20;c20-01-ft-csharp-angular;Fancundo Banegaz;banegazfacund@gmail.com;+543586278734;Back-End;C#;.Net;Full-Time;true
+C20;c20-01-ft-csharp-angular;Julian Perez;juli.agustin.perez@gmail.com;+542615585138;Front-End;Java;React - HTML - CSS - Spring - Postman - Jira;Full-Time;false
+C20;c20-01-ft-csharp-angular;Felipe Arias Mosquera;felipearias.inge@gmail.com;+573154533380;Front-End;Java;React - Angular - Vue - HTML - CSS - Spring;Full-Time;true
+C20;c20-01-ft-csharp-angular;Katherine  Montero Navarro;kmontero9511@gmail.com;+50687389039;Front-End;Java;HTML - CSS;Full-Time;false
+C20;c20-01-ft-csharp-angular;Luis  Mendoza;luis.mendoza0321@gmail.com;+573016974764;Front-End;Typescript;Angular - Nest - HTML - CSS - Postman ;Full-Time;false
+C20;c20-01-ft-csharp-angular;Marian Miranda;ladyivon_27@hotmail.com;+543416477818;UX/UI;Javascript;Figma - Adobe Illustrator - Photoshop;Full-Time;false
+C20;c20-01-ft-csharp-angular;Adrian Alejandro Sanchez;adrianalejandro_sanchez28@hotmail.com;+5493815972923;QA Tester;C#;HTML - CSS mis conocimiento: HTML-CSS-JS-C#-JAVA-QA Manual-C++;Full-Time;true
+C20;c20-01-ft-csharp-angular;Isaac Avelino;isaacavelino14@gmail.com;+18094443080;QA Tester;Python;Otro - Postman - React - Angular - Vue - HTML - CSS - Spring - Hibernate - Flask - Django - .Net - Node - Express;Full-Time;true
+C20;c20-01-ft-csharp-angular;Gabriel Lourido;gabriellourido18@gmail.com;+5491133349546;Mobile;C#;CSS - HTML;Tarde;false
+C20;c20-02-ft-python-react;José Ángel Granados Echeverría;josegranados99@hotmail.com;+573007684573;Front-End;Javascript;React;Full-Time;true
+C20;c20-02-ft-python-react;Gared  Lyon;eddlogg@gmail.com;+525584689854;Project Manager;Javascript;React - Next - Figma - Jira - Postman - Express - Node;Full-Time;false
+C20;c20-02-ft-python-react;Edwin Giraldo;estivencardona@gmail.com;+573136939880;Back-End;Python;Django;Full-Time;true
+C20;c20-02-ft-python-react;Edwin Esteban Peña Fonseca;estebanfonsecadev@gmail.com;+573213095323;Back-End;Python;Django;Full-Time;false
+C20;c20-02-ft-python-react;Jorge Luis Garcia Salazar;jorgeluisdatascientist@gmail.com;+584248691779;Back-End;Python;Django;Full-Time;true
+C20;c20-02-ft-python-react;Nicolas Agustin Barrios;nicolasbarrios60@gmail.com;+541136787775;Back-End;Python;Django;Full-Time;false
+C20;c20-02-ft-python-react;Josue Salvador Vilchis Olalde;jossvo26@outlook.com;+524425985669;Back-End;Python;Django;Full-Time;true
+C20;c20-02-ft-python-react;Bruno  Lazo ;bruno.lazo@outlook.com;+542234982114;Front-End;Typescript;React;Full-Time;true
+C20;c20-02-ft-python-react;Abril Formigo;abril.formigo.af@gmail.com;+541122659063;Front-End;Javascript;React;Full-Time;true
+C20;c20-02-ft-python-react;David Nazariego;dnazariego@gmail.com;+56964040431;Front-End;Javascript;React;Full-Time;true
+C20;c20-02-ft-python-react;Juan Cruz Chaves;juancruzchaves@hotmail.com;+5492215770205;Front-End;Javascript;React;Full-Time;false
+C20;c20-02-ft-python-react;Luis Alberto Aguilar Fabian;aguilarfabianluis@gmail.com;+51926536417;Front-End;Javascript;React;Full-Time;false
+C20;c20-02-ft-python-react;Isabel Labrador;ibelabrador@gmail.com;+573027568839;UX/UI;Javascript;Figma;Full-Time;false
+C20;c20-02-ft-python-react;Elias Pelizzer;pelizzerlelias@gmail.com;+541163068861;QA Tester;Python;Jira;Full-Time;false
+C20;c20-03-ft-python-react;Ivan Haponiuk;ivanhaponouk@gmail.com;+543734447020;Back-End;Python;Django;Full-Time;false
+C20;c20-03-ft-python-react;Marvin Achas;marvinj.isd@gmail.com;+51993620749;Back-End;Python;Django;Full-Time;false
+C20;c20-03-ft-python-react;Lucas Catriel Ballesteros;lucascatrielb@gmail.com;+541123910195;Back-End;Python;Django;Full-Time;false
+C20;c20-03-ft-python-react;Alejo Colazurda;acolazurda@gmail.com;+543329579946;Front-End;Javascript;React;Full-Time;true
+C20;c20-03-ft-python-react;Ricardo Joaquin Gonzalez;rjoacog@gmail.com;+543865414008;Front-End;Javascript;React;Full-Time;true
+C20;c20-03-ft-python-react;Maira Zamer ;mairazamer@gmail.com;+543482298231;Front-End;Javascript;React;Full-Time;false
+C20;c20-03-ft-python-react;Gabriel Cilfone;cilfonegabriel@gmail.com;+5493416989881;Front-End;Javascript;React;Full-Time;true
+C20;c20-03-ft-python-react;Vicente Soto;vsoto.zoro@gmail.com;+56953127835;Front-End;Typescript;Next;Full-Time;false
+C20;c20-03-ft-python-react;Inti Nehuen Fernandez Humana;intinfh1@gmail.com;+543885475053;UX/UI;Javascript;Figma - Adobe Illustrator - Photoshop;Full-Time;false
+C20;c20-03-ft-python-react;Maximiliano García;garcia.e.maxi91@gmail.com;+5493412711091;QA Tester;Ninguno;Jira;Full-Time;false
+C20;c20-03-ft-python-react;Alejandro Villalba;avillalba96@outlook.com;+543424296039;DevOps;Python;Otro - Trello - Postman - Jira AWS;Full-Time;false
+C20;c20-04-ft-js-react;Cesar Lopez;cesar.s.mlopez@gmail.com;+573001213960;Back-End;Javascript;HTML - CSS - React - Express - Next;Full-Time;true
+C20;c20-04-ft-js-react;Luciano Repetti;lucianorepetti2020@gmail.com;+5492944681253;Back-End;Typescript;Node;Full-Time;true
+C20;c20-04-ft-js-react;Esteban Alfredo Andrusyszyn;estebanandrusyszyn90@gmail.com;+5493758405297;Back-End;Javascript;Node;Full-Time;false
+C20;c20-04-ft-js-react;Luis Manzano;yuiftw05@gmail.com;+50432564101;Front-End;Javascript;React;Full-Time;false
+C20;c20-04-ft-js-react;Juan Alcoba;juanchoalcoba@gmail.com;+59894129926;Front-End;Javascript;React;Full-Time;false
+C20;c20-04-ft-js-react;Sevastian Caballero;sevastiancaballero321@gmail.com;+51923063597;Front-End;Javascript;React;Full-Time;false
+C20;c20-04-ft-js-react;Valentino Conti;conti.valentino29@gmail.com;+5493543414456;Front-End;Javascript;React;Full-Time;true
+C20;c20-04-ft-js-react;David Garcia;gacub20ru@gmail.com;+523751472644;Front-End;Typescript;React;Full-Time;false
+C20;c20-04-ft-js-react;David  Olarte;davidolarte53@gmail.com;+15202481054;UX/UI;Ninguno;HTML - CSS - Figma - Adobe Illustrator - Photoshop - Miro;Full-Time;false
+C20;c20-04-ft-js-react;Noelia Cecilia Belen  Aguilar ;noeliacb.aguilar@gmail.com;+5493624888176;QA Tester;Python;Jira - Postman - HTML;Full-Time;false
+C20;c20-04-ft-js-react;Alejandro Villalba;avillaiba96@outlook.com;+543424296039;DevOps;Python;Postman - Jira - Otro - Trello AWS;Full-Time;false
+C20;c20-05-ft-node-react;Jaqueline Martinez;jaqui.mz08.jm@gmail.com;+543704562095;Back-End;Javascript;Node;Full-Time;true
+C20;c20-05-ft-node-react;Sonia Vertz;sonia.anahi.vertz@gmail.com;+541162741684;Back-End;Javascript;Node;Full-Time;true
+C20;c20-05-ft-node-react;Thomas Ignacio Lopez;thomasignaciolopez@gmail.com;+5491131908253;Back-End;Javascript;Node;Full-Time;false
+C20;c20-05-ft-node-react;Alejandro Morcillo;aljodavid100@gmail.com;+573104381933;Back-End;Javascript;Node;Full-Time;true
+C20;c20-05-ft-node-react;Duban Alvarez;duban41993@gmail.com;+573107357597;Back-End;Javascript;Node;Full-Time;false
+C20;c20-05-ft-node-react;Marcos Ayala;marcosda05@gmail.com;+5491125797226;Front-End;Javascript;React;Full-Time;false
+C20;c20-05-ft-node-react;Gonzalo Pavez;gonzalo.pavezb@gmail.com;+56942822976;Front-End;Javascript;React;Full-Time;true
+C20;c20-05-ft-node-react;Luis Enrique Reyes Gonzalez;luisrg2225@gmail.com;+522215870242;Front-End;Javascript;React;Full-Time;false
+C20;c20-05-ft-node-react;Paolo Tomy Suarez Chavez;ptsuarez91@hotmail.com;+543873641509;Front-End;Javascript;React;Full-Time;true
+C20;c20-05-ft-node-react;Nicolás Agüero;aguero.nicolas2003@gmail.com;+5491140974316;Front-End;Typescript;React;Full-Time;true
+C20;c20-05-ft-node-react;Paloma Carnaghi;paloma.carnaghi@gmail.com;+5492236683112;UX/UI;Ninguno;Figma;Full-Time;true
+C20;c20-05-ft-node-react;Diana Alcaraz;dianaalcaraz64@gmail.com;+542664152840;QA Tester;Java;HTML - Postman - Jira Selenium WebDriver;Full-Time;false
+C20;c20-05-ft-node-react;Andy Murillo;andyemsalas@gmail.com;+50684753295;QA Tester;Python;React - HTML - CSS - Jira - Postman;Full-Time;false
+C20;c20-06-ft-node-react;Danny Mejía;dannym.mejia@gmail.com;+34653163996;Back-End;Typescript;Node;Full-Time;false
+C20;c20-06-ft-node-react;Luciano Paz;pazluciano.dev@gmail.com;+541168160779;Back-End;Javascript;Node;Full-Time;true
+C20;c20-06-ft-node-react;Federico  Segú;federicosegu@gmail.com;+5492236014875;Back-End;Javascript;Node;Full-Time;false
+C20;c20-06-ft-node-react;Ailén Dariana Franco;ailenfranco43@gmail.com;+543482276575;Back-End;Javascript;React;Full-Time;true
+C20;c20-06-ft-node-react;Nora Patricia Saucedo;nps_22@hotmail.com;+543794787545;Back-End;Javascript;Node;Full-Time;true
+C20;c20-06-ft-node-react;Rodolfo Agustin Galeano;rodolfoagustingaleano@gmail.com;+541123891770;Front-End;Javascript;HTML - CSS - Photoshop;Full-Time;false
+C20;c20-06-ft-node-react;Hernan Laime Condori;nglmercer@gmail.com;+51918722242;Front-End;Javascript;Node - HTML - CSS - Flask - Express node js y javascript vanilla;Full-Time;true
+C20;c20-06-ft-node-react;Rocio Livingston ;rocioblivingston@gmail.com;+5491165910322;Front-End;Javascript;HTML - CSS - Figma - Adobe Illustrator - Photoshop - Jira - Trello Css, html, ux ui Designer ;Full-Time;true
+C20;c20-06-ft-node-react;Lucas Nahuel  Fernandez Beschtedt ;lnahuelfernandezb@gmail.com;+541163783961;Front-End;Typescript;React;Full-Time;false
+C20;c20-06-ft-node-react;Kelly  Ybarra ;kellybarra7@gmail.com;+584129711972;QA Tester;Javascript;Postman - Jira;Full-Time;false
+C20;c20-06-ft-node-react;Jhosep Jesus Tinta Mancilla;tmjhosep@gmail.com;+59168078308;Front-End;Typescript;Flutter - Next - Nest;Full-Time;false
+C20;c20-06-ft-node-react;Jordan Larcher;lds.larcher@gmail.com;+543482201639;QA Tester;Java;Spring - Postman - Jira - Hibernate;Full-Time;false
+C20;c20-07-ft-node-react;Julian Andres  Sosa;julian.m.sosa.muchut@gmail.com;+543584014435;Back-End;Javascript;Node;Full-Time;false
+C20;c20-07-ft-node-react;Julio César  Castillo ;castillo19092001@gmail.com;+51955057529;Back-End;Typescript;Node;Full-Time;false
+C20;c20-07-ft-node-react;Daniel Prado;danielprado.17pr@gmail.com;+573133523010;Back-End;GO;Otro Gin ;Full-Time;false
+C20;c20-07-ft-node-react;Esneider Ospina;sneuder8@gmail.com;+573228495442;Back-End;GO;React - Next - .Net - Node - Express - Angular;Full-Time;true
+C20;c20-07-ft-node-react;Nirvana  Sánchez ;nirvanasanchez9@gmail.com;+542494023034;Front-End;Javascript;HTML - CSS;Full-Time;true
+C20;c20-07-ft-node-react;Christian  Zamora ;czh1983@gmail.com;+541165178197;Front-End;Javascript;React;Full-Time;false
+C20;c20-07-ft-node-react;Mariano Torres Distefano;marianotorresdistefano@gmail.com;+5492615064427;Front-End;Javascript;React;Full-Time;false
+C20;c20-07-ft-node-react;Leodan Condori;leodccc7@gmail.com;+51987496059;Front-End;Javascript;React;Full-Time;true
+C20;c20-07-ft-node-react;Maycol Kevin Orellana;kevinorellana2001@gmail.com;+541167076057;QA Tester;Ninguno;HTML - CSS - Postman - Trello;Full-Time;false
+C20;c20-08-ft-java-react;Rayner Soto Martínez;raynersoto01@gmail.com;+5359682690;Back-End;Java;Spring;Full-Time;true
+C20;c20-08-ft-java-react;Carlos Barrera ;cbarrera85312@gmail.com;+543512658014;Back-End;Java;Spring;Full-Time;false
+C20;c20-08-ft-java-react;Adrian Issac;issacysofia@gmail.com;+51951112520;Back-End;Java;Spring;Full-Time;false
+C20;c20-08-ft-java-react;Luis  Baquero;labaquero70@gmail.com;+573005940982;Back-End;Java;Spring;Full-Time;true
+C20;c20-08-ft-java-react;Ana Isabel  Álvarez;anaisabelalvarez98@gmail.com;+573158647108;Back-End;Java;Spring;Full-Time;true
+C20;c20-08-ft-java-react;Jesús Manuel Sack;jesusmsack@hotmail.com;+543415151411;Back-End;Java;Spring;Full-Time;true
+C20;c20-08-ft-java-react;Tobias Valentin Linares;tobil8485@gmail.com;+543455436036;Front-End;Javascript;React;Full-Time;false
+C20;c20-08-ft-java-react;Marcia Andrade;marcia.andrade.llanos@gmail.com;+59171522327;Front-End;Javascript;React;Full-Time;false
+C20;c20-08-ft-java-react;Matías Alberto De Hoyos Brañas;mati.dehoyosmdp@gmail.com;+542236901801;Front-End;Javascript;React;Full-Time;true
+C20;c20-08-ft-java-react;Rocio Peralta;1rocioperalta@gmail.com;+642102447534;Front-End;Typescript;React;Full-Time;false
+C20;c20-08-ft-java-react;Diego Cuevas;ingdcuevas@gmail.com;+573202680705;Front-End;Javascript;React;Full-Time;false
+C20;c20-08-ft-java-react;Alvaro Javier Chagas Capuro;alvarojavierchagas@hotmail.com;+59891445363;QA Tester;Javascript;React - React Native - Android Studio - Jira - Postman - Miro Postman;Full-Time;true
+C20;c20-08-ft-java-react;Mauricio Ezequiel Maldonado;mauricio1990arg@gmail.com;+5492966508018;Back-End;Java;Spring;Full-Time;true
+C20;c20-08-ft-java-react;Oscar Perez;perezju99@gmail.com;+59176262956;Back-End;Java;Spring;Full-Time;false
+C20;c20-08-ft-java-react;Rodrigo González;ezequiel20gonzalez@gmail.com;+541138824512;QA Tester;Ninguno;Jira;Full-Time;false
+C20;c20-08-ft-java-react;Jose Alejandro Dominguez;alejodi@gmail.com;+5493826669791;Back-End;Java;Spring;Full-Time;true
+C20;c20-08-ft-java-react;Carlos Jose Alvarez Nicolini;carlos.nicolini22@gmail.com;+541168826161;QA Tester;Ninguno;Jira - Trello - Postman;Tarde;false
+C20;c20-09-ft-java-react;Yesica Fica Millan;ficamillan@gmail.com;+5491154886749;Back-End;Java;Spring;Full-Time;true
+C20;c20-09-ft-java-react;Christian Hernandez;cristian.28hedz@gmail.com;+525510230084;Back-End;Java;Spring;Full-Time;false
+C20;c20-09-ft-java-react;Jhon Orrego;jorregoj@outlook.com;+51931188959;Back-End;Java;Spring;Full-Time;true
+C20;c20-09-ft-java-react;Deyvi Correa Zamora;deyvibcorreazamora@gmail.com;+56982865123;Front-End;Javascript;React;Full-Time;true
+C20;c20-09-ft-java-react;Daniel  Franco Henao;dfrancohenao@gmail.com;+573014107465;Back-End;Java;Spring;Full-Time;false
+C20;c20-09-ft-java-react;Lucas Rueda;luquirueda01@gmail.com;+542323613871;Back-End;Java;Spring;Full-Time;true
+C20;c20-09-ft-java-react;Alejandro Walter Quiñonez Perez;alejandroqperez@gmail.com;+51903183770;Back-End;Java;Spring;Full-Time;false
+C20;c20-09-ft-java-react;Diego Cristian Alfredo Veras;verasdiegoca78@gmail.com;+541124864548;Back-End;Java;Spring;Full-Time;false
+C20;c20-09-ft-java-react;Jose Antonio Dominguez;jadominguez99@gmail.com;+5491156221662;Back-End;Java;Spring;Full-Time;false
+C20;c20-09-ft-java-react;Karina Reguera;karinareguera@gmail.com;+5491151038781;QA Tester;Python;Figma - Jira - Postman - Trello;Tarde;true
+C20;c20-10-m-csharp-angular;Eliana Calle;eliana.gl.2c@gmail.com;+51931548908;Back-End;C#;.Net;Mañana;false
+C20;c20-10-m-csharp-angular;Gonzalo Fabricio;gomezgonzalo1220@gmail.com;+543777555169;Back-End;C#;.Net;Mañana;false
+C20;c20-10-m-csharp-angular;Javier Cervantes Vázquez;javiercervantes@outlook.com;+525522958955;Back-End;C#;.Net;Mañana;true
+C20;c20-10-m-csharp-angular;Gabriel Martinez;gabrielmsistemas@gmail.com;+541121933527;Back-End;C#;.Net;Mañana;false
+C20;c20-10-m-csharp-angular;Erick Coleman;erickcolber14@gmail.com;+50587878760;Back-End;C#;.Net;Mañana;true
+C20;c20-10-m-csharp-angular;Jhon Herrera;jhonchm18@gmail.com;+573127118808;Front-End;C#;.Net - HTML - CSS - Figma - Angular;Mañana;false
+C20;c20-10-m-csharp-angular;Hiram Chavez Lopez;virtual.liga@gmail.com;+528332887211;Front-End;Typescript;Angular - HTML - CSS - Trello;Mañana;false
+C20;c20-10-m-csharp-angular;Aixa Mengassini;aixamengassini14@gmail.com;+541156648438;Front-End;Java;HTML - CSS;Mañana;false
+C20;c20-10-m-csharp-angular;Joaquin Albanesi;albanesidev@gmail.com;+541164681728;Front-End;Typescript;Angular - HTML - CSS - Photoshop - Postman - Trello - Otro;Mañana;false
+C20;c20-10-m-csharp-angular;Heidi Cordova;stephanyhcs@gmail.com;+51946389985;Front-End;Java;CSS - Jira - Trello - HTML - Figma;Mañana;false
+C20;c20-10-m-csharp-angular;Malena Martínez;soymalenamartinez@gmail.com;+5491128279455;UX/UI;Ninguno;Figma;Mañana;false
+C20;c20-10-m-csharp-angular;Camila Palacios Kloster;camilapal91@gmail.com;+543624078048;QA Tester;Python;Django ;Mañana;false
+C20;c20-10-m-csharp-angular;Serena Sica;sicaserena.digital@gmail.com;+393205617387;Project Manager;Python;Jira - Trello - Figma - Otro;Mañana;true
+C20;c20-10-m-csharp-angular;Mario Molano;mariormolano@yahoo.com;+573123803441;Back-End;Java;Spring;Mañana;false
+C20;c20-10-m-csharp-angular;Christian Baños Padilla;chris_kenny11@hotmail.es;+353830840980;Front-End;Javascript;HTML - CSS - Figma JavaScript ;Mañana;false
+C20;c20-10-m-csharp-angular;Cecilia Etchepare;guruvinilosdeco@gmail.com;+5493425196419;UX/UI;Ninguno;Figma - Jira;Mañana;false
+C20;c20-11-m-csharp-angular;Giuliano Rosso;rossogiuliano@gmail.com;+5492984637412;Back-End;C#;.Net;Mañana;false
+C20;c20-11-m-csharp-angular;Enzo Samojedny;enzotempacc@gmail.com;+543518595108;Back-End;C#;.Net;Mañana;false
+C20;c20-11-m-csharp-angular;Carlos Aragon;aragoncarlosfernando@gmail.com;+541161306552;Back-End;C#;HTML - CSS - Otro ASP.NET;Mañana;false
+C20;c20-11-m-csharp-angular;Nicolás Ezequiel Lozano;nicoeloza12@gmail.com;+542604206034;Back-End;C#;.Net;Mañana;false
+C20;c20-11-m-csharp-angular;Sebastian Agustin Maza;sebas030.maza@gmail.com;+543815736423;Back-End;C#;.Net;Mañana;true
+C20;c20-11-m-csharp-angular;Gabriel Quiroga;gabrielquiroga.e@gmail.com;+543454013565;Front-End;Java;Angular - HTML - CSS;Mañana;false
+C20;c20-11-m-csharp-angular;Nicolas Lemos;lemosnicola92@gmail.com;+5491130472660;Front-End;Typescript;Angular;Mañana;false
+C20;c20-11-m-csharp-angular;Liam Andres Evans Saenz;liamandresevans@gmail.com;+573138897979;Front-End;Typescript;Angular;Mañana;true
+C20;c20-11-m-csharp-angular;Juan Pablo  Garrido Bermudez;juanpablogarridob@gmail.com;+56930054031;Front-End;Python;HTML;Mañana;true
+C20;c20-11-m-csharp-angular;Brandon Alonso Urbano Zea;brandonurbanobuz@gmail.com;+573223442124;Front-End;Python;Django - HTML - CSS;Mañana;true
+C20;c20-11-m-csharp-angular;Exequiel  Alvarado ;alvarado.exequiel@gmail.com;+56987358747;UX/UI;Python;Adobe Illustrator - Photoshop - Trello - Django - HTML - CSS - Angular;Mañana;true
+C20;c20-11-m-csharp-angular;Micaela Abril  Paciaroni Martinez;paciaronimicaela@gmail.com;+541164163847;QA Tester;Ninguno;Trello;Mañana;false
+C20;c20-11-m-csharp-angular;Sergio Mauricio Nuñez;maunz69@gmail.com;+59165935416;Project Manager;Python;React - React Native - HTML - CSS - Django - Node - Express - Next - Figma - Jira - Postman - Trello - Miro;Mañana;false
+C20;c20-11-m-csharp-angular;Pedro  Quiñones Paternina;petter0915@gmail.com;+34603267651;Front-End;Javascript;React;Mañana;false
+C20;c20-11-m-csharp-angular;Andrés  Meiriño;andru371@hotmail.com;+5491169794257;QA Tester;Javascript;Express - Node - HTML - CSS - Vue - Postman;Mañana;false
+C20;c20-11-m-csharp-angular;Martin Avendaño;martinavendano758@gmail.com;+541158634835;UX/UI;Javascript;Figma - Photoshop - Trello - Miro;Mañana;false
+C20;c20-12-m-python-react;Fernando Montealegre;cesarmontealegere@gmail.com;+573027974853;Back-End;Python;Django;Mañana;false
+C20;c20-12-m-python-react;Angie Vanegas;arco527@gmail.com;+573052761383;Back-End;Python;Django;Mañana;true
+C20;c20-12-m-python-react;Lucas Callamullo;lucascallamullo98@gmail.com;+5493515437688;Back-End;Python;Django;Mañana;true
+C20;c20-12-m-python-react;Matias Dominguez ;matydominguez554@gmail.com;+542352551599;Back-End;Python;Django;Mañana;false
+C20;c20-12-m-python-react;Ariel Joel Buenfil Góngora;arielbg6@hotmail.com;+529993569612;Back-End;Python;Django;Mañana;false
+C20;c20-12-m-python-react;Rocio Blanco;rociogwhite@gmail.com;+5493416741455;Front-End;Python;HTML - CSS - Photoshop - Adobe Illustrator;Mañana;false
+C20;c20-12-m-python-react;Geraldine Nasabun;geraldine.nasa@gmail.com;+542996748781;Front-End;Python;CSS - HTML - Django;Mañana;true
+C20;c20-12-m-python-react;Felipe  Garcia;feli2003garcia@gmail.com;+542914397685;Front-End;Javascript;React;Mañana;false
+C20;c20-12-m-python-react;Denise Rocio Sosa;rocio.sosa94@gmail.com;+5492995520389;UX/UI;Javascript;React - HTML - CSS - Node - Express - Figma;Mañana;false
+C20;c20-12-m-python-react;Ailin Arancibia;ailu.arancibia8@gmail.com;+543412284856;QA Tester;Javascript;HTML - CSS - Otro;Mañana;true
+C20;c20-12-m-python-react;Maria Giraldo;mariugiraldo40@gmail.com;+573194668195;Project Manager;Java;Otro Java;Mañana;true
+C20;c20-12-m-python-react;Juan David  Beca Pillimue ;jbecapillimue@gmail.com;+573206440761;Front-End;Javascript;React;Mañana;false
+C20;c20-12-m-python-react;Magalí Rocío Roberts;magalirocioroberts22@gmail.com;+541132658889;QA Tester;Ninguno;Jira - Postman - Trello Los 3;Mañana;true
+C20;c20-12-m-python-react;Layla Gomez;laylamelanygomez@gmail.com;+34698957015;DevOps;Python;Jira ;Mañana;false
+C20;c20-12-m-python-react;Francis Garza;workstationraton@gmail.com;+56981834875;UX/UI;Javascript;Figma - HTML - CSS - Adobe Illustrator - Photoshop - Trello - Miro;Mañana;false
+C20;c20-13-m-python-react;Rodrigo Vera;donra2210@gmail.com;+593979812530;Back-End;Python;Django;Mañana;true
+C20;c20-13-m-python-react;Carlos Tiburcio ;c.tiburciomolano@gmail.com;+18299171845;Back-End;Python;Django;Mañana;false
+C20;c20-13-m-python-react;Gonzalo Gomez;gonzagomezbull@gmail.com;+541135680647;Back-End;Python;Django;Mañana;false
+C20;c20-13-m-python-react;Diego Alonso Morey Quispe;alonso.morey.arq@gmail.com;+51981884484;Back-End;Python;Django;Mañana;true
+C20;c20-13-m-python-react;Yuneido Chacin;yuneido.jchf@gmail.com;+5491131981106;Back-End;Python;Django;Mañana;true
+C20;c20-13-m-python-react;Trinidad Lari;trinidadlari@gmail.com;+543413394356;Front-End;Javascript;React;Mañana;false
+C20;c20-13-m-python-react;Adriana Cabrera Escobar;adricanita_c@hotmail.com;+59170733299;Front-End;Javascript;React;Mañana;false
+C20;c20-13-m-python-react;Nerea  Espindola ;nere.es5@hotmail.com;+543364209413;Front-End;Javascript;React;Mañana;true
+C20;c20-13-m-python-react;Miguel Angel Gonzales Melgar;mitronios@gmail.com;+59177457593;Front-End;Javascript;React;Mañana;false
+C20;c20-13-m-python-react;Fiorella Albujar Albino;fiorealbujar.oms@gmail.com;+542901403802;Front-End;Javascript;Node - HTML - CSS Node;Mañana;true
+C20;c20-13-m-python-react;Daiana Esquivel;daianamesq@gmail.com;+543704903192;UX/UI;Ninguno;Figma;Mañana;true
+C20;c20-13-m-python-react;Jonathan Freyre;jonathanfreyre328@gmail.com;+5492236833129;QA Tester;Java;Postman - HTML - CSS;Mañana;false
+C20;c20-13-m-python-react;Marcelo  Diaz;marceloardiaz@gmail.com;+56966338275;Project Manager;Javascript;React - HTML - CSS - Node - Express - Next - Jira - Trello - Miro - Postman;Mañana;true
+C20;c20-13-m-python-react;Anthony  Bañon Arias;caterva17@gmail.com;+541165588153;Front-End;Javascript;HTML - CSS - Vue Javascript, sql;Mañana;false
+C20;c20-13-m-python-react;Adriana Speranza;adriana_spe@hotmail.com;+543415648095;QA Tester;Ninguno;Trello;Mañana;false
+C20;c20-13-m-python-react;Francescolli Anticona Puza;gustavo.anticona@utec.edu.pe;+51977511058;Back-End;Python;Django;Mañana;true
+C20;c20-13-m-python-react;Claudia Stocco;claudia_stocco@hotmail.com;+542615389865;UX/UI;Otro;Figma - Adobe Illustrator - Photoshop - Trello - Miro - Otro;Mañana;true
+C20;c20-14-m-python-react;Fernando Cedeño;fernandocndev@gmail.com;+18098772988;Back-End;Python;Django;Mañana;false
+C20;c20-14-m-python-react;Jair Rosales Medina;jair.rome92@gmail.com;+523221607500;Back-End;Python;Django;Mañana;false
+C20;c20-14-m-python-react;Kevin Huaynates Soto;huaynatessotokevin1@gmail.com;+51964646026;Back-End;Python;Django;Mañana;true
+C20;c20-14-m-python-react;Nahuel Marcilli;nahuemarcilli@gmail.com;+5493775402361;Back-End;Python;Django;Mañana;false
+C20;c20-14-m-python-react;Karen Cordoba;karen_cochi_02@hotmail.com;+543874564927;Back-End;Python;Django;Mañana;false
+C20;c20-14-m-python-react;Leonel Giralde ;leonelgiralde22@gmail.com;+5491165692305;Front-End;Javascript;React;Mañana;false
+C20;c20-14-m-python-react;Veronica Bravo;verobravo112012@gmail.com;+5491164469434;Front-End;Javascript;React;Mañana;true
+C20;c20-14-m-python-react;Veronica Falconi;veronicamfalconi@gmail.com;+33766032819;Front-End;Otro;CSS - HTML - React React;Mañana;true
+C20;c20-14-m-python-react;Jelsin Stiben Sanchez Almanza;jelsimsanchez@gmail.com;+905521768412;Front-End;Typescript;React;Mañana;true
+C20;c20-14-m-python-react;Tamara Contreras;tacs.laboral@gmail.com;+56975702922;Front-End;Javascript;React;Mañana;true
+C20;c20-14-m-python-react;María  Falcón ;mafalconquintero@gmail.com;+573136569357;UX/UI;C#;Figma - Adobe Illustrator - Otro;Mañana;true
+C20;c20-14-m-python-react;Marbelis  Aguilar ;sebasmar1601@gmail.com;+5491123876891;QA Tester;Ninguno;Jira - Postman;Mañana;true
+C20;c20-14-m-python-react;Jennifer Foppoli;jenniferfoppoli@hotmail.com;+5491141414219;Project Manager;Java;Flask - Spring - Trello - Otro;Mañana;true
+C20;c20-14-m-python-react;Edwin Ortiz;edarcode@gmail.com;+573028375858;Front-End;Typescript;React;Mañana;true
+C20;c20-14-m-python-react;Luciano Torre;lucianotservices@gmail.com;+5493624793551;QA Tester;Python;React - Postman - Jira;Mañana;false
+C20;c20-14-m-python-react;Paulo Tintaya;pau.tintaya.code@gmail.com;+59179524656;Back-End;Python;Django;Mañana;true
+C20;c20-14-m-python-react;Florencia Vysin;florvysin@gmail.com;+34637118507;DevOps;Javascript;React - HTML - CSS - Figma;Mañana;false
+C20;c20-14-m-python-react;David Dos Santos ;david.dos.santos89@outlook.com;+541123900698;QA Tester;Java;HTML - CSS - Figma - Jira - Postman - Trello - Miro - Adobe Illustrator;Mañana;true
+C20;c20-14-m-python-react;Lucas Germán  Burgos;lucasgburgos@gmail.com;+542616611764;UX/UI;Otro;Figma - Adobe Illustrator - Photoshop - Trello;Mañana;false
+C20;c20-15-m-nest-react;Mateo Pedehontaa;mateopedehonta@gmail.com;+542302308783;Back-End;Typescript;Nest - Next;Mañana;false
+C20;c20-15-m-nest-react;José Agustín Oviedo Villalba;ampharos321@hotmail.com;+595985405811;Back-End;Typescript;Next - Nest - React;Mañana;false
+C20;c20-15-m-nest-react;Mannuel Fernando Granoble Pino;pinomannuel20@gmail.com;+573186910773;Front-End;Javascript;React;Mañana;true
+C20;c20-15-m-nest-react;Nadia  Rodriguez ;nadurodriguez2@gmail.com;+5493534017963;Front-End;Javascript;HTML - CSS - Trello;Mañana;false
+C20;c20-15-m-nest-react;Nicolas Daniel Espinoza Segovia;nespinozasegovia@gmail.com;+595971875556;Front-End;Javascript;React;Mañana;false
+C20;c20-15-m-nest-react;Francisco Cirone;francirone03@gmail.com;+541125543017;Front-End;Javascript;React;Mañana;false
+C20;c20-15-m-nest-react;Francisco  Laviano ;linespi39@gmail.com;+59899992983;Front-End;Javascript;React;Mañana;true
+C20;c20-15-m-nest-react;Anahí  Cariaga ;acariaga.diseno@gmail.com;+56978876977;UX/UI;Ninguno;Figma;Mañana;false
+C20;c20-15-m-nest-react;Yuselis Iglesias Rojas;yuselisiglesias@gmail.com;+56941761744;QA Tester;Java;Jira;Mañana;false
+C20;c20-15-m-nest-react;Martin Salvio;martin.itamar.salvio@gmail.com;+5491134912402;Front-End;Javascript;React;Mañana;false
+C20;c20-15-m-nest-react;Maria Angelica Hoheb Zambrano;mhoheb.sf@gmail.com;+584122732490;QA Tester;Ninguno;Jira - Postman - Trello;Mañana;false
+C20;c20-15-m-nest-react;Maria Florencia Gomez Martin;mflorenciagomez11@gmail.com;+5492235803683;UX/UI;Ninguno;Figma;Mañana;false
+C20;c20-16-m-nest-react;Daniel Cazabat;dacazabat@gmail.com;+542314613205;Back-End;Typescript;Next - Nest;Mañana;true
+C20;c20-16-m-nest-react;Ornella Ferrario;orneferrario@hotmail.com;+543624645604;Back-End;Typescript;Nest - Express - Otro Fullstack developer | MERN ;Mañana;true
+C20;c20-16-m-nest-react;Matias Salisky;saliskymatias@gmail.com;+543445418880;Back-End;Javascript;Node;Mañana;false
+C20;c20-16-m-nest-react;Luca Stefano Comsiglio ;luca.stefano.consiglio@gmail.com;+543413691999;Back-End;Javascript;Node;Mañana;false
+C20;c20-16-m-nest-react;Diego  Caucota;diecau20@gmail.com;+543813156288;Back-End;Javascript;Node;Mañana;false
+C20;c20-16-m-nest-react;Martin Bejarano;martinbejarano12@outlook.com;+543876147003;Front-End;Javascript;React;Mañana;false
+C20;c20-16-m-nest-react;Pablo Murillo;pablomurillo.sp@gmail.com;+5492234660539;Front-End;Javascript;React;Mañana;false
+C20;c20-16-m-nest-react;Ezequiel Garcia;garciaezequiel2022001@gmail.com;+5491138497927;Front-End;Typescript;React;Mañana;true
+C20;c20-16-m-nest-react;Stefano Pajita;stefanoypf@gmail.com;+51921856291;Front-End;Javascript;React;Mañana;false
+C20;c20-16-m-nest-react;Samuel Figueroa;samudev01@gmail.com;+542616635966;Front-End;Javascript;React;Mañana;false
+C20;c20-16-m-nest-react;Sofía Dolcemáscolo;sofiadolche@gmail.com;+5493515607770;UX/UI;Ninguno;Figma;Mañana;false
+C20;c20-16-m-nest-react;Yolimar Mujica;ymujica197@gmail.com;+541130000577;QA Tester;Ninguno;Django;Mañana;false
+C20;c20-16-m-nest-react;Ignacio Agustin Mahona Umana;iagustinmahona@gmail.com;+542615885486;QA Tester;Java;Postman - Otro Principalmente me centro en el uso de Postman y Selenium.;Mañana;false
+C20;c20-16-m-nest-react;Indrid Gomez Solis;indridgomezsolis@gmail.com;+18496572804;QA Tester;C#;Jira - Postman - Otro Selenium IDE, Cypress;Mañana;false
+C20;c20-16-m-nest-react;Nadia Pavon;nadiaa.pavon@gmail.com;+5493854166000;UX/UI;Ninguno;Figma;Mañana;false
+C20;c20-17-m-node-react;Gonzalo Martinez;gonzapjl2@gmail.com;+541153741713;Back-End;Typescript;Node;Mañana;false
+C20;c20-17-m-node-react;Andrea Rosero;andrea.rosero.p@gmail.com;+56956762783;Back-End;Javascript;Node;Mañana;false
+C20;c20-17-m-node-react;Walter Omar Maza;waltermaza@gmail.com;+541124055265;Back-End;Javascript;Node;Mañana;false
+C20;c20-17-m-node-react;Fernando Martinez;martinezfenix99@gmail.com;+541168632863;Back-End;Typescript;Node;Mañana;true
+C20;c20-17-m-node-react;Jose Freggiaro;jose.freggiaro@gmail.com;+5492325561906;Back-End;Javascript;Node;Mañana;true
+C20;c20-17-m-node-react;Matías  Gomez;matias_gomez30@hotmail.com.ar;+543548583658;Front-End;Javascript;React;Mañana;true
+C20;c20-17-m-node-react;Sabrina Arndt;sabrinaarndt78@gmail.com;+543765232653;Front-End;Javascript;React;Mañana;true
+C20;c20-17-m-node-react;Federico Gomez;santifedegomez2000@gmail.com;+5493515189826;Front-End;Javascript;React;Mañana;false
+C20;c20-17-m-node-react;Emmanuel Usme;emmanueljusme24@gmail.com;+573136947625;Front-End;Javascript;React;Mañana;true
+C20;c20-17-m-node-react;Alejandro Vargas Castillo;djalejo02@gmail.com;+573163867046;Front-End;Javascript;Vue - HTML - CSS;Mañana;false
+C20;c20-17-m-node-react;Ysamar Aracely Balcazar Rios;lunaysa30@gmail.com;+51913823658;UX/UI;Java;HTML;Mañana;true
+C20;c20-17-m-node-react;Rene Rodriguez;96renerodriguez@gmail.com;+528123342104;QA Tester;Python;Jira - Postman;Mañana;false
+C20;c20-17-m-node-react;Kurt Angeles;kurttck7034@gmail.com;+51947645083;Front-End;Javascript;React;Mañana;true
+C20;c20-17-m-node-react;Julieta Jazmin Sotelo;jazminsotelo.97@gmail.com;+542804353849;QA Tester;Java;Spring;Mañana;false
+C20;c20-17-m-node-react;Gonzalo Masa;gonzalo-masa@outlook.com;+542215613460;Mobile;Javascript;React Native - Express - Node;Mañana;false
+C20;c20-18-m-node-react;Manuel  Forneri ;manuelforneri@gmail.com;+542325479404;Back-End;Javascript;Node;Mañana;false
+C20;c20-18-m-node-react;Manuel Zanon;manuzan123@hotmail.com;+5493525488685;Back-End;Javascript;Node;Mañana;false
+C20;c20-18-m-node-react;Leonardo Sebastian Gauto;leosebastiang19@gmail.com;+5492236942848;Back-End;Javascript;Node;Mañana;true
+C20;c20-18-m-node-react;Juan Ramirez;ciscojuan@gmail.com;+573223383813;Back-End;Typescript;Node;Mañana;false
+C20;c20-18-m-node-react;Andres Vizuete ;andresv0807@gmail.com;+593963631781;Back-End;Javascript;Node;Mañana;true
+C20;c20-18-m-node-react;Ramiro Crespi;crespiramiro@outlook.com;+5491128164540;Front-End;Javascript;React;Mañana;false
+C20;c20-18-m-node-react;Astrid Josefina  Artunduaga Roa ;astrid.artunduaga@gmail.com;+573012417662;Front-End;Javascript;React;Mañana;false
+C20;c20-18-m-node-react;Román  Ramos;romanrv1216@gmail.com;+523153545893;Front-End;Javascript;React;Mañana;false
+C20;c20-18-m-node-react;Steven Contreras;jefsteven22@gmail.com;+593987855595;Front-End;Javascript;React;Mañana;true
+C20;c20-18-m-node-react;Franco Aparicio;ffrancoaparicio@gmail.com;+5493516767373;Front-End;Javascript;React;Mañana;false
+C20;c20-18-m-node-react;David Serrano Franco;david09115678@gmail.com;+526863076658;QA Tester;PHP;Laravel - HTML - CSS - Jira - Trello - Postman;Mañana;false
+C20;c20-18-m-node-react;Ramiro Nahuel  Baqueiro;ramirobaqueiro@hotmail.com;+541121829868;Front-End;Javascript;React;Mañana;false
+C20;c20-18-m-node-react;Pablo Carlos Ibrahim;ibrahimpablo@gmail.com;+543816507475;QA Tester;Python;Django - Jira - Postman - Otro QMetry;Mañana;false
+C20;c20-19-m-node-react;Fabricio Sanchez Sanchez;devfaadoge@gmail.com;+59165805555;Back-End;Javascript;Node;Mañana;false
+C20;c20-19-m-node-react;Genaro Cura;genacura4@gmail.com;+543437446248;Back-End;Javascript;Node;Mañana;false
+C20;c20-19-m-node-react;Valeria Ramirez;valeria_hernandez211@outlook.com;+529995086319;Back-End;Javascript;React;Mañana;false
+C20;c20-19-m-node-react;Facundo Birgi;birgifacundo@gmail.com;+543492601588;Back-End;Typescript;React;Mañana;true
+C20;c20-19-m-node-react;Nahuel Gomez;nahue.code@gmail.com;+541122737745;Back-End;Javascript;Express;Mañana;true
+C20;c20-19-m-node-react;Xavier Basurto;xavier.basurto.77@gmail.com;+51903442272;Front-End;Typescript;React;Mañana;false
+C20;c20-19-m-node-react;Luis Fernando Henao Garcia;luishgarcia_97@hotmail.com;+573007802136;Front-End;Javascript;React;Mañana;false
+C20;c20-19-m-node-react;Giuliana Lamontanaro;giulianalamontanaro@gmail.com;+543812133933;Front-End;Javascript;React;Mañana;false
+C20;c20-19-m-node-react;Delfina Paz Zavalia;delfinapazzavalia@gmail.com;+543813337337;Front-End;Javascript;React;Mañana;false
+C20;c20-19-m-node-react;Ezequiel  Sale;ezequielsale123@gmail.com;+543815393711;Front-End;Javascript;React;Mañana;false
+C20;c20-19-m-node-react;Jorge Luis Alonso;alonsojorge05@gmail.com;+5493512229080;QA Tester;Javascript;Jira - Trello;Mañana;false
+C20;c20-19-m-node-react;Darío Javier Piñeyro;dariojavierpineyro@gmail.com;+543743411903;Front-End;Typescript;React;Mañana;false
+C20;c20-19-m-node-react;Alina Peñalver Ojeda;alinita18@gmail.com;+59899180353;QA Tester;Java;Postman;Mañana;false
+C20;c20-20-m-node-react;Aylin Paniagua;aylinpt02@gmail.com;+5491144722618;Back-End;Javascript;.Net;Mañana;true
+C20;c20-20-m-node-react;Juan Manuel  Ledesma;ledesmamanu345@gmail.com;+5491169317126;Back-End;Javascript;Node;Mañana;true
+C20;c20-20-m-node-react;Franco Huayller;fhuayller@gmail.com;+5491130003492;Back-End;Javascript;Node;Mañana;false
+C20;c20-20-m-node-react;Adhemir Sabino Hilario;adhemirsabino@gmail.com;+51963054416;Back-End;Typescript;Node;Mañana;false
+C20;c20-20-m-node-react;Jesus Alejandro Lora Tovar;alejandroloratovar@outlook.com;+573016004716;Back-End;Javascript;React;Mañana;false
+C20;c20-20-m-node-react;Cristofer Crego;cregocristoferlf@gmail.com;+542244446285;Front-End;Javascript;React;Mañana;true
+C20;c20-20-m-node-react;Tiziano Rossi Raczkoski;tizianorossi508@gmail.com;+543764288083;Front-End;Javascript;React;Mañana;false
+C20;c20-20-m-node-react;Lautaro Miceli;lautaromicelidev@gmail.com;+542213170009;Front-End;Javascript;React;Mañana;false
+C20;c20-20-m-node-react;Maria Antonieta Pereira ;antonietap0@gmail.com;+573053886510;Front-End;Javascript;React;Mañana;false
+C20;c20-20-m-node-react;Facundo Marconi;facundomarconi04@gmail.com;+541134567337;Front-End;Typescript;React;Mañana;true
+C20;c20-20-m-node-react;Malinda Perez;malindaperez@hotmail.com;+51983967260;QA Tester;Javascript;Otro - Postman - Miro - Jira - HTML - CSS - Trello;Mañana;true
+C20;c20-20-m-node-react;Nicolás Santiago Morales Romero;nicosmr56@gmail.com;+5491136932699;Front-End;Javascript;React;Mañana;false
+C20;c20-21-m-node-react;Lizbeth Selena Aldana Tarifeño;laldanat99@outlook.com;+51942287153;Back-End;Javascript;Node;Mañana;false
+C20;c20-21-m-node-react;Nicolás Ramos;nicoramos647@hotmail.com;+393332493498;Back-End;Typescript;Node;Mañana;false
+C20;c20-21-m-node-react;Benjamin  Peyraga;benjapey99@gmail.com;+5493487512474;Back-End;Javascript;Node;Mañana;true
+C20;c20-21-m-node-react;Julieth Perdomo;jperdomo@iegabo.edu.co;+573148688128;Back-End;Typescript;Node;Mañana;true
+C20;c20-21-m-node-react;Trinidad Corvalan;trinicorvalang@gmail.com;+56981846596;Back-End;Ruby;Otro - React Ruby on Rails + React;Mañana;true
+C20;c20-21-m-node-react;Abraham Garcia;maharba1707@gmail.com;+18099692593;Front-End;Javascript;React;Mañana;false
+C20;c20-21-m-node-react;Belén Aguirre;aguirrebelen@frba.utn.edu.ar;+5491140988151;Front-End;Javascript;React;Mañana;true
+C20;c20-21-m-node-react;Ronald Hernández;ronald09azaz16@gmail.com;+573012460521;Front-End;Javascript;React;Mañana;false
+C20;c20-21-m-node-react;Yanina Codega;ycodega@gmail.com;+543364340527;Front-End;Javascript;Figma - CSS - HTML - Photoshop;Mañana;false
+C20;c20-21-m-node-react;Gerberth Paul Contreras;gerberthcontreras@gmail.com;+51903111234;Mobile;Javascript;React - HTML - Flask - Trello;Mañana;true
+C20;c20-21-m-node-react;Miguel Antonio Ortiz;ortizmiguean@gmail.com;+5493815517928;QA Tester;Javascript;CSS - HTML;Mañana;false
+C20;c20-21-m-node-react;Ivana Galeano;galeanoivanamagali@gmail.com;+541155948263;Front-End;Javascript;React;Mañana;false
+C20;c20-22-m-java-react;Alexis García Ramirez ;alexisgarciaramire18@gmail.com;+573142572381;Back-End;Java;Spring;Mañana;true
+C20;c20-22-m-java-react;Marcos Hernandez;marcosargcarp@hotmail.com;+542915274187;Back-End;Java;Spring;Mañana;false
+C20;c20-22-m-java-react;Ronald Estrada;ronaldjair0705@gmail.com;+51953346640;Back-End;Java;Spring;Mañana;false
+C20;c20-22-m-java-react;Marianella Machicado;machicadomarianella@gmail.com;+543885399202;Back-End;Java;Spring;Mañana;false
+C20;c20-22-m-java-react;Dilan Quintero;dilandahier@gmail.com;+573015646991;Back-End;Java;Spring;Mañana;true
+C20;c20-22-m-java-react;Luz Lamas;luzlamas150@gmail.com;+595986256442;Front-End;Javascript;React;Mañana;false
+C20;c20-22-m-java-react;Gabriel Gotlib;gagotlib@gmail.com;+491605786936;Front-End;Javascript;React;Mañana;false
+C20;c20-22-m-java-react;Marcos Rillo Cabanne;marcosrillocabanne@gmail.com;+5493813927536;Front-End;Javascript;React;Mañana;false
+C20;c20-22-m-java-react;Martin Cerbin;martinpcerbin@gmail.com;+543455406311;Front-End;Javascript;React;Mañana;true
+C20;c20-22-m-java-react;Hizbo Khawaja;contact@hizbokhawaja.com;+923135875460;Front-End;Javascript;HTML - CSS - Figma;Mañana;true
+C20;c20-22-m-java-react;Mariana Rosso;marianabrosso@gmail.com;+543415628573;QA Tester;Ninguno;Jira Xray, ;Mañana;false
+C20;c20-22-m-java-react;Gisele Moises;yisimoises@gmail.com;+59896206749;QA Tester;Ninguno;Trello - Jira - Photoshop - Postman;Mañana;false
+C20;c20-22-m-java-react;Santiago Troiano;santi.troiano13@gmail.com;+541161483093;Back-End;Java;Spring;Mañana;true
+C20;c20-22-m-java-react;Sebastian Jimenez Mejia;sebastianjimenezing@gmail.com;+573023320010;Project Manager;Python;Jira - Trello;Full-Time;false
+C20;c20-23-m-java-react;Mariano Maldonado;marianomaldonado1290@gmail.com;+541178864982;Back-End;Java;Spring;Mañana;false
+C20;c20-23-m-java-react;Rafael Enrique Cortez;rafael.ecortez@gmail.com;+5493513411851;Back-End;Java;Spring;Mañana;false
+C20;c20-23-m-java-react;Sofia Ailén Britos;sofiibritos01@gmail.com;+543512708170;Back-End;Java;Spring;Mañana;false
+C20;c20-23-m-java-react;Agustin Vessoni;agustinvessoni149@gmail.com;+523331000176;Back-End;Java;Spring;Mañana;false
+C20;c20-23-m-java-react;Julián Polimeni;polimenijulian9@gmail.com;+541168093489;Back-End;Java;Spring;Mañana;false
+C20;c20-23-m-java-react;Ronald Hernández;ronaldhernandezdp@unimagdalena.edu.co;+573012460521;Front-End;Javascript;React;Mañana;false
+C20;c20-23-m-java-react;Juan Sebastián Fretes;sebafretesca@gmail.com;+595972482627;Front-End;Javascript;React;Mañana;false
+C20;c20-23-m-java-react;Carolina Ojeda;ojedac4r0@gmail.com;+543754438859;Front-End;Javascript;React;Mañana;true
+C20;c20-23-m-java-react;Cecilia Mansilla;ceci.m.digital@gmail.com;+542974364103;Front-End;Javascript;React;Mañana;false
+C20;c20-23-m-java-react;Iratxe Barrio;iratxe92@gmail.com;+34675062934;Front-End;Javascript;React;Mañana;false
+C20;c20-23-m-java-react;José Alexis  Moreno Zambrano ;brianarismendi@gmail.com;+5491160207257;QA Tester;Javascript;Jira - Postman - Trello - Spring - Otro;Mañana;false
+C20;c20-23-m-java-react;Mariano Knaap;marianoknaap2@gmail.com;+541139549141;Front-End;Javascript;React;Mañana;false
+C20;c20-23-m-java-react;Nahuel Regal;nahuelagustinregal@gmail.com;+541124870444;Back-End;Java;Spring;Mañana;false
+C20;c20-24-m-java-react;Eric Merel;ericmerel07@gmail.com;+50765031566;Back-End;Java;Spring;Mañana;true
+C20;c20-24-m-java-react;Luciano Molina;lucianomolina970@gmail.com;+543512873543;Back-End;Java;Spring;Mañana;false
+C20;c20-24-m-java-react;Samuel  Cifuentes;samuelelteso@gmail.com;+573145349227;Back-End;Java;Spring;Mañana;true
+C20;c20-24-m-java-react;Omar Andres  Bonett Madariaga;oabonettm@ufpso.edu.co;+573212093141;Back-End;Java;Spring;Mañana;false
+C20;c20-24-m-java-react;Eloy Simonin Genre;simonineloy123@gmail.com;+543534814952;Back-End;Java;Spring;Mañana;true
+C20;c20-24-m-java-react;Victor Tapia;victortapiaegana@gmail.com;+56961950862;Front-End;Javascript;React;Mañana;false
+C20;c20-24-m-java-react;Alejandro Exequiel Abalos Flores;alejandroexe96@gmail.com;+5493874081069;Front-End;Typescript;React;Mañana;false
+C20;c20-24-m-java-react;Leonardo Juan Pablo Valdez;vleonardojuanpablo@icloud.com;+5493816134310;Front-End;Javascript;React;Mañana;true
+C20;c20-24-m-java-react;Lucy Villogas;luvillogas@gmail.com;+51998826388;Front-End;Javascript;React;Mañana;false
+C20;c20-24-m-java-react;Marcelo Lencina;marcelodaniellencina@gmail.com;+5493564506201;Front-End;Typescript;React;Mañana;true
+C20;c20-24-m-java-react;Vanesa Gisele Diaco;vanediaco@hotmail.com;+541133860217;QA Tester;Otro;HTML Jira trello;Mañana;true
+C20;c20-24-m-java-react;Héctor Duarte;hectorduarte240.hd@gmail.com;+5491124718183;Front-End;Javascript;HTML - CSS - Photoshop - Trello;Mañana;false
+C20;c20-25-m-java-react;Matias Navio;naviomatias2@gmail.com;+542634673922;Back-End;Java;Spring;Mañana;true
+C20;c20-25-m-java-react;Xavier Nochelli;xaviernochelli@gmail.com;+542664004446;Back-End;Java;Spring;Mañana;false
+C20;c20-25-m-java-react;Wayner Josue Jimenez;waynerjive@gmail.com;+50686477354;Back-End;Java;Spring;Mañana;true
+C20;c20-25-m-java-react;Cristhian Danilo Guerrero Bautista;guerrerocristhian.coder@gmail.com;+393273988906;Back-End;Java;Spring;Mañana;false
+C20;c20-25-m-java-react;Arantxa Salom;asalom@lwempresas.com;+56936532885;Back-End;Java;Spring;Mañana;false
+C20;c20-25-m-java-react;Anthony Campos;anthonycq2024@gmail.com;+56983841366;Front-End;Javascript;React;Mañana;false
+C20;c20-25-m-java-react;Mussani Ruelas;mussaniruelas222@gmail.com;+59173701447;Front-End;Javascript;React;Mañana;false
+C20;c20-25-m-java-react;Nicolás Chomyn;chomynnicolas2@gmail.com;+595992361378;Front-End;Javascript;React;Mañana;false
+C20;c20-25-m-java-react;Carlos Hernando Barbosa Trina;carbono985@gmail.com;+573175690278;Front-End;Javascript;React;Mañana;true
+C20;c20-25-m-java-react;Bryan Lundberg;bryanlundberg@outlook.com;+522721192550;Front-End;Typescript;React;Mañana;false
+C20;c20-25-m-java-react;Jose Luis Cardenas;joseray20@gmail.com;+573024557630;QA Tester;Python;Jira - Trello - Otro - Postman Selenium, Rest Assured, Request, TestNG, PyTest;Mañana;true
+C20;c20-25-m-java-react;Daniel Quinayás Tello;daniel.qui.tello@gmail.com;+573023443586;Front-End;Javascript;React;Mañana;false
+C20;c20-26-m-java-react;Camila Martín;camilamartin1403@gmail.com;+543513450797;Back-End;Java;Spring;Mañana;false
+C20;c20-26-m-java-react;Bautista Basilio;bautistabasiliodev@outlook.com;+5492342454044;Back-End;Java;Spring;Mañana;true
+C20;c20-26-m-java-react;Christian Hedz;cristianhedz8@gmail.com;+525512030344;Back-End;Java;Spring;Mañana;false
+C20;c20-26-m-java-react;Juan Arroyave;jcjuanarroyave@gmail.com;+573045656812;Back-End;Java;Spring;Mañana;false
+C20;c20-26-m-java-react;Maximiliano Tomás Rivero Zuin;maximilianoriverozuin@gmail.com;+5492613435589;Back-End;Java;Spring;Mañana;false
+C20;c20-26-m-java-react;Lautaro Fernández;fernandez.lautaro@hotmail.com;+5491160382014;Front-End;Javascript;HTML - CSS - Trello - Miro;Mañana;false
+C20;c20-26-m-java-react;Agustín Figueredo;agustinfiguered@gmail.com;+542355525143;Front-End;Javascript;React;Mañana;false
+C20;c20-26-m-java-react;Julieta Aguilera;julieta.aguilera700@gmail.com;+542604341029;Front-End;Javascript;React;Mañana;false
+C20;c20-26-m-java-react;Edwin Suriel Patiño Mijangos ;edwin1suriel.pm@gmail.com;+529513009790;Front-End;Javascript;React;Mañana;false
+C20;c20-26-m-java-react;Agustín  De Robles;agustin.derobles1995@gmail.com;+5492901505527;Front-End;Javascript;React;Mañana;false
+C20;c20-26-m-java-react;Antonella Valentinuz;antonellavalentinuz@hotmail.com;+543434626126;QA Tester;Python;Trello - Miro;Mañana;false
+C20;c20-26-m-java-react;Marytere Benavides Pezo;maryterebenavides@gmail.com;+51966456880;Front-End;Javascript;React;Mañana;false
+C20;c20-27-m-java-react;Eimy Garcia;eimybarrera2024@gmail.com;+573012762724;Back-End;Java;Spring;Mañana;false
+C20;c20-27-m-java-react;Lorena Artieda;artiedalorena@gmail.com;+542214097909;Back-End;Java;Spring;Mañana;false
+C20;c20-27-m-java-react;Paula Dominguez;paula.dominguez2205@gmail.com;+5491131287180;Back-End;Java;Spring;Mañana;false
+C20;c20-27-m-java-react;Juan Antonio Ruiz Hernández;jaruiz721818@gmail.com;+525633000064;Back-End;Java;Spring;Mañana;false
+C20;c20-27-m-java-react;David Herrera;dalejoherrera3001@gmail.com;+573178791551;Back-End;Java;Spring;Mañana;true
+C20;c20-27-m-java-react;Valentín Vera;valentinvera2805@gmail.com;+543487232181;Front-End;Typescript;React;Mañana;false
+C20;c20-27-m-java-react;Jose Llanos;jose.llanos95@gmail.com;+5493764134970;Front-End;Javascript;React;Mañana;false
+C20;c20-27-m-java-react;Daniela Araya Madrigal ;kd.araya.m@gmail.com;+50660728006;Front-End;Javascript;React;Mañana;false
+C20;c20-27-m-java-react;Gabriel Torres;gabrielta1798@gmail.com;+59169026852;Front-End;Typescript;React;Mañana;false
+C20;c20-27-m-java-react;Julio Segundo Eduardo Maquera;julio20edu@gmail.com;+51900970139;Front-End;Javascript;React;Mañana;false
+C20;c20-27-m-java-react;Graciela Bruno;gracielabruno13@gmail.com;+5491151220283;QA Tester;Ninguno;Jira - Postman - Trello - Miro - Figma;Mañana;true
+C20;c20-28-n-csharp;Abel Marcial Almada Meza;abel.almada.1992@gmail.com;+5491140996469;Back-End;C#;.Net;Noche;true
+C20;c20-28-n-csharp;Michael Gonzales;mike.gonzales2601@gmail.com;+541125134484;Back-End;C#;.Net;Noche;false
+C20;c20-28-n-csharp;Pablo Valdez;valdezpablo316@gmail.com;+541134038627;Back-End;C#;.Net;Noche;true
+C20;c20-28-n-csharp;Andres Shranka;andreshranka@gmail.com;+56940937623;Back-End;C#;.Net;Noche;false
+C20;c20-28-n-csharp;Valentina  Esposito;valuvale23@gmail.com;+543543302890;Back-End;C#;.Net;Noche;true
+C20;c20-28-n-csharp;Maria Eugenia  Gonzalez ;lic.nutrimeg@gmail.com;+543435026769;Front-End;C#;.Net - React;Noche;false
+C20;c20-28-n-csharp;Milton  Pulido;milton.pulido2018@gmail.com;+573102887728;Front-End;C#;React - HTML - CSS - .Net - Postman - Angular;Noche;false
+C20;c20-28-n-csharp;Juanita Herrera;juanitaherrera846@gmail.com;+573187494586;Front-End;C#;HTML - CSS ;Noche;true
+C20;c20-28-n-csharp;Maria Eugenia  Gonzalez ;euge_mcr30@hotmail.com;+543435026769;Front-End;C#;.Net;Noche;false
+C20;c20-28-n-csharp;Melina Elizabeth Sanchez;alguien4598@gmail.com;+5493364328535;Front-End;C#;React - HTML - CSS;Noche;true
+C20;c20-28-n-csharp;Lucia Pfaff;lupfaff3@gmail.com;+541140373429;UX/UI;Ninguno;Figma;Noche;false
+C20;c20-28-n-csharp;Andrea Vanessa  Reyes Mogollón ;avanessa.ar@gmail.com;+56975894328;QA Tester;Ninguno;Jira;Noche;false
+C20;c20-28-n-csharp;Ariadna Ayelen Ximena Sanabria;ayelensanabria880@gmail.com;+543484698103;Project Manager;Typescript;HTML - CSS - Node - Figma - Spring - React - Angular SQL y MONGOdb;Noche;true
+C20;c20-28-n-csharp;Cesar Jan Karlo Leos Suarez;jankarli69@outlook.com;+523325344047;Back-End;C#;.Net;Noche;false
+C20;c20-28-n-csharp;Jose Leandro Hernandez Gongora;powkax12345@gmail.com;+529971200683;QA Tester;Python;Android Studio - Jira - Postman - Trello;Noche;false
+C20;c20-28-n-csharp;Maria Cintia  Crifo ;cintiacrifo@gmail.com;+5492615062457;UX/UI;Otro;Figma;Noche;true
+C20;c20-29-n-csharp-angular;Sergio Sebastian Ortiz;so4566665@gmail.com;+543476303270;Back-End;C#;.Net;Noche;false
+C20;c20-29-n-csharp-angular;Jairo Navez Aroca;jaironavezaroca@gmail.com;+51956504624;Back-End;C#;.Net;Noche;true
+C20;c20-29-n-csharp-angular;Adonis  Paniagua;adonis_paniagua@hotmail.com;+18297929272;Back-End;C#;.Net;Noche;false
+C20;c20-29-n-csharp-angular;José Gastón Narvaja;josegastonnarvaja@gmail.com;+541156559648;Back-End;C#;.Net;Noche;false
+C20;c20-29-n-csharp-angular;Edwin Alexander Zuniga Hernández;edwin.alexander811@gmail.com;+50378895978;Back-End;C#;.Net;Noche;false
+C20;c20-29-n-csharp-angular;Juan Daniel Pacheco;juan.pacheco@bilinguestrainingcenter.edu.co;+573205662106;Front-End;Java;Angular;Noche;false
+C20;c20-29-n-csharp-angular;Armando Jiménez Lucea;ajlucea@hotmail.com;+34652968139;Front-End;Typescript;Angular - HTML - CSS - Node - Express - Ionic;Noche;true
+C20;c20-29-n-csharp-angular;Yusleidy Gamboa;yusgamboa16@gmail.com;+573212684025;Front-End;Java;HTML - CSS - React - Spring;Noche;true
+C20;c20-29-n-csharp-angular;Katerina Campos;katerinacampospizarro@gmail.com;+56983666566;Front-End;Typescript;Angular - HTML - CSS - Node - Express - Figma - Jira - Postman;Noche;false
+C20;c20-29-n-csharp-angular;Felipe Hernández;felipehmoraarg@gmail.com;+584129085837;Front-End;Javascript;HTML - CSS - Angular - Node - Figma - Jira - Postman MEAN;Noche;false
+C20;c20-29-n-csharp-angular;Lucas Martiarena;le.martiarena@gmail.com;+542235897055;UX/UI;Ninguno;Figma;Noche;false
+C20;c20-29-n-csharp-angular;Joshelin Torres;joshsan05@gmail.com;+5491141457880;QA Tester;Python;Postman - Jira;Noche;false
+C20;c20-29-n-csharp-angular;Sthiven Garcia;esthiven.garcia2@gmail.com;+541170366167;Project Manager;PHP;Laravel - Codeigniter - HTML - CSS - Spring - Jira - Postman Laravel 8 y 9 Codeigniter 3 y 4 javascript;Noche;true
+C20;c20-29-n-csharp-angular;Juan Luis Lopez;juan_ls58@hotmail.com;+523521657022;Front-End;Java;React Native - Angular - Figma - Flutter;Noche;false
+C20;c20-29-n-csharp-angular;Adriana Champane;adrianachampane@gmail.com;+543874670350;QA Tester;Ninguno;Jira;Noche;true
+C20;c20-29-n-csharp-angular;Eliana Mendez;elianamendez29@gmail.com;+51925225442;UX/UI;Ninguno;Figma;Noche;false
+C20;c20-30-n-python-angular;Camilo Alfredo Suarez Giraldo;casuarez3587@misena.edu.co;+573013593386;Back-End;Python;Django;Noche;false
+C20;c20-30-n-python-angular;Guadalupe Cortes Ramirez;guadalupecortes030@gmail.com;+525584873404;Back-End;Python;Django;Noche;false
+C20;c20-30-n-python-angular;Abraham Matehuala Valenzuela ;abrahamatev@gmail.com;+526648000096;Back-End;Python;Django;Noche;true
+C20;c20-30-n-python-angular;Luis Garcia;luisgarciah2010@hotmail.com;+573102333505;Back-End;Python;Django;Noche;true
+C20;c20-30-n-python-angular;Facundo Paz Buxeda;facundopazbuxeda@gmail.com;+5493854352302;Back-End;Python;Django;Noche;false
+C20;c20-30-n-python-angular;David Fernando Camara Baspineiro;fcamata77@gmail.com;+59165807763;Front-End;Javascript;Angular;Noche;false
+C20;c20-30-n-python-angular;Juan Pacheco;jpachecoim044@gmail.com;+573239929942;Front-End;Java;Angular Angular;Noche;false
+C20;c20-30-n-python-angular;Franco Piscoya;fr4ncopiscoya@gmail.com;+51937225378;Front-End;Typescript;Angular - Laravel - HTML - CSS - Trello ;Noche;false
+C20;c20-30-n-python-angular;Alvaro Joseph Fernandez Flores;alvarojoseph1999@gmail.com;+51940892689;Front-End;Python;Angular - HTML - CSS - Laravel - Figma - Postman - Trello;Noche;true
+C20;c20-30-n-python-angular;Martin Roige;martinroige@hotmail.com;+5491165700841;Front-End;Python;Django - React - Node;Noche;false
+C20;c20-30-n-python-angular;Manuel Farias;manuelfarias@gmail.com;+541151133756;UX/UI;Ninguno;HTML - CSS;Noche;false
+C20;c20-30-n-python-angular;Camila  Castillo;castillocamilasolange@gmail.com;+541138278134;QA Tester;Ninguno;HTML - Django - Jira - Trello;Noche;false
+C20;c20-30-n-python-angular;José  Contreras ;joselbcontreras@gmail.com;+5491168523358;Project Manager;Python;Jira - Trello;Noche;false
+C20;c20-30-n-python-angular;Camila Maria Laguna Racedo;camilagunaracedo@gmail.com;+543815787900;Project Manager;Java;Android Studio - React;Noche;true
+C20;c20-30-n-python-angular;Cecil Limon;ceci23rito@gmail.com;+525563236019;UX/UI;Otro;Figma;Noche;true
+C20;c20-31-n-python-react;Cristian David Herrera Gomez;cristian.herrera9924@gmail.com;+573002688127;Back-End;Python;Django;Noche;true
+C20;c20-31-n-python-react;Ismael Jara;ismaelsjarag@gmail.com;+56969057708;Back-End;Python;Django;Noche;false
+C20;c20-31-n-python-react;Jose Carlos Perdomo Herrera;phpperdomo@gmail.com;+584169404142;Back-End;Python;Django;Noche;true
+C20;c20-31-n-python-react;Mauricio  Navarro;maruchoxd@gmail.com;+56997750153;Back-End;Python;Django;Noche;false
+C20;c20-31-n-python-react;Fausto Giorgis;fausto.giorgis@gmail.com;+542216040249;Back-End;Python;Django;Noche;false
+C20;c20-31-n-python-react;Mateo  Rueda ;mateoruedagomez@gmail.com;+573205700685;Front-End;Javascript;CSS - HTML - Figma - Trello;Noche;false
+C20;c20-31-n-python-react;Sebastián Palate;sebas.palate11@gmail.com;+593995145378;Front-End;Javascript;React;Noche;true
+C20;c20-31-n-python-react;Sebastián  Barrera Herrera ;sebasbh2008@hotmail.com;+573116404916;Front-End;Typescript;React;Noche;false
+C20;c20-31-n-python-react;Piero Fernando Ramirez Esteban;estibensmax@gmail.com;+51996887701;Front-End;Javascript;React;Noche;false
+C20;c20-31-n-python-react;Fernando Gallardo;gallarfa.29@gmail.com;+543764398063;Front-End;Javascript;React;Noche;false
+C20;c20-31-n-python-react;Leisly Perez Mendoza;ing.leislymp@gmail.com;+522761335391;UX/UI;Javascript;HTML - CSS - Android Studio - Adobe Illustrator - Trello;Noche;true
+C20;c20-31-n-python-react;Graciela Badin;graciela.badin@gmail.com;+542214857459;QA Tester;Ninguno;Jira - Trello - Miro - Postman;Noche;false
+C20;c20-31-n-python-react;Jhon Jairo Berdugo Mendoza;jhonberdugo.cl@gmail.com;+573183918866;Project Manager;Ninguno;HTML - CSS - Figma - Jira - Trello - Miro;Noche;true
+C20;c20-31-n-python-react;Fabrizio Solan;solanfabrizio01@gmail.com;+5491139507492;UX/UI;Ninguno;Figma - Jira - Trello - Miro;Noche;false
+C20;c20-32-n-php-react;Karent Torres;karentrivas22@gmail.com;+573127686924;Back-End;PHP;Laravel;Noche;false
+C20;c20-32-n-php-react;José Raúl  Miranda Prieto;mirandaprietojoseraul@gmail.com;+5358383756;Back-End;PHP;Laravel;Noche;false
+C20;c20-32-n-php-react;María Elizabeth Oliva Gonzales;maritha.gonzales.1999@gmail.com;+51910731813;Back-End;PHP;Laravel;Noche;false
+C20;c20-32-n-php-react;Favian Medina;fabinnerself@gmail.com;+59167023053;Back-End;PHP;Laravel;Noche;false
+C20;c20-32-n-php-react;Damian Lema;damianeduardolema@hotmail.com;+541170172376;Back-End;PHP;Laravel;Noche;true
+C20;c20-32-n-php-react;Eleonora Martina Omentari Ongaro;eleo.ongaro@gmail.com;+542216542781;Front-End;Javascript;HTML - CSS - Photoshop;Noche;false
+C20;c20-32-n-php-react;Enrique  Sandoval ;absalonsandoval56@gmail.com;+51948749893;Front-End;Javascript;HTML - CSS - Figma;Noche;false
+C20;c20-32-n-php-react;Jorgelina Isabel  Silva Mauricio ;isabel_2292@hotmail.com;+51948400796;Front-End;Javascript;React;Noche;true
+C20;c20-32-n-php-react;Diego Alberto Urioste;daurioste@gmail.com;+34621270827;Front-End;Ninguno;Figma - HTML - CSS;Noche;false
+C20;c20-32-n-php-react;Jhonatan Remon;jhony.fori@gmail.com;+541122559596;Front-End;Typescript;Node - Express - HTML - CSS - Figma - Android Studio - Postman ;Noche;true
+C20;c20-32-n-php-react;Jeyson Olmos;jeyson.olmos.paz@gmail.com;+56953708470;UX/UI;Ninguno;Figma;Noche;false
+C20;c20-32-n-php-react;Damián Gabriel Esteves;desteves.dev@gmail.com;+5491151421282;QA Tester;Ninguno;Jira;Noche;false
+C20;c20-32-n-php-react;Nicolas Herrera;herreranicolasezequiel@hotmail.com;+541160557224;Project Manager;Javascript;CSS - HTML;Noche;false
+C20;c20-32-n-php-react;Antonella Marra;anto.daiana02@gmail.com;+542284577987;UX/UI;Ninguno;Miro;Noche;false
+C20;c20-33-n-php-react;Edison Gualle;ed.gualle@gmail.com;+593992852752;Back-End;PHP;Laravel;Noche;false
+C20;c20-33-n-php-react;Kevin Telllo;kevinhernantelloarevalo.2018@gmail.com;+51917469110;Back-End;PHP;Laravel;Noche;true
+C20;c20-33-n-php-react;Ricardo Nahuel Ripa;nahuelripa@hotmail.com;+59170872473;Back-End;PHP;Laravel;Noche;false
+C20;c20-33-n-php-react;Armando Mora;armandomora14115@gmail.com;+573203385899;Back-End;PHP;Laravel;Noche;true
+C20;c20-33-n-php-react;Rodrigo Kohnen;roddericckk@gmail.com;+595986144272;Front-End;Javascript;React;Noche;false
+C20;c20-33-n-php-react;Nicolas Andrés López Vargas;andreslopez9820@gmail.com;+573193456380;Front-End;Javascript;React;Noche;true
+C20;c20-33-n-php-react;Diego Cabre;diegocabre@gmail.com;+56947637541;Front-End;Javascript;React;Noche;true
+C20;c20-33-n-php-react;Julio Segundo Eduardo Maquera;jeduardomaquera@gmail.com;+51900970139;Front-End;Javascript;React;Noche;false
+C20;c20-33-n-php-react;Ignacio Aldunate;nacho.aldunate@gmail.com;+56982505978;Front-End;Javascript;HTML - CSS - Node - Express - Figma - Adobe Illustrator - Photoshop - Trello;Noche;false
+C20;c20-33-n-php-react;Sofía Ávila;avilasofi1312@gmail.com;+50256264076;UX/UI;Ninguno;Figma;Noche;false
+C20;c20-33-n-php-react;Alejandra Castro;alejandrairenecastroclaros@gmail.com;+59165356861;QA Tester;PHP;React - Postman - Vue - Angular;Noche;false
+C20;c20-33-n-php-react;Jose Paternina;josepto@hotmail.com;+573187392658;Project Manager;Javascript;Jira - HTML - CSS - Figma;Noche;true
+C20;c20-33-n-php-react;Naomi Leiva;leivanaomi.b@gmail.com;+543516760032;UX/UI;Javascript;Figma;Noche;false
+C20;c20-34-n-node-react;Juan Antonio Cu Cauich;antony556_04@outlook.com;+529811160488;Back-End;Typescript;Node;Noche;false
+C20;c20-34-n-node-react;Billy Mendieta;oscarald.mc@gmail.com;+59174089941;Back-End;Typescript;Node;Noche;false
+C20;c20-34-n-node-react;Agustin Kainer;aguskainer98@gmail.com;+543756414614;Back-End;Javascript;Node;Noche;true
+C20;c20-34-n-node-react;Francisco Escobar;franciscomateoescobar1@gmail.com;+59894672626;Back-End;Javascript;Node;Noche;false
+C20;c20-34-n-node-react;Lucas David  Ibañez;lk5bull@gmail.com;+543816594330;Back-End;Javascript;Node;Noche;false
+C20;c20-34-n-node-react;David Jeferson Ferreira Da Silva;djotadeveloper@gmail.com;+541162189657;Front-End;Javascript;React;Noche;true
+C20;c20-34-n-node-react;William  Londoño;willpromor@gmail.com;+573205984682;Front-End;Javascript;React;Noche;false
+C20;c20-34-n-node-react;Nahuel Lupe;nahuellupe@hotmail.com;+541125012951;Front-End;Javascript;React;Noche;false
+C20;c20-34-n-node-react;Luciano Pardo;pardobio@gmail.com;+5493875060613;Front-End;Javascript;React;Noche;true
+C20;c20-34-n-node-react;Joaquín Mesa;joacomesa@gmail.com;+5491160065978;Front-End;Javascript;React;Noche;true
+C20;c20-34-n-node-react;Denice De Boeck;denicedeboeck@gmail.com;+5493816558735;UX/UI;Ninguno;Figma - Adobe Illustrator - Photoshop;Noche;true
+C20;c20-34-n-node-react;Jairo Sandoval;jandrad38807@gmail.com;+541169623304;QA Tester;Ninguno;Jira - Trello - Figma Selenium ;Noche;false
+C20;c20-34-n-node-react;Juan Ignacio Portilla Kitroser;jpkitro@gmail.com;+542345455007;Project Manager;Python;Django - Jira;Noche;true
+C20;c20-34-n-node-react;Mauricio Monzon;mauri.monzon.dev@gmail.com;+541138612819;Mobile;Javascript;React Native - React - Android Studio;Noche;false
+C20;c20-35-n-node-react;Benjamin Zumaran;benjamin_zr@hotmail.com;+51966711473;Back-End;Javascript;Node;Noche;false
+C20;c20-35-n-node-react;Luis Montes;ingeniomontescreativo@gmail.com;+573115203926;Back-End;Javascript;Node;Noche;true
+C20;c20-35-n-node-react;Samuel Gauna;samuelgauna7@gmail.com;+542612436795;Back-End;Typescript;Node;Noche;true
+C20;c20-35-n-node-react;Alejandro Dupuy;dupuyalejandro04@gmail.com;+642041300852;Back-End;Javascript;Node;Noche;false
+C20;c20-35-n-node-react;Luis  Velasquez;velark07@gmail.com;+542974301946;Back-End;Typescript;Node;Noche;false
+C20;c20-35-n-node-react;Genaro Bottarlini;bottarlini.99@outlook.com;+5493447459495;Front-End;Javascript;React;Noche;true
+C20;c20-35-n-node-react;Angel  Bernechea;angelalberto545@gmail.com;+19786011460;Front-End;Typescript;React;Noche;true
+C20;c20-35-n-node-react;Claus Castillo;xclauscastillox@gmail.com;+595972217068;Front-End;Typescript;React;Noche;true
+C20;c20-35-n-node-react;Steven Serna Zuluaga;stevensernazuluaga@gmail.com;+573209993692;Front-End;Typescript;React;Noche;false
+C20;c20-35-n-node-react;Jose Luis Capote Rojas;capoterojas123@gmail.com;+573234349129;Front-End;Typescript;React;Noche;false
+C20;c20-35-n-node-react;Oscar Paez;oscar_paez0209@hotmail.com;+573106888428;UX/UI;Javascript;HTML - CSS - Figma - Photoshop;Noche;true
+C20;c20-35-n-node-react;Maria Alejandra Rodriguez;malejarodri11@gmail.com;+573185771114;QA Tester;PHP;Postman - Laravel - HTML - CSS - Otro selenium;Noche;true
+C20;c20-35-n-node-react;Carlos Ochoa;carlos8a.dev@gmail.com;+524521161648;Project Manager;Typescript;React - .Net;Noche;false
+C20;c20-35-n-node-react;Santiago Quipildor;quipildorsantiago@gmail.com;+543816296894;Back-End;Typescript;Nest - Next;Noche;false
+C20;c20-35-n-node-react;Gerardo Gaspar;gaspar7u7@gmail.com;+525533202791;DevOps;Python;Django;Noche;true
+C20;c20-35-n-node-react;Estefania Martin;martinestefania@gmail.com;+5493413455841;Mobile;Python;React;Noche;false
+C20;c20-36-n-node-react;Jose Luis Alvarez Escobar;esi.segurity@gmail.com;+51967539905;Back-End;Javascript;Node;Noche;false
+C20;c20-36-n-node-react;Gustavo Emilio Lima;limagustavoemilio@gmail.com;+5493516424175;Back-End;Javascript;Node;Noche;true
+C20;c20-36-n-node-react;Raul Diaz;raul.g.quispe@gmsil.com;+51937041966;Back-End;Javascript;Node;Noche;false
+C20;c20-36-n-node-react;Laura Lucia Espindola;lau_espindola96@hotmail.com;+543515938619;Back-End;Javascript;Node;Noche;false
+C20;c20-36-n-node-react;Alexis González;alegonfern@gmail.com;+56955181000;Back-End;Javascript;Flask - React - HTML - CSS - Figma;Noche;true
+C20;c20-36-n-node-react;Pablo Daniel Guzman;pguzmanit@gmail.com;+5491133356347;Front-End;Javascript;React;Noche;false
+C20;c20-36-n-node-react;Diego Guanuco;diegoguanuco14@gmail.com;+543874573288;Front-End;Typescript;React;Noche;true
+C20;c20-36-n-node-react;Fabian Quintero ;fabiankintero@gmail.com;+573117596424;Front-End;Javascript;React;Noche;false
+C20;c20-36-n-node-react;Martin Dotto;martin_dotto@hotmail.com;+543513871701;Front-End;Javascript;React;Noche;false
+C20;c20-36-n-node-react;Diego Augusto Herrera;diegoaugustoh23@gmail.com;+18293282657;Front-End;Typescript;React;Noche;false
+C20;c20-36-n-node-react;Guido Gutierrez;jossrobeon@gmail.com;+5492346535336;UX/UI;Javascript;Figma - Adobe Illustrator - Photoshop;Noche;false
+C20;c20-36-n-node-react;Mateo Joel Lopez;lopezmateojoel123@gmail.com;+573219266823;QA Tester;Javascript;Angular - HTML - CSS - Django - Node - Express - Jira - Postman - Trello - Otro;Noche;false
+C20;c20-36-n-node-react;Triana Devia;trianadevia@gmail.com;+542615173107;Project Manager;Python;Trello Github projects;Noche;false
+C20;c20-36-n-node-react;Diego Cubillos;dacubillosma@unal.edu.co;+573169510150;DevOps;Python;HTML - CSS Aws;Noche;false
+C20;c20-36-n-node-react;Jean Bouffanais;bouffanaisj@gmail.com;+56952220745;Mobile;Javascript;React Native - Express;Noche;false
+C20;c20-37-n-node-react;Fernanda Sivila;fernandabsivila@gmail.com;+5493884399274;Back-End;Javascript;Node;Noche;false
+C20;c20-37-n-node-react;Andre Farfan;andre.work.go@gmail.com;+51983457311;Back-End;Javascript;Node;Noche;false
+C20;c20-37-n-node-react;Joan Sebastian;joangomezsebas@gmail.com;+573203457645;Back-End;Javascript;Node;Noche;false
+C20;c20-37-n-node-react;Luis Lambis;luiggymusica@gmail.com;+56945990162;Back-End;Javascript;Node;Noche;false
+C20;c20-37-n-node-react;Facundo Javier Gomez;ffffacu@hotmail.com;+541158203866;Back-End;Javascript;Node;Noche;false
+C20;c20-37-n-node-react;Leandro Martínez;leandromartinez.dev@gmail.com;+59895220063;Front-End;Javascript;React;Noche;false
+C20;c20-37-n-node-react;Enrique Lopez;morelearning2025@gmail.com;+528333785226;Front-End;Javascript;React;Noche;true
+C20;c20-37-n-node-react;Víctor Alfonso Salas Arroyo;patarroyo1995@gmail.com;+573147275757;Front-End;Javascript;HTML - CSS HTML, CSS;Noche;true
+C20;c20-37-n-node-react;Alexander Coronell;contact@alexcoronell.dev;+573186290285;Front-End;Javascript;React;Noche;false
+C20;c20-37-n-node-react;Sebastian Alonso Delgado Castañeda;sebasdc2003@gmail.com;+51956387998;Front-End;Javascript;HTML - CSS;Noche;false
+C20;c20-37-n-node-react;Carlos  Cassano;cassano9703@gmail.com;+51931122384;UX/UI;PHP;Vue - HTML - Figma;Noche;true
+C20;c20-37-n-node-react;Juan Francisco  Castro Lazarte;juansicabj51@gmail.com;+5491151788931;QA Tester;Ninguno;Jira - Postman - Trello - Otro SQL;Noche;false
+C20;c20-37-n-node-react;Noemí Zalazar;noecoast@gmail.com;+5492257417630;Project Manager;Python;Trello - Jira - Otro;Noche;false
+C20;c20-38-n-node-react;Agustin Soleti;agustinsoleti95@gmail.com;+542615939684;Back-End;Javascript;Node;Noche;false
+C20;c20-38-n-node-react;Daisy Castillo;daisyktbpa@gmail.com;+56982763642;Back-End;Javascript;Node;Noche;false
+C20;c20-38-n-node-react;Kevin Darwin Salinas Valerde;kevinsalinasvd@gmail.com;+51929129548;Back-End;Typescript;Node;Noche;false
+C20;c20-38-n-node-react;Jhon Dany Mamani;jdany.mc@gmail.com;+51974787088;Back-End;Javascript;React;Noche;true
+C20;c20-38-n-node-react;Maria Del Rosario Zambrana Diaz;rosariozambrana83@gmail.com;+59177816191;Back-End;Javascript;Node;Noche;true
+C20;c20-38-n-node-react;Carolina Case;carolina.case97@gmail.com;+542235722901;Front-End;Javascript;React;Noche;false
+C20;c20-38-n-node-react;Luiggy Carlin;luiggycarlin@gmail.com;+51994266065;Front-End;Typescript;React;Noche;false
+C20;c20-38-n-node-react;Johan Garcia;samus941203@gmail.com;+573135018409;Front-End;Javascript;React;Noche;false
+C20;c20-38-n-node-react;Andres Escobar;andresfescobarv598@gmail.com;+573233973074;Front-End;Typescript;React;Noche;false
+C20;c20-38-n-node-react;Luciano Pardo;pardobio@mail.com;+5493875060613;Front-End;Javascript;React;Noche;true
+C20;c20-38-n-node-react;Miguel Noboa;mnoboag@hotmail.com;+593984485744;UX/UI;Ninguno;HTML - Figma FigJam;Noche;false
+C20;c20-38-n-node-react;Marisa Del Carmen Palma;mdcpalma1972@gmail.com;+5491130056564;QA Tester;Ninguno;Jira;Noche;false
+C20;c20-39-n-node-react;Pablo Alcaraz ;pabloealcaraz@gmail.com;+542804705071;Back-End;Javascript;Node;Noche;false
+C20;c20-39-n-node-react;Bautista Lonardi;lonardibautista@gmail.com;+543446212025;Back-End;Javascript;Node;Noche;false
+C20;c20-39-n-node-react;Jose Manuel Franco Alzate;josefrancoprogramacion@gmail.com;+573229227773;Back-End;Javascript;Node;Noche;false
+C20;c20-39-n-node-react;Mario Carbajal;droidjr10@gmail.com;+51943064117;Back-End;Typescript;Node;Noche;false
+C20;c20-39-n-node-react;Elias David  Galeano;galeanoeliasdavid@gmail.com;+541137755533;Back-End;Typescript;Node;Noche;true
+C20;c20-39-n-node-react;Jhoselyn  Fernández Ojeda ;jhoselyn.fernandez.ojeda@gmail.com;+59174542611;Front-End;Javascript;React;Noche;false
+C20;c20-39-n-node-react;Álvaro  Gómez ;alvaroigomezj96@gmail.com;+59895197545;Front-End;Javascript;React;Noche;false
+C20;c20-39-n-node-react;Sebastian Medina;medinasebastian172@gmail.com;+5491131380648;Front-End;Javascript;HTML - CSS - Otro;Noche;false
+C20;c20-39-n-node-react;Giuseppe Macchiavello;chepogor@gmail.com;+51918959496;Front-End;Typescript;React;Noche;false
+C20;c20-39-n-node-react;Marco Velasquez;marcovelasquez90@hotmail.com;+584148930664;Front-End;Javascript;React;Noche;false
+C20;c20-39-n-node-react;Lisette Malavé;liss.malave@gmail.com;+541126575577;QA Tester;Javascript;Jira - Postman jmeter;Noche;false
+C20;c20-40-n-node-react;Matias Aveiro;aveiromatias@gmail.com;+543704216650;Back-End;Javascript;Node;Noche;true
+C20;c20-40-n-node-react;Roly  Ochoa;cachamocito@gmail.com;+59171166768;Back-End;Typescript;Node;Noche;false
+C20;c20-40-n-node-react;Miguel Coronel;macz0@hotmail.com;+573108975713;Back-End;Javascript;Node;Noche;true
+C20;c20-40-n-node-react;Marlon Eduardo Montenegro Paz;marlonmontenegropaz@gmail.com;+50379365398;Back-End;Javascript;Node;Noche;false
+C20;c20-40-n-node-react;Guillermo Asuaje;acelven@hotmail.com;+17867251067;Back-End;Javascript;React - Flask - Postman;Noche;true
+C20;c20-40-n-node-react;Bryan Alexander Lundberg Jiménez;bryanlundberg01@gmail.com;+522721192550;Front-End;Typescript;React;Noche;false
+C20;c20-40-n-node-react;Erasmo Rojas;erasmorojastech@gmail.com;+573213902120;Front-End;Javascript;React;Noche;false
+C20;c20-40-n-node-react;Braulio Tovar;bratoli1998@gmail.com;+573043858650;Front-End;Javascript;React;Noche;false
+C20;c20-40-n-node-react;Milton Flores;miltonoscarflores@gmail.com;+543413957643;Front-End;Javascript;React;Noche;false
+C20;c20-40-n-node-react;Jersson Arley Osma Cifuentes;jessonarleyosma@gmail.com;+573102510422;Front-End;Javascript;React;Noche;false
+C20;c20-40-n-node-react;Agustina Bruno;agustinabruno088@gmail.com;+5492634733877;QA Tester;Ninguno;Jira - Postman - Trello - HTML - CSS;Noche;true
+C20;c20-41-n-node-react;Erich Armijo;erich.armijo.dev@gmail.com;+56999769380;Back-End;Javascript;Node;Noche;false
+C20;c20-41-n-node-react;Emerson  Abello Rivera;emerguns@icloud.com;+573143502809;Back-End;Javascript;Node;Noche;false
+C20;c20-41-n-node-react;Marcos Roman;marcosdromand@gmail.com;+595982165574;Back-End;Javascript;Svelte;Noche;false
+C20;c20-41-n-node-react;Alejandro Javier Albarran Espinosa;alexalbarrane@gmail.com;+527226168331;Back-End;Javascript;Node;Noche;false
+C20;c20-41-n-node-react;Carlos Bordón;carlosjbordon@gmail.com;+5493425951876;Back-End;Typescript;.Net;Noche;false
+C20;c20-41-n-node-react;Victor Murcio;murcio2490@gmail.com;+525561127288;Front-End;Javascript;React;Noche;true
+C20;c20-41-n-node-react;Angel Añez;angdavid2910@gmail.com;+584246764447;Front-End;Javascript;React;Noche;false
+C20;c20-41-n-node-react;Ricardo Martín  Hoyos ;rhdesarrolloseo@gmail.com;+51925417209;Front-End;Javascript;React;Noche;false
+C20;c20-41-n-node-react;Rafael García;rafael000182@gmail.com;+573053345638;Front-End;Javascript;React;Noche;false
+C20;c20-41-n-node-react;Rocio Livingston;rlivingstoux@gmail.com;+541165910322;Front-End;Javascript;HTML - CSS - Figma HTML, CSS, JS, FIGMA, diseño;Noche;true
+C20;c20-41-n-node-react;Erika De La Vega;erikadelavega000@gmail.com;+529811223039;QA Tester;C#;Jira - Postman - Trello;Noche;false
+C20;c20-42-n-node-react;Marcelo Exequiel Vizuara Ponce;vizuara01@gmail.com;+543816828615;Back-End;Javascript;Node;Noche;false
+C20;c20-42-n-node-react;Carlos Antonio Silva Da Silva;csilva1073@gmail.com;+5592999999999;Back-End;GO;Otro Golang;Noche;false
+C20;c20-42-n-node-react;Gonzalo Nahuel Vogel;vogelnahuel@gmail.com;+541130963203;Back-End;GO;React - Next;Noche;false
+C20;c20-42-n-node-react;Alain Jesus  Sosa Velarde;alain.sosa.v@gmail.com;+59168009881;Front-End;Javascript;React;Noche;false
+C20;c20-42-n-node-react;Juan Giannattasio;juanse.giannattasio@gmail.com;+541157980892;Front-End;Javascript;React;Noche;false
+C20;c20-42-n-node-react;Lucas Aguirre;lucasagui2205@gmail.com;+542478542750;Front-End;Typescript;React;Noche;false
+C20;c20-42-n-node-react;Engels Cordones;engels.cordones@gmail.com;+18493511160;Front-End;Javascript;React;Noche;false
+C20;c20-42-n-node-react;William Polanco;williampolancodev@gmail.com;+584124242257;Front-End;Javascript;React;Noche;false
+C20;c20-43-n-java-react;Jonnathan Rodriguez;jonnathan14rodriguez@gmail.com;+50684620078;Back-End;Java;Spring;Noche;true
+C20;c20-43-n-java-react;Christian Pérez;christianperezt7@gmail.com;+51922702427;Back-End;Java;Spring;Noche;false
+C20;c20-43-n-java-react;Angel Eduardo Hincho Jove;ahincho@unsa.edu.pe;+51933502139;Back-End;Java;Spring;Noche;false
+C20;c20-43-n-java-react;Brayan Ruiz Marreros;brayanruiz_32@hotmail.com;+51978924934;Back-End;Java;Spring;Noche;false
+C20;c20-43-n-java-react;Ezequiel Tomas Ramallo;ezeramallo@gmail.com;+541140425458;Back-End;Java;Spring;Noche;false
+C20;c20-43-n-java-react;Cristian Gabriel  Arévalo ;cris.are.3496@gmail.com;+5491132894896;Back-End;Java;Spring;Noche;false
+C20;c20-43-n-java-react;Juan Ignacio Padron Schneider;juanipadsch@gmail.com;+542984313814;Back-End;Java;Spring;Noche;false
+C20;c20-43-n-java-react;Jose Albornoz;jose.albornoz@outlook.cl;+56971776456;Front-End;Javascript;React;Noche;false
+C20;c20-43-n-java-react;Jose David Morales Dominguez;jd3285201@gmail.com;+573122868653;Front-End;Typescript;React;Noche;false
+C20;c20-43-n-java-react;Franco Javier Nieva;franco97nieva@gmail.com;+543865629703;Front-End;Javascript;React;Noche;false
+C20;c20-43-n-java-react;Mateo Goñi;mateogoni16@outlook.com;+59899236289;Front-End;Javascript;React;Noche;false
+C20;c20-43-n-java-react;Rodrigo Lajas;rodrigolajas18@gmail.com;+542932444243;Front-End;Javascript;React;Noche;true
+C20;c20-43-n-java-react;Marina Salas;marinasalas@gmail.com;+543816733788;QA Tester;PHP;Jira - HTML;Noche;false
+C20;c20-43-n-java-react;Yady Ortega;yday25@gmail.com;+573013547297;Back-End;Java;Spring;Noche;true
+C20;c20-43-n-java-react;Carlos Hernando Barbosa Triana;carbono985@gmail.comn;+573175690278;Front-End;Javascript;React;Noche;false
+C20;c20-43-n-java-react;Enrique Moreira;enriquemoreira51@gmail.com;+593998009994;Back-End;Java;Spring;Noche;true
+C20;c20-43-n-java-react;Daniel  Guillen;ing.danielguillen@gmail.com;+541138088849;Back-End;Java;Spring;Noche;false
+C20;c20-42-n-java-react;Stefania  Gil;stefaniagilw@gmail.com;+542494548708;QA Tester;Javascript;Jira Jira;Noche;false
+C20;c20-42-n-java-react;Kenti  Antezana ;mopup2017@gmail.com;+541140791289;Back-End;Java;Spring;Noche;false
+C20;c20-42-n-java-react;Erick Solar;ericksolarb@gmail.com;+56984893810;Back-End;Java;Spring;Noche;false
+C20;c20-42-n-java-react;Oliver Barahona;oliverbarahona90@gmail.com;+50375675180;Back-End;Java;Spring;Noche;false
+C20;c20-44-n-java-react;Jose Grabiel;josearmandograbielguizada@gmail.com;+5491144708248;Back-End;Java;Spring;Noche;false
+C20;c20-44-n-java-react;Alejandro Betancourt Medina;a.betancourt92@hotmail.com;+56942254565;Back-End;Java;Spring;Noche;false
+C20;c20-44-n-java-react;Fabian Paucar;faibol_men19@hotmail.com;+593982401789;Back-End;Java;Spring;Noche;false
+C20;c20-44-n-java-react;Waleshka Genoveva Lovera Flores;atrium.nano@gmail.com;+59175672548;Back-End;Java;Spring;Noche;false
+C20;c20-44-n-java-react;Federico Ponzio;federicoponzio90@gmail.com;+541133020438;Back-End;Java;Spring;Noche;true
+C20;c20-44-n-java-react;Eneas Baroni;eneasbaroni@gmail.com;+543512111111;Front-End;Typescript;React;Noche;true
+C20;c20-44-n-java-react;Alvaro Johansen;johansenalvaro@gmail.com;+5493471518283;Front-End;Javascript;React;Noche;true
+C20;c20-44-n-java-react;Santiago Tomas Moreno;santymoreno02@gmail.com;+5491139563591;Front-End;Javascript;React;Noche;false
+C20;c20-44-n-java-react;Jorge Espinosa;jorgespra@gmail.com;+523328656603;Front-End;Javascript;React;Noche;false
+C20;c20-44-n-java-react;Emilce Mercedes Soto Bejarano;emilcemercedes2@gmail.com;+543885384345;Front-End;Javascript;React;Noche;false
+C20;c20-44-n-java-react;Jose  De La Rosa;friasjosealb04@gmail.com;+18099986527;QA Tester;Python;Jira - Postman - Otro Selenium;Noche;false
+C20;c20-44-n-java-react;Nicolle Rosa;niicostars04@gmail.com;+18099838260;Back-End;Java;Spring;Noche;false
+C20;c20-44-n-java-react;Jorge Peyrano;peyranojorge@gmail.com;+543416569400;QA Tester;Python;HTML - CSS - Django;Noche;false
+C20;c20-44-n-java-react;Julian David Peña Rojas;julianpr8@hotmail.com;+573204777865;Back-End;Java;Spring;Noche;false
+C20;c20-45-n-java-react;Roberto Tejeda;emilianott19@gmail.com;+18496217307;Back-End;Java;Spring;Noche;false
+C20;c20-45-n-java-react;Geraldine Echeverri;gerald.e2309@gmail.com;+573007128583;Back-End;Java;Spring;Noche;false
+C20;c20-45-n-java-react;Gaston Herrmann;gaston.herr@hotmail.com;+5491126763279;Back-End;Java;Spring;Noche;false
+C20;c20-45-n-java-react;Alexis Miños;alex-becks@outlook.com;+5493442610445;Back-End;Java;Spring;Noche;false
+C20;c20-45-n-java-react;Javier Ccasani Perez;ccasani93@gmail.com;+51999312812;Back-End;Java;Spring;Noche;false
+C20;c20-45-n-java-react;Lucas Idiart;idiartlucas@gmail.com;+5492213181640;Front-End;Javascript;React;Noche;true
+C20;c20-45-n-java-react;Facundo Duhau;duhaufacundo@gmail.com;+5491151127854;Front-End;Javascript;HTML - CSS - Figma;Noche;false
+C20;c20-45-n-java-react;Antony Jackson Tenorio Cevallos;tenorioantony@gmail.com;+593939687248;Front-End;Javascript;React;Noche;false
+C20;c20-45-n-java-react;Alexander Mamani;alexander.mamani.dev@gmail.com;+541122636544;Front-End;Typescript;React;Noche;false
+C20;c20-45-n-java-react;Matias Monteros;monterosmatias0@gmail.com;+5493815867805;Front-End;Javascript;React;Noche;true
+C20;c20-45-n-java-react;Daiana Palacios;daia96palacios@gmail.com;+543413283415;QA Tester;Ninguno;Postman;Noche;false
+C20;c20-45-n-java-react;Ronald David  Guerra Alvarez;ronaldg0304@gmail.com;+573168280782;Back-End;Java;Spring;Noche;false
+C20;c20-45-n-java-react;Gabriel Romero;romero.gabriel.e@hotmail.com;+5491130946731;Back-End;Java;Spring;Noche;false
+C20;c20-45-n-java-react;Zaileth  Ruiz;zailethruiz.82@gmail.com;+5491130628928;QA Tester;Ninguno;Spring - Jira - Postman;Noche;true
+C20;c20-45-n-java-react;Juan Pino;juan.vpinoc@gmail.com;+56979400724;Back-End;Java;Spring;Noche;false
+C20;c20-46-n-java-react;Lucas Haendel;lucas.ph@live.com;+541166178953;Back-End;Java;Spring;Noche;false
+C20;c20-46-n-java-react;Matias Agustin Llanos Paco;matias.llanos1998@gmail.com;+542612536128;Back-End;Java;Spring;Noche;false
+C20;c20-46-n-java-react;Patricio Echeverria;echeverriaple@gmail.com;+5492241545119;Back-End;Java;Spring;Noche;false
+C20;c20-46-n-java-react;Diego Jorges;jorgesdiego@hotmail.com;+541123357386;Back-End;Java;Spring;Noche;true
+C20;c20-46-n-java-react;Carlos Chaparro ;carloschaparro2109@gmail.com;+595983923837;Back-End;Java;Spring;Noche;false
+C20;c20-46-n-java-react;Jorge Alberto Suarez;jorgesuarez.tech@gmail.com;+541154753780;QA Tester;Ninguno;Jira - Postman - Trello;Noche;false
+C20;c20-46-n-java-react;Deyvis Mamani Lacuta;deyvisml.dev@gmail.com;+51975032529;Back-End;Java;Spring;Noche;false
+C20;c20-46-n-java-react;Rodrigo Santillan;rodrialesanti@hotmail.com;+593996188621;Back-End;Java;Spring;Noche;false
+C20;c20-46-n-java-react;Francisco Jesús Sono Calla;jesusc6482@gmail.com;+51929226405;Back-End;Java;Spring;Noche;true
+C20;c20-46-n-java-react;Miguel Angel García;miguelgarcia_654@hotmail.com;+541132062925;Back-End;Java;Spring;Noche;false
+C20;c20-46-n-java-react;Cristian Siles;cristian19overdrive@gmail.com;+541123911470;Back-End;Java;Spring;Noche;false
+C20;c20-47-n-java-react;Liliana Devoto;lidevoto@gmail.com;+541156385454;QA Tester;Python;Trello;Noche;true
+C20;c20-47-n-java-react;Jose Angel Suarez;angelsuarez2612@gmail.com;+541171382861;Back-End;Java;Spring - Hibernate - Angular ;Noche;false
+C20;c20-47-n-java-react;Maximiliano  Echeverria;maxiicarp88@gmail.com;+541157642102;Back-End;Java;Spring;Noche;false
+C20;c20-47-n-java-react;Angie Guevara;apgy_2000@hotmail.com;+573233042543;Back-End;Java;Spring;Noche;false
+C20;c20-47-n-java-react;Matías Joel Castellón;mirtybmx@gmail.com;+543884415014;Back-End;Java;Spring;Noche;true
+C20;c20-47-n-java-react;Lautaro Furiasse;lautafuriasse16@gmail.com;+542616317299;Back-End;Java;Spring;Noche;true
+C20;c20-47-n-java-react;Nataly  Prado Moreno;natalypradomoreno@gmail.com;+5493764947900;QA Tester;Otro;Jira - Postman - Trello Testing;Noche;false
+C20;c20-47-n-java-react;Daniel Felipe Gómez Ferreira;pipeferreira1@gmail.com;+573182002235;Back-End;Java;Spring;Noche;true
+C20;c20-47-n-java-react;Maria Camila Berrío Alzate ;mariacberrio29@gmail.com;+573226331288;Back-End;Java;Spring;Noche;true
+C20;c20-47-n-java-react;Kevin Cax;caxkevin86@gmail.com;+50252674692;Back-End;Java;Spring;Noche;true
+C20;c20-47-n-java-react;Camilo Patiño;nelsoncamilopatino@gmail.com;+541136797208;Back-End;Java;Spring;Noche;true
+C20;c20-47-n-java-react;Carlos Alexis Flores Auz;cafauz@yahoo.es;+593962997924;Back-End;Java;Spring;Noche;false
+C20;c20-47-n-java-react;Ignacio Martin;sanigmartin@gmail.com;+541123994829;QA Tester;Javascript;Otro;Noche;true
+C20;c20-47-n-java-react;Sandra Cruz Brizuela;sandracbar@gmail.com;+5493814445175;QA Tester;C#;Jira - Postman;Noche;false
+C20;c20-48-t-csharp-angular;Luz Adriana  Calderón Jiménez ;adrianakalderon94@gmail.com;+573112772082;Back-End;C#;.Net;Tarde;true
+C20;c20-48-t-csharp-angular;Rodrigo Ivan Meren;rodrigo.meren@alumnos.frgp.utn.edu.ar;+542252410561;Back-End;C#;.Net;Tarde;false
+C20;c20-48-t-csharp-angular;Alejo  Chavarri ;alechavarri86@gmail.com;+5491135909892;Back-End;C#;.Net;Tarde;false
+C20;c20-48-t-csharp-angular;Marcos Soares;marcos_soares44@hotmail.com;+59897293900;Back-End;C#;.Net;Tarde;false
+C20;c20-48-t-csharp-angular;Martina Reta;retamartina1@gmail.com;+5491136263404;Front-End;Java;HTML - CSS - Spring - Figma - Photoshop - Trello - Postman - React;Tarde;true
+C20;c20-48-t-csharp-angular;Yamileth Caldera;yamilethcaldera@gmail.com;+56930379851;Front-End;Javascript;Angular - HTML - CSS - Figma - Trello - Postman Angular;Tarde;false
+C20;c20-48-t-csharp-angular;Diego López;devdiego.lm@gmail.com;+526561483833;Front-End;Python;React;Tarde;false
+C20;c20-48-t-csharp-angular;Luciano Di Brino;lluchydibrinoo@gmail.com;+543412280797;Front-End;Python;Flask - HTML - CSS - Django - Figma;Tarde;false
+C20;c20-48-t-csharp-angular;Carlos Beltrán Pardo;carlosbeltranpardo@gmail.com;+573505484336;Front-End;Python;React - HTML - CSS - Postman ;Tarde;false
+C20;c20-48-t-csharp-angular;Viviana Alday;contacto.anaro@gmail.com;+56932915440;UX/UI;Javascript;Figma;Tarde;false
+C20;c20-48-t-csharp-angular;Darwin Chacón;darwinchacon13@gmail.com;+541127148174;QA Tester;Ninguno;Jira;Tarde;false
+C20;c20-48-t-csharp-angular;Luis Salazar;salazarluisfer19@gmail.com;+525535571250;DevOps;Javascript;Node;Tarde;false
+C20;c20-48-t-csharp-angular;Melina Del Valle Villalba;melinavillalba2015@gmail.com;+5493515168182;QA Tester;Python;Otro;Tarde;false
+C20;c20-48-t-csharp-angular;Rita Anabel Gerez;anabelritagerez@gmail.com;+543855892725;Project Manager;Python;Django;Tarde;true
+C20;c20-48-t-csharp-angular;Brenda  Comas;brendacomasok@gmail.com;+543455226513;UX/UI;Ninguno;Figma - CSS - HTML;Tarde;false
+C20;c20-48-t-python-react;Isaias Romero;isaias92@hotmail.com.ar;+541133876028;Front-End;Javascript;React Native;Tarde;false
+C20;c20-48-t-python-react;Brayan Marin Guirales;brayan6590@gmail.com;+573015300204;DevOps;Python;Otro - Postman Docker, Kubernetes, Jenkins, Terraform (IaC), Python, Amazon Web Services;Tarde;false
+C20;c20-48-t-python-react;Matias Badano;matiasss95@gmail.com;+5492324674325;QA Tester;Java;Spring;Tarde;true
+C20;c20-48-t-python-react;Isapias Vallejos;ievallejosc@gmail.com;+56965932290;UX/UI;Otro;HTML - CSS - Photoshop - Trello - Miro - Figma - Otro;Tarde;false
+C20;c20-48-t-python-react;Ivan Hector Capaquira Acho;icapaquiraa@gmail.com;+51933690447;UX/UI;Ninguno;Figma;Tarde;false
+C20;c20-48-t-python-react;Juan Manuel Sanjurjo;juanmanuelsanjurjo@gmail.com;+542235513874;Front-End;Javascript;React;Tarde;false
+C20;c20-48-t-python-react;Dafne Priscila Ewens;priscilaewens@gmail.com;+542216149339;QA Tester;C#;Android Studio;Tarde;true
+C20;c20-48-t-python-react;Adolfo Sánchez Lopéz;sanchezlopezadolfo@gmail.com;+573104679562;Project Manager;Javascript;HTML - CSS - Adobe Illustrator - Figma - Trello - Postman - Spring - Vue;Tarde;true
+C20;c20-49-t-python-react;Percy Tejada;percytejada.code@gmail.com;+51971176251;Back-End;Python;Django;Tarde;true
+C20;c20-49-t-python-react;Bryan Andrés Soria Méndez;zansoriam@gmail.com;+593960766287;Back-End;Python;Django;Tarde;true
+C20;c20-49-t-python-react;Ezequiel Seminara;eze.seminara@gmail.com;+541169389921;Back-End;Python;Django;Tarde;false
+C20;c20-49-t-python-react;Robert Jose  Rengel Osorio ;robertrengel@gmail.com;+51935653857;Back-End;Python;Django;Tarde;false
+C20;c20-49-t-python-react;Carla Godoy;godoyvalenzuela12@gmail.com;+56939062471;Back-End;Python;Django;Tarde;false
+C20;c20-49-t-python-react;Agustina Isabel Grandon;agustina107.grandon@gmail.com;+541132683119;Front-End;Python;HTML - CSS ;Tarde;false
+C20;c20-49-t-python-react;Poli Ferreyra;paoferreyra.fl@gmail.com;+541145263808;Front-End;Javascript;React;Tarde;false
+C20;c20-49-t-python-react;Lucas Barceló;lucasbarcelo1981@gmail.com;+59892881029;Front-End;Typescript;React;Tarde;false
+C20;c20-49-t-python-react;Yanina Micaela Martin;yaninamicamartin@gmail.com;+541157226353;Front-End;Javascript;React;Tarde;true
+C20;c20-49-t-python-react;Sara Patiño Rojas;sarapatinorojas144@gmai.com;+573002139294;Front-End;Javascript;React;Tarde;false
+C20;c20-49-t-python-react;Sandra Herrera;herreramsandy@gmail.com;+523929400576;UX/UI;Javascript;React - HTML - CSS - Figma - Adobe Illustrator - Trello - Miro - Photoshop;Tarde;false
+C20;c20-49-t-python-react;Yony Batista;yonybatista@outlook.com;+59895444756;QA Tester;Ninguno;Jira;Tarde;true
+C20;c20-49-t-python-react;Veronica De Rosa;veronica.derosa@gmail.com;+5492984400055;Project Manager;Ninguno;Trello;Tarde;false
+C20;c20-49-t-python-react;Pablo Jhosue Arango Becerra;pablojhosuearangobecerra@gmail.com;+541170580307;DevOps;Otro;Otro bash;Tarde;false
+C20;c20-49-t-python-react;Jeniree Suarea;jeni20suarez@gmail.com;+5491134111909;QA Tester;Ninguno;Trello - Jira;Tarde;false
+C20;c20-49-t-python-react;Maria Belen  Gutierrez ;mbelenngutierrez@gmail.com;+543515513202;UX/UI;Javascript;Photoshop - Adobe Illustrator - Figma - HTML - Miro - Trello;Tarde;false
+C20;c20-50-t-python-react;Agustin Bengolea;agustinbengolea97@gmail.com;+5491150217843;Back-End;Python;Django;Tarde;false
+C20;c20-50-t-python-react;Mario Adrian Miño;adrianctes@gmail.com;+543795053033;Back-End;Python;Django;Tarde;false
+C20;c20-50-t-python-react;Benjamin Diaz ;oliver125125@protonmail.com;+523342549594;Back-End;Python;Django;Tarde;true
+C20;c20-50-t-python-react;Facundo Rua;facundo.rua90@gmail.com;+5492664633276;Back-End;Python;Django;Tarde;false
+C20;c20-50-t-python-react;Juan Esteban Saavedra Arango;juanessaavedra777@gmail.com;+573116167885;Back-End;Python;Django;Tarde;false
+C20;c20-50-t-python-react;Alvaro  Amestoy ;alvaroamestoycontact@gmail.com;+59892894864;Front-End;Javascript;React;Tarde;false
+C20;c20-50-t-python-react;Juliana Irungaray;julianairungaray3@gmail.com;+5493446373879;Front-End;Javascript;React;Tarde;false
+C20;c20-50-t-python-react;Frananyel  Vidal;frananyelvidal@gmail.com;+584148087348;Front-End;Javascript;React;Tarde;false
+C20;c20-50-t-python-react;Andrea Jocelyn Ferrer Sánchez;andrea.ferrerdev@gmail.com;+525620078604;Front-End;Javascript;React;Tarde;true
+C20;c20-50-t-python-react;Raydberg Gabriel Chuquival Gil;raydga2005@hotmail.com;+51951890315;Front-End;Javascript;React;Tarde;true
+C20;c20-50-t-python-react;Brenda Camaño;brendacamano@gmail.com;+542615109144;UX/UI;Ninguno;Figma;Tarde;true
+C20;c20-50-t-python-react;Anghela  Anzaldo;anghie.parker@gmail.com;+59163974182;QA Tester;Java;Trello - Postman - Jira;Tarde;false
+C20;c20-50-t-python-react;Oscar Galeano;oscar.galeano@gmail.com;+573013372604;Project Manager;Ninguno;Jira;Tarde;true
+C20;c20-50-t-python-react;Daniel Vélez;vmdany09@gmail.com;+573005455385;Back-End;Python;Django;Tarde;true
+C20;c20-50-t-python-react;Paolo Joseph Abarca Garcia;paoloabarca08@gmail.com;+51924216875;Back-End;Python;Django;Tarde;false
+C20;c20-50-t-python-react;Jose Ruiz Anaya;ruizpepe402@gmail.com;+525523107012;Back-End;GO;Django - Vue;Tarde;false
+C20;c20-50-t-python-react;Juan Salerno;jpsalerno@gmail.com;+5491151489576;Back-End;Python;Django;Tarde;false
+C20;c20-50-t-python-react;Aixa Cardona;aixacardona2017@gmail.com;+541121714822;DevOps;Javascript;React - React Native - HTML - CSS;Noche;true
+C20;c20-50-t-python-react;Belen Cipriano;belencipro@gmail.com;+51997819253;QA Tester;Javascript;Postman - HTML - CSS - Figma;Tarde;true
+C20;c20-50-t-python-react;Yesenia  Vasquez;geraldine.vasquez142@gmail.com;+5491134160818;UX/UI;Ninguno;Adobe Illustrator - Photoshop - Figma - Jira - Trello - CSS - HTML - Spring - Miro;Tarde;false
+C20;c20-51-t-nest-react;Victor Emanuel Elias Cuello;ema.cuello1010@gmail.com;+541137792262;Back-End;Typescript;Nest - Express;Tarde;false
+C20;c20-51-t-nest-react;Mayra Retamar ;mayraalejandraretamar0@gmail.com;+542921401200;Back-End;Javascript;HTML - CSS - React - Next - Postman - Trello;Tarde;true
+C20;c20-51-t-nest-react;Favian Flores Fernandez;leofavian@gmail.com;+51941557268;Front-End;Typescript;React;Tarde;false
+C20;c20-51-t-nest-react;Agustina Ayelen Sosa;agustinaayelensosa2@gmail.com;+541165149673;Front-End;Typescript;React;Tarde;false
+C20;c20-51-t-nest-react;Osvaldo Ramirez;osvaldo97@live.com.ar;+541158224088;Front-End;Typescript;React;Tarde;false
+C20;c20-51-t-nest-react;Sebastian De Bosini;sebas.debosini@gmail.com;+34624036903;Front-End;Javascript;HTML - CSS - Figma - Otro github;Tarde;false
+C20;c20-51-t-nest-react;Boris Beker;borisrafaelbeker@gmail.com;+5492920521914;Front-End;Javascript;React;Tarde;false
+C20;c20-51-t-nest-react;Micaela Svatzky;svatzkymicaela@gmail.com;+5491162790056;UX/UI;Javascript;Figma;Tarde;false
+C20;c20-51-t-nest-react;Jaime Alexis Herrera Ruiz;alexizher@gmail.com;+573176721091;DevOps;Ninguno;HTML - CSS - Trello;Noche;true
+C20;c20-51-t-nest-react;Macarena Cardozo;ammcgonzalez@gmail.com;+542613477257;QA Tester;Java;Postman - Jira - Spring - Trello - Android Studio;Tarde;true
+C20;c20-51-t-nest-react;Stefanía Velazquez;velazquezstefania@gmail.com;+541164202944;UX/UI;Javascript;Figma - Adobe Illustrator - Photoshop - Trello - Miro;Tarde;false
+C20;c20-52-t-node-react;Christian Herrera;christian.herrera.onaindi@gmail.com;+584145841081;Back-End;Typescript;Nest;Tarde;false
+C20;c20-52-t-node-react;Aarón Alejandro  Zaragoza Piceno ;aaron.zaragozap@gmail.com;+523521558814;Back-End;Javascript;Node;Tarde;true
+C20;c20-52-t-node-react;Juan Romero;thekmilo84@gmail.com;+573105729284;Back-End;Javascript;Node;Tarde;false
+C20;c20-52-t-node-react;Josue Alejandro Figueroa;josueriver80@gmail.com;+543513493981;Back-End;Javascript;Node;Tarde;false
+C20;c20-52-t-node-react;David Castro;david.castroanaya@gmail.com;+525532254124;Back-End;Javascript;Node;Tarde;true
+C20;c20-52-t-node-react;Natalia Camila Herrera;herreranataliacamila@gmail.com;+543875639378;Front-End;Javascript;React;Tarde;true
+C20;c20-52-t-node-react;Mauricio Monzon;mauri.monzon91@gmail.com;+541138612819;Front-End;Javascript;React;Tarde;true
+C20;c20-52-t-node-react;Leonardo Soplapuco;leosoplapuco29@gmail.com;+51932966372;Front-End;Javascript;React;Tarde;true
+C20;c20-52-t-node-react;Damian Fernandez;damian.fernandez.dev@gmai.com;+541158920849;Front-End;Typescript;React;Tarde;true
+C20;c20-52-t-node-react;Jose Sat;jose.sat94@gmail.com;+542604632000;QA Tester;Javascript;Postman - Trello - CSS - HTML Selenium, Java;Tarde;false
+C20;c20-52-t-node-react;Agustin Gelbort;agustin.gelbort.98@gmail.com;+541123869780;QA Tester;Java;Node - Jira - Postman - React - React Native - Android Studio;Tarde;true
+C20;c20-52-t-node-react;Laura Vanessa Alba Gonzalez;vanessa.alba1427@gmail.com;+573103252857;UX/UI;Java;Jira;Tarde;false
+C20;c20-53-t-node-react;Zaid Raed;zaidraed@gmail.com;+5491162239504;Back-End;Javascript;Node;Tarde;true
+C20;c20-53-t-node-react;Pablo Gimenez;pablogimenez.er@gmail.com;+543436987957;Back-End;Javascript;Node;Tarde;false
+C20;c20-53-t-node-react;Jinson Castillo;jinsincastilli18@gmail.com;+593967954978;Back-End;Javascript;React - HTML - CSS - Spring;Tarde;true
+C20;c20-53-t-node-react;Yohan Garcia;garciayohan57@gmail.com;+584124861496;Back-End;Typescript;Node;Tarde;true
+C20;c20-53-t-node-react;Manuel Eduardo Palta Caro;sekaidev@hotmail.com;+56961016496;Back-End;Typescript;Node;Tarde;false
+C20;c20-53-t-node-react;Pamela  Conti;contimariapamela@gmail.com;+5492615254453;Front-End;Javascript;React;Tarde;false
+C20;c20-53-t-node-react;Maximiliano Busi;busimaximiliano@gmail.com;+543816201735;Front-End;Javascript;React;Tarde;false
+C20;c20-53-t-node-react;Yuri Mariana Aguilar Casquina ;ymarianaaguilar@gmail.com;+5491158024999;Front-End;Javascript;React;Tarde;false
+C20;c20-53-t-node-react;Javier Arteaga Gonzales;javalejan12@gmail.com;+51917129115;Front-End;Javascript;React;Tarde;false
+C20;c20-53-t-node-react;Mariano Mello;marmeldev@gmail.com;+5491122502552;Front-End;Javascript;React;Tarde;false
+C20;c20-53-t-node-react;Pablo  Godoi;pablojavier16g@gmail.com;+56965255215;UX/UI;Ninguno;Figma;Tarde;false
+C20;c20-53-t-node-react;María Florencia Ortiz;soytester.arg@gmail.com;+541162763313;QA Tester;Python;Jira;Tarde;false
+C20;c20-53-t-node-react;Laritza De La Nuez;laritzadelanuez@gmail.com;+5352376892;QA Tester;Java;HTML - CSS - Trello;Tarde;false
+C20;c20-53-t-node-react;Camila Eberwein;camieberwein@gmail.com;+542923510667;UX/UI;Ninguno;Figma;Tarde;false
+C20;c20-54-t-node-react;Sebastian Medina;medinasebastian@gmail.com;+5491131380648;Back-End;Javascript;Node;Tarde;true
+C20;c20-54-t-node-react;Luis Ariel Retana Hernandez;developerluisarielrh@gmail.com;+525585221996;Back-End;Javascript;Node;Tarde;false
+C20;c20-54-t-node-react;Macarena Barrios;maquibarrios@gmail.com;+542964580384;Back-End;Javascript;Node;Tarde;false
+C20;c20-54-t-node-react;Cristian David Florez Lopez;cristian25florez@gmail.com;+573226085812;Back-End;Javascript;Node;Tarde;false
+C20;c20-54-t-node-react;Estefany Alfaro Zapana;estefanyalfaro2230@gmail.com;+51978814062;Back-End;Typescript;React;Tarde;true
+C20;c20-54-t-node-react;Rodrigo Gastón Muñoz;rodrigo.gaston.munoz@gmail.com;+542932523319;Front-End;Javascript;React;Tarde;false
+C20;c20-54-t-node-react;Andres Salamanca;sala981013@gmail.com;+573043812414;Front-End;Javascript;React;Tarde;false
+C20;c20-54-t-node-react;Adela Olivera;adelaolivera090700@gmail.com;+543764160567;Front-End;Javascript;React;Tarde;false
+C20;c20-54-t-node-react;Andrea  Guerrero ;guerreroaanathalia@gmail.com;+573332374586;Front-End;Javascript;React;Tarde;true
+C20;c20-54-t-node-react;Sandra Ruidiaz;sruidiaz@hotmail.com;+34603167386;Front-End;Javascript;React;Tarde;false
+C20;c20-54-t-node-react;Macarena Jorquera Coros;paz.coros@gmail.com;+56956424985;UX/UI;Ninguno;Figma - Miro;Tarde;false
+C20;c20-54-t-node-react;Luciano Campanelli;lucianocampanelli.it@gmail.com;+543624648128;QA Tester;Java;Jira - Postman - HTML - CSS - Spring Selenium TestNG JAVA git;Tarde;false
+C20;c20-54-t-node-react;Martha Verónica  Sánchez Márquez ;marthasanchezmarquez@gmail.com;+523315695297;QA Tester;Python;Postman - Jira - Android Studio - Otro Python, Selenium;Tarde;false
+C20;c20-54-t-node-react;Carolina Chalabe;profesorachalabecarolina@gmail.com;+5491126757155;Mobile;Java;React - React Native - Angular - Vue - HTML - CSS - Spring - .Net - Node - Flutter;Tarde;true
+C20;c20-54-t-node-react;Yanina Calzolari;yaninacalzolari@gmail.com;+543512052200;UX/UI;Ninguno;Figma;Tarde;false
+C20;c20-55-t-node-react;Santiago Balbarrey;santiagobalbarrey@gmail.com;+4915781716381;Back-End;Javascript;Node;Tarde;false
+C20;c20-55-t-node-react;Leonel Gudiño;leonelgo66@gmail.com;+543874523110;Back-End;Javascript;Node;Tarde;true
+C20;c20-55-t-node-react;Gustavo Joaquín  Calizaya Leon ;gustavojoaquincalizayaleon2@gmail.com;+51925792592;Back-End;GO;React - Svelte - Spring - Hibernate - Figma - Postman - Android Studio Linux ;Tarde;false
+C20;c20-55-t-node-react;Nicolás Kowalkiewicz;nicolas.kowal95@gmail.com;+541125948523;Front-End;Javascript;React;Tarde;false
+C20;c20-55-t-node-react;Lucas Freijomil;lucasfreijomil@gmail.com;+5491163031415;Front-End;Javascript;React;Tarde;false
+C20;c20-55-t-node-react;Natasha  Pérez ;alycknati017@gmail.com;+56931775827;Front-End;Javascript;React;Tarde;true
+C20;c20-55-t-node-react;Viviana Alday;vialday.developer@gmail.com;+56932915440;Front-End;Javascript;React;Tarde;false
+C20;c20-55-t-node-react;Florencio Quelca;florens.lonwe@gmail.com;+59175402473;Front-End;Javascript;React;Tarde;false
+C20;c20-55-t-node-react;Carina Corredera Wilberger;caricorredera@gmail.com;+542954576057;UX/UI;Javascript;Figma - HTML - CSS;Tarde;false
+C20;c20-55-t-node-react;Nicolas Martin;nicolasmartin89@gmail.com;+543434659975;QA Tester;Java;Spring - React - HTML - CSS - Postman Selenium. Playwright;Tarde;true
+C20;c20-55-t-node-react;Maria Alejandra Aguayo;alejandraguayo@outlook.es;+543705034999;QA Tester;Java;Jira;Tarde;true
+C20;c20-55-t-node-react;Lucero Gonzalez;lucerogonzalez1997@gmail.com;+541140933809;Mobile;Javascript;React - React Native - HTML - CSS - Node - Express - Nest - Next - Figma - Adobe Illustrator - Trello - Postman - Jira - Photoshop;Tarde;true
+C20;c20-55-t-node-react;Nadia Maure;nadmaure@gmail.com;+573163108045;UX/UI;Ninguno;Figma - Otro - Miro - Jira - Trello;Tarde;false
+C20;c20-56-t-java-react;Sebastian Hitz;hitzseb@gmail.com;+542215040717;Back-End;Java;Spring;Tarde;false
+C20;c20-56-t-java-react;Juan Ignacio Alvarez;nacho1294.ji@gmail.com;+541136723999;Back-End;Java;Spring;Tarde;true
+C20;c20-56-t-java-react;Angelo Vellar;angelo.vellar@gmail.com;+542625548382;Back-End;Java;Spring;Tarde;true
+C20;c20-56-t-java-react;Alan Alexis Nieto;alannieto07@gmail.com;+541151052986;Back-End;Java;Spring;Tarde;true
+C20;c20-56-t-java-react;José Manuel González Sánchez;josemgsanchez4@gmail.com;+56962189973;Back-End;Java;Spring;Tarde;true
+C20;c20-56-t-java-react;Jhoannys  Mencía ;jhoannysmencia09@gmail.com;+573204580466;Back-End;Java;Spring;Tarde;true
+C20;c20-56-t-java-react;Leonardo Germán Acevedo;acevedoleonardo2000@gmail.com;+543412247976;Back-End;Java;Spring;Tarde;false
+C20;c20-56-t-java-react;Nahuel Retamoso;nahuel.retamoso@gmail.com;+541150954463;Front-End;Javascript;React;Tarde;false
+C20;c20-56-t-java-react;Martina Mc Coubrey;martiimccoubrey@gmail.com;+542615542208;Front-End;Javascript;React;Tarde;false
+C20;c20-56-t-java-react;Ignacio Carrabs;ignaciocarrabs@gmail.com;+543425115188;Front-End;Javascript;React;Tarde;false
+C20;c20-56-t-java-react;Yamila Dib;yamiladib.93@gmail.com;+5492921408450;Front-End;Javascript;React;Tarde;true
+C20;c20-56-t-java-react;Andres Taborda;andrestaborda43@gmail.com;+34643605783;Front-End;Javascript;React;Tarde;false
+C20;c20-56-t-java-react;Sergio Campos;sergio.campos.di@gmail.com;+542945413247;UX/UI;Otro;Figma - Adobe Illustrator - Photoshop - Trello - Miro;Tarde;true
+C20;c20-56-t-java-react;Malena Escudero;malenaescudero2@gmail.com;+542616818573;QA Tester;Ninguno;Jira;Tarde;false
+C20;c20-56-t-java-react;Geraldine Salles Kobilanski;skgeraldine@gmail.com;+5491141661785;QA Tester;Java;Jira - Postman;Tarde;true
+C20;c20-57-t-java-react;Juan Rosas;rosas.juan@live.com;+5493516513535;Back-End;Java;Spring;Tarde;false
+C20;c20-57-t-java-react;Nicolas  Ramos;nicolasramo2s@hotmail.com;+542645811779;Back-End;Java;Spring;Tarde;false
+C20;c20-57-t-java-react;Micael Labria;micaelcapo1316@gmail.com;+543464573825;Back-End;Java;Spring;Tarde;false
+C20;c20-57-t-java-react;Matias Sosa;maezso11@gmail.com;+542616853189;Back-End;Java;Spring;Tarde;true
+C20;c20-57-t-java-react;Román  Sevil ;romansevil2017@gmail.com;+542974112647;Back-End;Java;Spring;Tarde;false
+C20;c20-57-t-java-react;Orlando Daniel Diaz;danieldiaz-123@hotmail.com;+541166152450;Front-End;Javascript;React;Tarde;false
+C20;c20-57-t-java-react;Judith Vanessa Mallama Pascumal;judith.mallama@udea.edu.co;+573053305048;Front-End;Javascript;React;Tarde;true
+C20;c20-57-t-java-react;Leandro Mortarini;leandromortarini2@gmail.com;+541126034427;Front-End;Javascript;React;Tarde;true
+C20;c20-57-t-java-react;Nicolas Eiriz;eiriznicolas@gmail.com;+541126523700;Front-End;Javascript;HTML - CSS - Otro Javascript;Tarde;false
+C20;c20-57-t-java-react;Matías Scavuzzo;mati.ntvg@hotmail.com;+5492281563757;Front-End;Typescript;React;Tarde;false
+C20;c20-57-t-java-react;Ana Luisi;luisianalucia@gmail.com;+5492323448225;UX/UI;Python;HTML - CSS - Figma - Adobe Illustrator - Photoshop - Trello;Tarde;false
+C20;c20-57-t-java-react;Joaquin Moreira;joaquinmoreira252@gmail.com;+541138136791;QA Tester;Javascript;Postman - Jira - Node - Spring - CSS - HTML ;Tarde;false
+C20;c20-57-t-java-react;Maiten Arrigone;maitenarrigone@gmail.com;+543517064042;QA Tester;Ninguno;Jira - Postman;Tarde;true
+C20;c20-58-t-java-react;Kevin Calle;kevincalle3101@gmail.com;+51932587654;Back-End;Java;Spring;Tarde;false
+C20;c20-58-t-java-react;Gini Blanco;blancogini@gmail.com;+447782157764;Back-End;Java;Spring;Tarde;true
+C20;c20-58-t-java-react;Matias Ezequiel Campopiano Ramirez;maticampopiano@hotmail.com;+541158881329;Back-End;Java;Spring;Tarde;false
+C20;c20-58-t-java-react;Miguel Martin;miguel.hmartin90@gmail.com;+573103311676;Back-End;Java;Spring;Tarde;false
+C20;c20-58-t-java-react;Carlos Carranza;carlos.rhase@gmail.com;+5491161088766;Back-End;Java;Spring;Tarde;true
+C20;c20-58-t-java-react;Anyelith Jineth  Jacobo Carrillo ;anyelithjacobo@gmail.com;+573058816566;Front-End;Javascript;React;Tarde;true
+C20;c20-58-t-java-react;Jose Medina;deinas.44remastered@gmail.com;+573219537567;Front-End;Javascript;React;Tarde;false
+C20;c20-58-t-java-react;Bernardo Quetglas;bernardo_quetglas@hotmail.com;+543794809317;Front-End;Javascript;React;Tarde;true
+C20;c20-58-t-java-react;Hugo Estiben Pulido;hugoestiben3211@gmail.com;+541131260145;Front-End;Javascript;CSS - HTML - Node;Tarde;false
+C20;c20-58-t-java-react;Luciana Quilcate;lumaqui2001@yahoo.com.ar;+5492616904353;Front-End;Javascript;Node - Express - HTML - CSS;Tarde;false
+C20;c20-58-t-java-react;Katherine Hernandez;ykatherinehernandezr@gmail.com;+573143433773;UX/UI;Ninguno;Figma;Tarde;false
+C20;c20-58-t-java-react;Nicolas Rios;nicolasgaston.riosmartinez@gmail.com;+541151122074;QA Tester;Ninguno;Otro Ninguno;Tarde;false
+C20;c20-58-t-java-react;Belisa Bolívar;belisaxy2005@hotmail.com;+51910676724;QA Tester;Python;Jira;Tarde;true
+C20;c20-59-t-java-react;Roque Scovenna;roque.scovenna@gmail.com;+5492954319560;Back-End;Java;Spring;Tarde;false
+C20;c20-59-t-java-react;Juan Pablo Rovelli;juanparove@gmail.com;+541160049301;Back-End;Java;Spring;Tarde;false
+C20;c20-59-t-java-react;Javier Cairoli;javicairoli3@gmail.com;+5493425145214;Back-End;Java;Spring;Tarde;true
+C20;c20-59-t-java-react;Mauro Tapia;maurotapiadev@gmail.com;+541136379156;Back-End;Java;Spring;Tarde;false
+C20;c20-59-t-java-react;Cristian Sigel;cristiansigelwebdevelopment@gmail.com;+5493517703941;Back-End;Java;Spring;Tarde;false
+C20;c20-59-t-java-react;Kelly Johana Saldaña Betancur;kellysalb56@gmail.com;+573116887143;Front-End;Javascript;React;Tarde;false
+C20;c20-59-t-java-react;Luciano Ruffinengo;lucianoruffinengo@gmail.com;+542235689071;Front-End;Javascript;CSS - HTML;Tarde;false
+C20;c20-59-t-java-react;Rodrigo Zapata;rodrigozapata968@gmail.com;+5492615186883;Front-End;Javascript;CSS - HTML;Tarde;false
+C20;c20-59-t-java-react;Nataly Hollmann;natalyhollmann@gmail.com;+541131985188;Front-End;Javascript;React;Tarde;false
+C20;c20-59-t-java-react;Joaquin Herrera;joaquin.xherrera1@gmail.com;+5491161143857;Front-End;Javascript;React;Tarde;false
+C20;c20-59-t-java-react;Rafael Diaz;rafaeldiaz1222@outlook.com;+5493512085245;UX/UI;Ninguno;Figma;Tarde;false
+C20;c20-59-t-java-react;Yuzara Alfaro;yuzara09@gmail.com;+51937230832;QA Tester;Python;Jira - Postman - Trello - Android Studio - HTML - CSS - Figma ;Tarde;false
+C20;c20-59-t-java-react;Javier Ismael Porcel Sanchez;javierisma.sanchez@gmail.com;+543512321084;QA Tester;Javascript;Jira;Tarde;false
+C20;c20-60-t-java-react;Josefina Galera;josefinagaleradiaz@gmail.com;+5492233432183;Front-End;Javascript;React;Tarde;true
+C20;c20-60-t-java-react;Jorge Echeverri;bishopolo629@gmail.com;+573245644358;Front-End;Javascript;React;Tarde;false
+C20;c20-60-t-java-react;Maira  Alderete;mairaalderete98@gmail.com;+595971715808;Front-End;Javascript;React;Tarde;false
+C20;c20-60-t-java-react;Santiago Zarate;santiago2001zarate@gmail.com;+5491127972783;Front-End;Typescript;React;Tarde;false
+C20;c20-60-t-java-react;Jose Luria;personal@joseluria.com;+525638660505;Front-End;Javascript;React;Tarde;false
+C20;c20-60-t-java-react;Maria Suarez;angelik2rl@gmail.com;+584168818345;UX/UI;Ninguno;Adobe Illustrator - Photoshop - Flask - .Net;Tarde;true
+C20;c20-60-t-java-react;Maryan Gomez;maryangmzc@gmail.com;+51951136784;QA Tester;Java;Postman;Tarde;true
+C20;c20-60-t-java-react;Luis Delgado Gallardo;dev.ledg555@gmail.com;+527772688189;Front-End;Javascript;React;Tarde;false
+C20;c20-60-t-java-react;Maria Pilar  Bonanni;mapilarbonanni@gmail.com;+5492215757647;Front-End;Javascript;HTML - CSS;Tarde;false
+C20;c20-60-t-java-react;Tomás Duro;durotomaas@gmail.com;+541131538767;Front-End;Javascript;React;Tarde;false
+C20;c20-60-t-java-react;Raydberg Gabriel  Chuquival Gil;raydga_2005@hotmail.com;+51951890315;Front-End;Javascript;React;Tarde;true
+C20;c20-60-t-java-react;Manuel Pisoni;manuelpisoni09@gmail.com;+542215675980;Front-End;Javascript;React;Tarde;true
+C20;c20-60-t-java-react;Sol Román;sol.roman2014@gmail.com;+541132452282;UX/UI;Ninguno;Figma - Adobe Illustrator - Photoshop;Tarde;false
+C20;c20-60-t-java-react;Dam Hidalgo;hachedam@gmail.com;+5491136671301;QA Tester;Python;Jira;Tarde;false
+C20;c20-60-t-java-react;Juan Camilo Roncallo Sarmiento;roncalloj@outlook.com;+573053829557;Front-End;Javascript;React;Tarde;false
+C20;c20-60-t-java-react;Francesco Guerra;tifrancescoguerra@gmail.com;+5492235914121;Back-End;Java;Spring;Tarde;true
+C20;c20-60-t-java-react;Ezequiel Oportus ;mauroezequieloportus@gmail.com;+541122544164;QA Tester;Ninguno;Jira;Tarde;false
+C20;c20-61-ft-data-bi;Juan Luis Acebal Rico;data@juanluisacebal.com;+5493883294551;Data Engineer;Python;Tableau, power BI, Azure, PDI Spoon,  SSIS, Orange, principales librerías Python para la ciencia de datos;Full-Time;true
+C20;c20-61-ft-data-bi;Angie Valentina Patiño Gomez;angievalentina618@gmail.com;+573178016495;Data Scientist;Python;SQL, Power BI;Full-Time;true
+C20;c20-61-ft-data-bi;Matias Javier Endrek;matiasjavierendrek@gmail.com;+543515936634;Business Analyst;Python;Excel, Python, SQL, Power BI.;Full-Time;true
+C20;c20-61-ft-data-bi;Dulce Carolina Alvarez;dulcealvarez.sd@gmail.com;+525540921927;Data Analyst;Python;Python (Pandas, NumPy, NLTK), Visualización (seaborn, Matplotlib, plotly), SQL, Machine Learning (sklearn);Full-Time;false
+C20;c20-61-ft-data-bi;Juan Carlos Brunello;jcbrunello@hotmail.com;+543416806323;Data Engineer;Python;GCP, docker, airflow, SQL;Full-Time;true
+C20;c20-61-ft-data-bi;Maria Alejandra  Quiza Cortes ;alejandracq74@gmail.com;+573115371221;Data Analyst;Python;Power Bi;Full-Time;true
+C20;c20-61-ft-data-bi;Jhan Celi Maldonado;ya-ncarloskg@hotmail.com;+34613660942;Data Scientist;Python;Power Bi;Full-Time;false
+C20;c20-61-ft-data-bi;Alexis Lira;alexislira660@gmail.com;+525534436613;Data Scientist;Python;Tableau, SQL , R;Full-Time;false
+C20;c20-61-ft-data-bi;José Fontalvo Mejia;fontalvomejiajosedavid54@gmail.com;+573102010362;Data Analyst;R;Power BI;Full-Time;false
+C20;c20-61-ft-data-bi;Kari Miele;km@smedia.com;+5491146274201;Data Scientist;Otro;Google Looker;Full-Time;false
+C20;c20-61-ft-data-bi;Alexander Gonzalez;alexandergonzalezinsfran@gmail.com;+541151573516;Data Scientist;Python;tensorflow;Full-Time;true
+C20;c20-62-ft-data-bi;Rembert Salguero;redsar6@gmail.com;+59167309045;Data Analyst;Python;SQL, Python, PowerBI, AWS, ML.;Full-Time;true
+C20;c20-62-ft-data-bi;Leonardo Cortés Zambrano;gleonardo.cortes@gmail.com;+573152877177;Data Engineer;Python;Azure Data Stack, Databricks, PowerBI, Docker;Full-Time;true
+C20;c20-62-ft-data-bi;Hernán Hernández;hernanmagister@gmail.com;+51976635388;Machine Learning;Python;Power BI, VSCode, SQL;Full-Time;false
+C20;c20-62-ft-data-bi;Kevin Salinas;gabiand1@gmail.com;+543885211743;Data Analyst;Java;Power BI y Metabase;Full-Time;true
+C20;c20-62-ft-data-bi;Nicolas Dasanbiagio;ndasanbiagio@gmail.com;+543516617649;Machine Learning;Python;Mulesoft;Full-Time;true
+C20;c20-62-ft-data-bi;Federico Mansilla;fdmnsll@gmail.com;+5491152294341;Data Analyst;Java;Power Bi, Tableau, Qlik, MySQL;Full-Time;false
+C20;c20-62-ft-data-bi;Lery Robert Benavides Gonzales;lery.benavides@gmail.com;+34613088575;Data Scientist;Python;Python: Pandas, NumPy, TensorFlow, PyTorch, Matplotlib, Seaborn;Full-Time;false
+C20;c20-62-ft-data-bi;Luis Emmanuel Palacios Nava;luisp75014@gmail.com;+523123052900;Data Scientist;Python;MySQL, GitHub, VS Code, Excel, Tableau;Full-Time;false
+C20;c20-62-ft-data-bi;Beverly  Gonzalez Casanova;beverly.jlgc@gmail.com;+5492214761955;Data Scientist;Python;Power Bi, Tableau, Google Data Studio;Full-Time;true
+C20;c20-62-ft-data-bi;Virginia Bottino;virginia.bottino@gmail.com;+541169508216;Data Analyst;Python;Looker;Full-Time;false
+C20;c20-62-ft-data-bi;Fabian Abdala;fabianabdala@gmail.com;+542246461977;Data Analyst;Ninguno;Tableau, Power Bi, Excel, DAX;Full-Time;false
+C20;c20-63-m-data-bi;Diego Alonso Pezo Clement;diegoclement16@gmail.com;+51977644829;Data Analyst;Python;Power BI, Excel;Mañana;true
+C20;c20-63-m-data-bi;Vanina Candelaria Sulca;svaninac@gmail.com;+543876848432;Data Analyst;Python;Python;Mañana;false
+C20;c20-63-m-data-bi;Mauro Pereyra;maupereyra96@gmail.com;+542932465196;Data Engineer;Python;Spark, Docker, Kafka, Airflow, Superset, PostgresSQL;Mañana;false
+C20;c20-63-m-data-bi;Mayra Brandan;maybran02@gmail.com;+543816286008;Data Analyst;Java;Power BI;Mañana;true
+C20;c20-63-m-data-bi;Sergio Francisco Rivera Bustamante;sergio-2k@hotmail.com;+56961625165;Data Scientist;Python;Power BI;Mañana;true
+C20;c20-63-m-data-bi;Octavio Moya;otimoya0@gmail.com;+542474445352;Business Analyst;Python;Tableau, Metabase;Mañana;false
+C20;c20-63-m-data-bi;Cornelio Nava;cornelionavapm@gmail.com;+5491133854298;Data Analyst;Ninguno;SQL, Power BI, Excel;Mañana;false
+C20;c20-63-m-data-bi;Valentina  Agudelo;vagudelo@unal.edu.co;+573167095270;Data Analyst;Python;power bi, SQL;Mañana;true
+C20;c20-63-m-data-bi;Guillermo  González ;guillermojaviergonzalez@gmail.com;+5491124092508;Data Analyst;Python;Sql, Power BI, Looker Studio;Mañana;false
+C20;c20-63-m-data-bi;Angela Natalia Escobar Castro;natescobar2@gmail.com;+573237984034;Data Analyst;Python;Power BI, Tableau, R, Python, SQL, Excel;Mañana;false
+C20;c20-64-m-data-bi;Maria Camila  Torres Fernandez;maria.camilatorres94fer@gmail.com;+529931061203;Data Analyst;Python;Power Bi;Mañana;false
+C20;c20-64-m-data-bi;Patricia  Espindola;p.espindolacastillo@yahoo.com;+56982494974;Data Engineer;C#;ninguna;Mañana;true
+C20;c20-64-m-data-bi;Marian Davinia Gil Montaño;gildavinia2008@gmail.com;+59179340908;Data Analyst;Python;Pandas, NumPy, Matplotlib;Mañana;false
+C20;c20-64-m-data-bi;Luis Miguel Hoyos Ordoñez;lmiguel.hoyos@gmail.com;+573118693098;Data Analyst;Python;Power BI, Python, Excel;Mañana;false
+C20;c20-64-m-data-bi;Gaston Re;gastyre15@gmail.com;+5493404527725;Data Engineer;Python;Power Bi, Microsoft 365, Python, librerias python enfocadas en el análisis y procesado de datos(pandas, spark, etc), big data, SQL, No-SQL, MYSQL, PostgreSQL, Github, GCP;Mañana;true
+C20;c20-64-m-data-bi;Jorgelina Sigal;jorgelinasigal@gmail.com;+542395418243;Project Manager;Javascript;Power BI, MySQL, mongoDB, otros lenguajes de programacion;Mañana;true
+C20;c20-64-m-data-bi;Rosa Isela  Gonzalez Díaz;rosaiselagonza72@gmail.com;+525628369855;Data Scientist;Python;none;Mañana;false
+C20;c20-64-m-data-bi;Santiago  Chicangana Garcia ;santichicanganag@gmail.com;+573104094603;Data Analyst;Python;Power Bi;Mañana;false
+C20;c20-64-m-data-bi;Sandra Castaño;sandrapatriciacastano154@gmail.com;+573014201769;Data Analyst;Python;Power BI, MySQL, Python;Mañana;false
+C20;c20-64-m-data-bi;Camila Galetto;camigaletto@gmail.com;+34607403742;Project Manager;Ninguno;TABLEAU, SQL;Mañana;true
+C20;c20-65-m-data-bi;Angie Vanessa Morales Salazar;vanemorales1011@gmail.com;+573124023129;Data Scientist;Python;Tableau, Google Collab, SQL Server, Google Spreed Sheets;Mañana;true
+C20;c20-65-m-data-bi;María José Iramay;mariajoseiramay@gmail.com;+543834037433;Data Analyst;Python;Google Colab;Mañana;false
+C20;c20-65-m-data-bi;Leidy Loaiza;leymilena2531@gmail.com;+573015221441;Data Analyst;Python;mi stack tecnologico incluye: Bases de datos Microsoft SQL Server, Herramientas de visualizacion PowerBI, Control  de Versiones Git Bash, Lenguajes de Programacion SQL & python, Otros Excel Avanzado;Mañana;true
+C20;c20-65-m-data-bi;Verónica Franco;verofranco0478@gmail.com;+543704709325;Data Analyst;Javascript;POWER BI;Mañana;false
+C20;c20-65-m-data-bi;Diana Yazmín  Joaquín Antonio;yazjoandi@gmail.com;+525575062614;Business Analyst;Python;Tableau, Power Bi, Looker Studio, Python, SQL;Mañana;false
+C20;c20-65-m-data-bi;Andres  Rafael Tito;andres.111.art@gmail.com;+59169818117;Business Analyst;Python;Power BI, PostgreSQL, Python, R;Mañana;true
+C20;c20-65-m-data-bi;Gina  Correa;ginagiulianacorrea@gmail.com;+5492613379580;Data Analyst;Python;power BI - Tableau - SQL;Mañana;true
+C20;c20-65-m-data-bi;Victoria Zurbriggen;victoriazur8@gmail.com;+5493425491971;Data Analyst;Otro;Tableau, Power Bi;Mañana;true
+C20;c20-65-m-data-bi;Fabiana Mabel Dominguez;fabudominguez@gmail.com;+543876412278;Data Analyst;Otro;Jira;Mañana;false
+C20;c20-65-m-data-bi;Alex Damian Brost;alexdam36@gmail.com;+542262585850;Otro;C#;.NET + Entity fw + SQL + HTML/CSS + GHub + Trello--+.. ;Mañana;true
+C20;c20-65-m-data-bi;Jonathan Gutierrez Medellin;jonamedellin13@hotmail.com;+524441150709;Data Scientist;Python;Pytorch, Power Bi, Jupyter Notebook,R;Mañana;false
+C20;c20-65-m-data-bi;Nahuel Juarez;nahuelkbj@gmail.com;+543865325173;Data Analyst;Javascript;Power BI;Mañana;false
+C20;c20-66-m-data-bi;Esteban Dominguez Baez;felixestebandominguezbaez@gmail.com;+543813521534;Data Analyst;Java;Power BI;Mañana;true
+C20;c20-66-m-data-bi;Nathaly Castro;artesana160189@gmail.com;+573113847974;Data Analyst;Python;Power bi, SQL,python.;Mañana;false
+C20;c20-66-m-data-bi;Cintya Albarracin;cintyaa4@gmail.com;+5493865231505;Business Analyst;Otro;Power Bi;Mañana;true
+C20;c20-66-m-data-bi;José Francisco Cruz Velazco;josefrancruzvel02@gmail.com;+529515790544;Data Analyst;R;Shiny;Mañana;false
+C20;c20-66-m-data-bi;Santiago Nuñez;santiagon100@gmail.com;+543765025781;Data Analyst;Python;LookerStudio y Manejo de Datos ;Mañana;true
+C20;c20-66-m-data-bi;Franco D'auro;francodauro@gmail.com;+542215990784;Data Analyst;Python;Power BI, MySQL, R, Excel, Pandas, MatPlotLib, Seaborn;Mañana;true
+C20;c20-66-m-data-bi;Lucas Exequiel Gonzalez;lucasg.exe.1998@gmail.com;+543815619479;Data Analyst;Python;Power BI, SQL;Mañana;true
+C20;c20-66-m-data-bi;Ana Lia Ashkenazi;analia.ashkenazi@gmail.com;+5491165055076;Machine Learning;Python;Jira;Mañana;true
+C20;c20-66-m-data-bi;Darío Ignacio Aveiro;darioaveiro@gmail.com;+542616633132;Data Engineer;Python;Power BI, Tableu, MySQL, VSC, Colab.;Mañana;true
+C20;c20-66-m-data-bi;Tomas Berni;tomasbernimozzo@gmail.com;+59898876320;Data Scientist;Python;Numpy, Pandas, Matplotlib, Seaborn;Mañana;true
+C20;c20-66-m-data-bi;Mora Capdevila;moracapdevila457@gmail.com;+543471620656;Data Scientist;Python;Power Bi, Qlik;Mañana;true
+C20;c20-67-m-data-bi;Karina Ordoñez;nachtschattenx20@gmail.com;+525573737128;Data Scientist;Python;Python, SQL, Power BI, estadistica, analisis y limpieza de datos, machine learning ;Mañana;false
+C20;c20-67-m-data-bi;Ruth Lezcano;lezcano.ruth.j@gmail.com;+541122466757;Project Manager;Javascript;Tableau, power bi;Mañana;true
+C20;c20-67-m-data-bi;Sergio Andres Tovar Triana;satovart@gmail.com;+573165697682;Data Engineer;Java;Spark-Scala;Mañana;true
+C20;c20-67-m-data-bi;Gabriela Karina Lopez;gabrielakarinalopez01@gmail.com;+56967319064;Data Analyst;Python;Tableau, Power Bi, Excel, SQL, ;Mañana;false
+C20;c20-67-m-data-bi;Matias Delgado;matiasdmsd89@gmail.com;+543512791822;Data Analyst;Python;excel,sql server magnament, python, power bi, css , html;Mañana;true
+C20;c20-67-m-data-bi;Leandro Veron;leandroveron1110@gmail.com;+5493442622763;Data Analyst;Typescript;Tableau, Power Bi;Mañana;false
+C20;c20-67-m-data-bi;Daineth Domínguez;daidominguezb@gmail.com;+5491125249170;Business Analyst;Python;Power BI, looker studio, grafana;Mañana;false
+C20;c20-67-m-data-bi;Samantha  Estudillo;samm.lestudillo@gmail.com;+526181599212;Data Analyst;Python;Tableau, pandas, numpy, seaborn, sklearn...;Mañana;false
+C20;c20-67-m-data-bi;Ma Florencia Yofre;floryofre.da@gmail.com;+543516821955;Data Analyst;Python;Power Bi, Sql Server, Excel;Mañana;true
+C20;c20-67-m-data-bi;Miguel  Correa;bochicasimijaca@gmail.com;+573114356507;Data Analyst;R;Tableau, power bi;Mañana;false
+C20;c20-67-m-data-bi;Valentin Ulmam;valentin_ulman@outlook.es;+543438412726;Data Analyst;Otro;Tableau, power BI, excel, sql;Mañana;true
+C20;c20-68-n-data-bi;Alejandra Moreno Vallejo;alejamorenovallejo@gmail.com;+573213618482;Data Engineer;Python;Bases de datos, Sql , power bi y tableu (basico);Noche;false
+C20;c20-68-n-data-bi;Mariana  Cepeda ;cepedamariana@gmail.com;+542214777669;Data Scientist;Python;Tableau, Power Bi;Noche;false
+C20;c20-68-n-data-bi;Miguel Angel Lajo Bernahola;ingmiguellajo@gmail.com;+51974812316;Data Analyst;Python;SQL, Python, Excel;Noche;false
+C20;c20-68-n-data-bi;Marcelo Fernando  Arce;marce1991arce@gmail.com;+541161967467;Data Engineer;Python;Python, MySQL,Git, github ;Noche;false
+C20;c20-68-n-data-bi;Fernando  Acarapi ;arviziosoft@gmail.com;+59177723147;Data Scientist;Python;Tableu , Power Bi , PostgreSQL, Weeka ;Noche;false
+C20;c20-68-n-data-bi;Denise Khurlopian;denisekhurlopian@gmail.com;+34692977460;Data Analyst;PHP;Full stack JS, front y backend, me interesa mas backend y aprender sobre analisis de datos si es que es posible.;Noche;false
+C20;c20-68-n-data-bi;Chiara Espósito;chiaraesposito10@yahoo.com;+541169147969;Data Analyst;Javascript;POWER BI, básico. SQL, básico;Noche;false
+C20;c20-68-n-data-bi;Leydy  Osorio Vargas ;osorioleydy9@gmail.com;+573013822629;Data Analyst;Python;Power BI, Tableau, SQL, Python ;Noche;false
+C20;c20-68-n-data-bi;Samir Alexander  Maldonado Ricci ;maldonadoriccisamira@gmail.com;+51993339909;Data Analyst;Python;Power BI, Tableau;Noche;false
+C20;c20-68-n-data-bi;Aldemar Bohorquez;abr942010@gmail.com;+573126500390;Data Scientist;Python;PowerBi, Python, MySql, Java, Spring;Noche;true
+C20;c20-69-n-data-bi;Bruno Argañaraz;arg.brunor@gmail.com;+543815392653;Data Analyst;Python;Power BI;Noche;true
+C20;c20-69-n-data-bi;Jhoseph Michel  Orellana Medrano ;jhosephorellana48@gmail.com;+59171469794;Data Analyst;Python;Power Bi;Noche;false
+C20;c20-69-n-data-bi;Johana  Herrera Perez;johana.rosicel@gmail.com;+51948646051;Data Analyst;Python;Conozco tecnologías como Python, Django, Flask, HTML, CSS, JavaScript, SQL, NoSQL, y herramientas de diseño web como Figma.;Noche;false
+C20;c20-69-n-data-bi;Fabian Eduardo  Sanchez Guevara;sanchezguevarafabianeduardo@gmail.com;+573142841080;Business Analyst;R;POWER BI SQL EXCEL ;Noche;true
+C20;c20-69-n-data-bi;Lizeth Tatiana  Morales Salazar ;tatianalam96@gmail.com;+573207083458;Data Scientist;Python;SQL, Tableau, R;Noche;true
+C20;c20-69-n-data-bi;Joaquin Veron;joacoveron97@gmail.com;+541133910239;Business Analyst;Python;Tableau, PowerBI, Business Analyst, SQL, Metodologias Agiles;Noche;true
+C20;c20-69-n-data-bi;Jorge Alarcon;jorgealarconp1902@gmail.com;+573223651431;Machine Learning;Python;SQL, Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn;Noche;false
+C20;c20-69-n-data-bi;Gerardo Rios;gerandres21@gmail.com;+584121235442;Data Analyst;Ninguno;Power BI, Excel, SQL;Noche;false
+C20;c20-69-n-data-bi;Nathan Harroch;nathan.harroch06@gmail.com;+525574867577;Data Scientist;Python;Excel, Python, Pandas, Numpy, Statistics, Regex, entre otros;Noche;false
+C20;c20-69-n-data-bi;Arthur Ayala;arthurayaladett@outlook.com;+51996235573;Data Scientist;Python;SQL, Power BI;Noche;false
+C20;c20-70-n-data-bi;Irma Correa;irmamogollon17@hotmail.com;+573133685089;Data Analyst;Python;Power Bi;Noche;true
+C20;c20-70-n-data-bi;Isabella  P;isaperezcaviedes@gmail.com;+573173510133;Business Analyst;Python;Power Bi;Noche;true
+C20;c20-70-n-data-bi;Esteban Gonzalez;andresgvelasquez8@gmail.com;+526463848801;Data Scientist;Python;Júpiter notebook, docker, machine learning, matplotlib, seaborn, sklearn;Noche;true
+C20;c20-70-n-data-bi;Sergio Gonzalez Lozoya;sergio.hawked@gmail.com;+6653921584;Data Analyst;Python;Python, SQL, Power Bi;Noche;false
+C20;c20-70-n-data-bi;Laura Cristina  Vasquez Zapata ;lauravasquez112399@gmail.com;+573052858147;Data Analyst;Python;SQL, Power Bi ;Noche;false
+C20;c20-70-n-data-bi;Juan  Albadan;juanalbadan3@gmail.com;+573145450662;Data Engineer;Python;Sql, python, GCP pyspark power bi;Noche;false
+C20;c20-70-n-data-bi;Cynthia Figueroa;cynfigueroa.data@gmail.com;+542915089356;Data Scientist;Ninguno;Power Bi, Excel, SQL;Noche;false
+C20;c20-70-n-data-bi;Tomas Bejarano;tomasbejaranogonzalez@gmail.com;+573108594447;Data Analyst;Python;Power BI ;Noche;false
+C20;c20-70-n-data-bi;Karen Dayanna Barrera Mogollón;dayannamogollon6@gmail.com;+573204418282;Data Analyst;Python;Power bi;Noche;false
+C20;c20-70-n-data-bi;Anngie Lopez;anngielll1997@gmail.com;+573154425598;Data Analyst;Python;Tableau, pandas, power bi, excel, SQL, ploty, seaborne, scipy;Noche;true
+C20;c20-71-n-data-bi;Giovanni Legnoverde;legnoverdegiovanni@gmail.com;+541128449927;ETL Developer;Python;Excel, C;Noche;false
+C20;c20-71-n-data-bi;Javiera  Carrera;jvcarrera@uc.cl;+56958153161;Data Analyst;Python;Tableau, PostgreSQL, DBeaver, SQL, Excel, Python libraries;Noche;false
+C20;c20-71-n-data-bi;Nicolás Salamanca;nicolas.salamancam@gmail.com;+56972254379;Data Scientist;Python;Python, SQL, Machine Learning;Noche;false
+C20;c20-71-n-data-bi;Juan Antonio Reyes Mendoza;juanantonio.r.m94@gmail.com;+527223993033;Data Scientist;Python;Tableau, scikit-learn, Pandas, Numpy, Matplotlib, Seaborn, Scipy, Catboost, LightGBM;Noche;false
+C20;c20-71-n-data-bi;Diego Zarate;dienzgo97@gmail.com;+542915273359;Data Analyst;Java;JSoup,Selenium,MySQL;Noche;false
+C20;c20-71-n-data-bi;Juan  Cortez Zamar;juancorzamar@gmail.com;+543888469573;Data Engineer;Python;SQL, Power BI, Docker, Airflow, ETL;Noche;false
+C20;c20-71-n-data-bi;Veronica Puymalie;veronica.puymalie@gmail.com;+542257523924;Data Analyst;Python;Google Collab;Noche;false
+C20;c20-71-n-data-bi;Brian Bernal;brian.bernal@pucp.edu.pe;+51922567301;Data Analyst;Python;SQL, LookerStudio, Excel;Noche;false
+C20;c20-71-n-data-bi;Laura Cristina Minaya Aguirre;lauminagui@gmail.com;+51932204922;Data Analyst;Python;Power BI, Tableau, R básico, SQL básico, Excel ;Noche;false
+C20;c20-71-n-data-bi;Victoria Curzi;mavvgee@gmail.com;+541163695654;Machine Learning;Python;No sé;Noche;false
+C20;c20-72-n-data-bi;Andrés Mesa;keops_2193@hotmail.com;+573148325700;Data Scientist;Python;Python, Power BI, SQL server, SSIS, Rstudio;Noche;false
+C20;c20-72-n-data-bi;Diego Euler;diegoeuler@gmail.com;+541134007759;Data Scientist;Python;Python, Matplotlib, Seaborn, Plotly, Tableau, Power BI, Jupyter Notebooks;Noche;true
+C20;c20-72-n-data-bi;Romina  Mastropierro ;romina.mastro@gmail.com;+542262407149;Data Analyst;Python;Power Bi;Noche;true
+C20;c20-72-n-data-bi;Emerson Arenas;emer.are@protonmail.com;+573506630391;Data Engineer;Python;Pyspark, Streamlit, Plotly, Matplotlib, GCP, Airflow, Docker, FastAPI, SQL.;Noche;false
+C20;c20-72-n-data-bi;Irvin Ricardo Ramos Ramos;nickiunac@hotmail.com;+51923840456;Data Engineer;Python;SQL Server, Matillion, Integration Service, Power BI, Servicios GCP (data), Servicios Azure (data), Databricks;Noche;true
+C20;c20-72-n-data-bi;Gerardo Costanzi;gerardocostanzi@gmail.com;+542914651910;Data Analyst;Python;Looker, Tableau, Qlik, SQL , PowerBI,;Noche;true
+C20;c20-72-n-data-bi;Nicolás Salamanca;nicolas.antonio.sm@outlook.com;+56972254379;Data Engineer;Python;Python, SQL;Noche;false
+C20;c20-72-n-data-bi;Zulma Samacá;samacazuma@gmail.com;+3228709530;Data Engineer;Python;Power Bi, Power Automate.;Noche;true
+C20;c20-72-n-data-bi;Maria Victoria Sue;mariavictoriasue@gmail.com;+56930129115;Data Analyst;Python;PowerBi;Noche;false
+C20;c20-72-n-data-bi;Mayra Del Valle González;mayradelvallegonzalez@gmail.com;+543815160008;Data Analyst;Javascript;Power BI, SQL, Excel;Noche;false
+C20;c20-73-n-data-bi;Shaila Verenice Hussein;shaila24hussein@gmail.com;+543812138700;Machine Learning;Python;Excel, MySQL;Noche;false
+C20;c20-73-n-data-bi;Reinaldo Marquez;rmarquezfarias@gmail.com;+5491176184059;Data Analyst;Python;Power Bi, Sql;Noche;true
+C20;c20-73-n-data-bi;Emanuel Dos Santos;emanueldossantoset5@gmail.com;+541136716706;Data Scientist;Python;Python, Power Bi;Noche;true
+C20;c20-73-n-data-bi;Milton Pacheco;miltonextravarus@gmail.com;+543413015382;Data Analyst;Python;Microsoft Excel, SQL;Noche;false
+C20;c20-73-n-data-bi;Ernesto Carrillo;ernestocarrilloj96@gmail.com;+51944921743;Data Engineer;Python;Python, SQL, GCP, Power BI;Noche;true
+C20;c20-73-n-data-bi;Reinaldo Marquez;reinaldomarquez557@gmail.com;+5491176184059;Data Analyst;Python;Power Bi;Noche;true
+C20;c20-73-n-data-bi;Maria Fernanda  Carrera ;mafercarrera17@gmail.com;+51944625322;Business Analyst;Ninguno;Looker Studio;Noche;false
+C20;c20-73-n-data-bi;Rodrigo Tadeo Nicolas Ulloa Yaulimango;rodrigo.ulloa.y@gmail.com;+51950273505;Business Analyst;Python;Tableau, Power BI, Looker Studio ;Noche;false
+C20;c20-73-n-data-bi;Walter Oscar Londero;londerowaltercorreopf@gmail.com;+543755686795;Data Engineer;Python;Tableau,  Power Bi, GCP, SQL, Doker, Hadoop, SQL.;Noche;false
+C20;c20-73-n-data-bi;María Agustina López León;agus.lopezleon@gmail.com;+541126676330;Data Analyst;Python;Power Bi, Looker Studio, Git, Jira, Excel;Noche;false
+C20;c20-74-n-data-bi;Mauricio Israel  Menéndez;mauriciomenendez01@gmail.com;+50370031729;Data Analyst;Python;Python, Excel, Power Bi, SQL;Noche;true
+C20;c20-74-n-data-bi;Nicolas Acha;nicolas.acha.p@gmail.com;+59176130130;Data Scientist;Python;Python, Power Bi, Excel, Sql;Noche;true
+C20;c20-74-n-data-bi;Keziah Reynoso;kreynoso239@gmail.com;+525541889108;Data Scientist;Python;Tableau;Noche;false
+C20;c20-74-n-data-bi;Laura  Barreto;lauraportela2000@gmail.com;+573155153788;Data Analyst;Python;Power bi, SQL;Noche;false
+C20;c20-74-n-data-bi;Morella Cantos;cantosmorella@gmail.com;+543816639093;Data Scientist;Python;Python, numpy, pandas, sklearn;Noche;false
+C20;c20-74-n-data-bi;Andres Fajardo;andrewolf80550@hotmail.com;+3223089359;Data Analyst;Python;Power Bi;Noche;false
+C20;c20-74-n-data-bi;Mónica  Arroyuelo ;arroyuelom@gmail.com;+542664344108;Data Scientist;Python;Power Bi;Noche;false
+C20;c20-74-n-data-bi;Mario Daniel Carrion Paucar;dan.21.5@hotmail.com;+51987687296;Data Scientist;Python;SQL,EXCEL,SPSS;Noche;true
+C20;c20-74-n-data-bi;Carla Baca;baca.carla@gmail.com;+543874696622;Data Analyst;Python;Power Bi, Looker Studio, SQL Server;Noche;false
+C20;c20-74-n-data-bi;Miguel Angel  Jiménez ;miguelangeljdiaz@gmail.com;+573212227176;Data Analyst;Python;Power Bi;Noche;false
+C20;c20-75-n-data-bi;Mario Cabral;cabralmario59@gmail.com;+541125733686;Data Analyst;Python;Power bi, Excel, Sql ;Noche;false
+C20;c20-75-n-data-bi;Francisco  Agámez;franciscoagamez@gmail.com;+573168759945;Data Scientist;Python;PowerBi, Looker, GCP, Bigquery, SQL, Python, VScode, Jupyter lab, Github, librerías;Noche;false
+C20;c20-75-n-data-bi;Juan Carlos Rodriguez Ramos ;jcarlosrodri.r@gmail.com;+523411096082;Data Engineer;Python;PowerBi, python, sql, machine learning ;Noche;false
+C20;c20-75-n-data-bi;Gabriel Charbel Nohra Khouri;gabriel.nohra@gmail.com;+584149196141;Data Analyst;Python;Excel;Noche;false
+C20;c20-75-n-data-bi;Maria Eugenia  Garat;mgarat10@gmail.com;+543454125979;Data Analyst;Python;Tableau power bi;Noche;true
+C20;c20-75-n-data-bi;Gina Correa;gingiulianacorrea@gmail.com;+5492613379580;Data Engineer;Python;Power Bi , SQL , Tableau;Noche;true
+C20;c20-75-n-data-bi;Alejandro  Senabre;asenabre98@gmail.com;+541150958783;Data Analyst;Python;Power BI, Tableau, SQL, R, Python;Noche;false
+C20;c20-75-n-data-bi;Romina Soledad  Escudero;escudero.rominasoledad@gmail.com;+5492664830440;ETL Developer;Python;python(pandas, numpy, matplotlib, seaborn, SQL, Power Bi, fast API, GCP, google Storage, Big Query, Looker, git y github, entre otras herramientas.;Noche;false
+C20;c20-76-t-data-bi;Josué Ojeda;josojeda1988@gmail.com;+541126300943;Data Analyst;Javascript;tableau, excel;Tarde;false
+C20;c20-76-t-data-bi;Facundo Blanco;blancofacundo0@gmail.com;+543794146610;Machine Learning;Python;Python, Pandas, Numpy, scikit-learn, TensorFlow, Keras, PowerBI, Matplotlib, SQL, GCP;Tarde;false
+C20;c20-76-t-data-bi;Abner Galan;abnergalrol6991@gmail.com;+593969040140;Data Scientist;Python;python;Tarde;true
+C20;c20-76-t-data-bi;Danny Hernandez ;yamid.inge06@gmail.com;+573186858378;Data Engineer;Python;tableau, power bi ;Tarde;true
+C20;c20-76-t-data-bi;Verónica Gil Franco;veronicagilf@gmail.com;+573112549223;Data Analyst;Python;Power BI, SQL Server;Tarde;true
+C20;c20-76-t-data-bi;Erley Valeta Camaño;erleyvaleta09@gmail.com;+573188082304;ETL Developer;PHP;Power BI, Tableau,Looker Studio ,Java, SQL,PHP;Tarde;false
+C20;c20-76-t-data-bi;Mateo Ramírez;mateojulianramirez@gmail.com;+543487618050;Otro;Javascript;Nulo - Quiero aprender ;Tarde;true
+C20;c20-76-t-data-bi;Micaela Callahuanca;micaelacallahuanca77@gmail.com;+5491168861516;Data Analyst;Python;Excel, Power BI, Tableau, Google Sheets, SQL, Looker Studio, AWS, GCP, HTML, CSS, JS;Tarde;true
+C20;c20-76-t-data-bi;Paola Andrea Cedano Useche;pacedanou@ut.edu.co;+573133210477;Business Analyst;Python;Powerbi, sql y Excel;Tarde;false
+C20;c20-76-t-data-bi;Daniel Pequeño;peq.daniel@gmail.com;+51908576408;Business Analyst;Python;Tableau, Azure;Tarde;false
+C20;c20-76-t-data-bi;Agostina  Luna;lunaagostina23@gmail.com;+543875020840;Data Engineer;Python;Power Bi, Tableau, SQL, MySQL, Oracle SQL;Tarde;true
+C20;c20-77-t-data-bi;Rocio Baur;rocio.baur@gmail.com;+541168023597;Data Analyst;Otro;Sql server, power bi;Tarde;false
+C20;c20-77-t-data-bi;Juan Cruz Larraya;juanlarraya00@gmail.com;+542355526821;Data Analyst;Python;Power Bi, pandas, numpy, airflow, docker, compose, MySQL, linux;Tarde;true
+C20;c20-77-t-data-bi;Mauro Montenegro;maumontenegro.m90@gmail.com;+5492915742838;Data Scientist;Python;power bi, postgresql;Tarde;false
+C20;c20-77-t-data-bi;Karen Cofré;karencofrecejas@gmail.com;+56983886371;Data Scientist;Python;Tableau, Power BI;Tarde;true
+C20;c20-77-t-data-bi;Jackeline Milagros Velasquez García;jackyvelasquezg@gmail.com;+51927841490;Data Analyst;Python;Power Bi, Visual Studio 2022,Pandas;Tarde;false
+C20;c20-77-t-data-bi;Angel David  Cisneros Salazar ;mataviejitas778@gmail.com;+523525571341;Data Analyst;Java;Sql ;Tarde;false
+C20;c20-77-t-data-bi;Paloma Ortiz Molina;palomitaom@gmail.com;+542644581016;Data Analyst;Python;Power BI, Sql Server, Trello, Assana, Miro, Gsuite;Tarde;true
+C20;c20-77-t-data-bi;Alejandro  Zavala;alxzavala.99@gmail.com;+525551051030;Data Analyst;Python;Power bi, Tableau, python, R, SPSS ;Tarde;true
+C20;c20-77-t-data-bi;Sol Yohana Giraldo;solecitogiraldo@gmail.com;+573117839106;Business Analyst;Python;Power BI;Tarde;true
+C20;c20-77-t-data-bi;Gabriel Sosa;gabbysosa32@gmail.com;+543416026882;Data Analyst;Python;R,Tableau,Excell,javascript,php,html,css,javascript;Tarde;true
+C20;c20-77-t-data-bi;Juan Hiribarren;hiribarrenjm@gmail.com;+542213149397;Data Analyst;Python;Looker Studio, QlikSense, Power BI, SQL, POO y PFuncional. Python, Pandas, Numpy, SciPy.;Tarde;true
+C20;c20-78-t-data-bi;Ian Yane;ian.00@hotmail.com;+542983664400;Data Scientist;Python;Pandas, Numpy, Sqlite3, Seaborn, scikit-learn, Missingno y algunas tecnologías en general a nivel inicial (airflow, aws, bash, tableau, etc.).;Tarde;false
+C20;c20-78-t-data-bi;Nicolás Lascours;lascoursnicolas@gmail.com;+542215798674;Data Scientist;Python;Looker Studio;Tarde;false
+C20;c20-78-t-data-bi;Nicolás Eugenio  Stassi ;nicolasestassi@hotmail.com;+543512321307;Data Scientist;Python;Tablau, Power Bi;Tarde;false
+C20;c20-78-t-data-bi;Franco Marinozzi;francomarinozzi4@gmail.com;+541156350137;Machine Learning;Python;Python,Java, SQL, Git/github, HTML/CSS, JS y React basico.;Tarde;true
+C20;c20-78-t-data-bi;Nahir Maximiliano Esper ;mesper901@gmail.com;+543876131510;Data Analyst;Python;Tableau, Power Bi,excel, python;Tarde;false
+C20;c20-78-t-data-bi;Luis Fernando Sanchez Romero;lonferchokiller@gmail.com;+525533600433;Data Engineer;Python;python, sas, sql, spark;Tarde;true
+C20;c20-78-t-data-bi;Amalia Raimundo;amaliaraimundo@live.com;+5547989103307;Data Analyst;Python;Tableau, Power Bi;Tarde;false
+C20;c20-78-t-data-bi;Alejandra Cruz;alejandramcr@gmail.com;+584166754940;Data Scientist;Python;VSCode, Power BI, Anaconda, Collab, Streamlit;Tarde;false
+C20;c20-78-t-data-bi;Aluminé  Salinas Thamtham ;aluminest@gmail.com;+5491132044135;Data Analyst;Python;Power Bi;Tarde;false
+C20;c20-78-t-data-bi;Agustina  Luna ;agustinatluna@outlook.com;+4571490345;Data Analyst;Python;Tableau, Power Bi, SQL, Python, Git;Tarde;false
+C20;c20-78-t-data-bi;Rocio Daniela Gimenez;rociodanielagimenez5@gmail.com;+541140600801;Data Analyst;Python;Power Bi, Python, SQL, Excel, R;Tarde;true
+C20;c20-78-t-data-bi;Matías Agüero;agueromatias664@gmail.com;+5491166818784;Data Analyst;Typescript;nodejs, mongodb, docker, github;Tarde;true
+C20;c20-79-ft-no-code;Matias Semelman;matiassemelman@gmail.com;+541130332808;Desarrollo;undefined;Bubble;Full-Time;false
+C20;c20-79-ft-no-code;Lara Sofia Alvarez;lara15alvarez@gmail.com;+5492364586259;Design;undefined;Figma;Full-Time;false
+C20;c20-79-ft-no-code;Jessica Geraldine Hancco Velásquez;jhanccove@unsa.edu.pe;+51954346695;Design;undefined;Figma - Webflow - Adobe Illustrator - Zapier;Full-Time;true
+C20;c20-79-ft-no-code;Alfredo Martinez;facultad1976@hotmail.com;+541151547955;Automatización;undefined;Otro;Full-Time;true
+C20;c20-79-ft-no-code;Juan Pablo Molina;juampisama96@gmail.com;+5493455227106;Automatización;undefined;Otro;Full-Time;true
+C20;c20-79-ft-no-code;Oskarina Naguanagua;oskarinand12@gmail.com;+56923225579;Design;undefined;Figma - Webflow - Flutterflow - Adobe Illustrator;Full-Time;false
+C20;c20-79-ft-no-code;Jessica  Pereira ;garciajessicadahiana@gmail.com;+541120496376;Marketing;undefined;Mailchimp - Flutterflow - Otro - Figma;Full-Time;false
+C20;c20-79-ft-no-code;Federico Caggiano;fede_caggiano@hotmail.com;+542346603947;Automatización;undefined;Otro;Full-Time;false
+C20;c20-80-n-no-code;María Alejandra  Atanasios ;atanasiosmariaalejandra@gmail.com;+5491141477656;Desarrollo;undefined;Webflow;Noche;true
+C20;c20-80-n-no-code;Edgar Bonilla;erbonilla@outlook.com;+50683731111;Design;undefined;Figma - Webflow - Adobe Illustrator - Flutterflow;Noche;false
+C20;c20-80-n-no-code;Ezequiel  Maureira ;ezetoto@gmail.com;+542616963954;Desarrollo;undefined;Otro;Noche;true
+C20;c20-80-n-no-code;Zacarias  Pereira;zacarias.salvador.pereira@gmail.com;+595984659265;Desarrollo;undefined;Otro;Noche;true
+C20;c20-80-n-no-code;Julio Ulloa;julioulloay@gmail.com;+51970524185;Research;undefined;Adobe Illustrator - Bubble - Mailchimp - Webflow;Noche;false
+C20;c20-80-n-no-code;Silvana Santander;muniturc@yahoo.com.ar;+5491135976831;Desarrollo;undefined;Figma;Noche;true
+C20;c20-80-n-no-code;Daniel  Guadir ;daniel.guadir@correounivalle.edu.co;+573148029030;Research;undefined;Webflow - Otro;Noche;true
+C20;c20-81-n-no-code;Augusto Blanco;blanco.augusto.r@gmail.com;+543624051450;Desarrollo;undefined;Bubble;Noche;false
+C20;c20-81-n-no-code;Angel Martin Sánchez;angelsmart86@gmail.com;+5492664644093;Desarrollo;undefined;Flutterflow;Noche;true
+C20;c20-81-n-no-code;Alejandra  Talavera ;alejandra.talavera1001@gmail.com;+51995996082;Design;undefined;Webflow - Figma - Adobe Illustrator - Otro - Mailchimp - Bubble - Flutterflow - Airtable;Noche;false
+C20;c20-81-n-no-code;Javier  Balderrama ;88.javierbalde@gmail.com;+524491915054;Automatización;undefined;Figma - Otro - Zapier - Flutterflow;Noche;true
+C20;c20-81-n-no-code;Agustina Gurevich;agustinagurevich@gmail.com;+5491156555614;Design;undefined;Figma;Noche;false
+C20;c20-81-n-no-code;Edixon Elkin  Apaza Quispe ;apazaedixon98@gmail.com;+59167801886;Desarrollo;undefined;Flutterflow - Webflow;Noche;true
+C20;c20-81-n-no-code;Edwin Alonso  García Fuentes;edalgafu@gmail.com;+573143724237;Marketing;undefined;Figma - Adobe Illustrator;Noche;false
+C20;c20-82-n-no-code;Alison  Florindez ;aliflorindez@gmail.com;+5491163070414;Design;undefined;Figma;Noche;false
+C20;c20-82-n-no-code;Santiago Agustin Nanio Guitton;agustinnanio@gmail.com;+5493764642351;Desarrollo;undefined;Webflow - Flutterflow - Bubble - Airtable - Zapier - Make;Noche;true
+C20;c20-82-n-no-code;Luciana Pascucci;pascucci.luciana@gmail.com;+5491168019378;Research;undefined;Figma - Adobe Illustrator - Mailchimp;Noche;true
+C20;c20-82-n-no-code;Karina Yzocupe Farfan;karinayzocupe@gmail.com;+51942063490;Research;undefined;Figma - Mailchimp - Webflow - Airtable;Noche;false
+C20;c20-82-n-no-code;Andrea Veron;veronandrea17@gmail.com;+542257632448;Design;undefined;Figma - Adobe Illustrator;Noche;false
+C20;c20-82-n-no-code;Sergio Perez;sergioperez.lr@gmail.com;+56955323995;Design;undefined;Figma - Adobe Illustrator;Noche;false
+C20;c20-82-n-no-code;Agustina Sampieri;agus.sampieri@gmail.com;+541163684864;Marketing;undefined;Figma - Otro;Noche;true
+C20;c20-83-n-no-code;Juan Biassini;juan.biassini.m@gmail.com;+59891757544;Desarrollo;undefined;Bubble - Flutterflow - Figma;Noche;false
+C20;c20-83-n-no-code;Alejandra Vargas;alejavargasorellana@gmail.com;+59165738394;Desarrollo;undefined;Webflow - Otro;Noche;false
+C20;c20-83-n-no-code;Evelin Macarena Ruiz Díaz;luzfontomp@gmail.com;+5491138412325;Design;undefined;Figma - Adobe Illustrator;Noche;true
+C20;c20-83-n-no-code;Javier Sanchez;javiercuin57@gmail.com;+543816665048;Automatización;undefined;Otro;Noche;true
+C20;c20-83-t-no-code;Karina Monzon;karinamon1849@gmail.com;+542616669917;Design;undefined;Figma - Make;Tarde;false
+C20;c20-83-t-no-code;Cristian Gines;cristian.gines1701@gmail.com;+541154650828;Design;undefined;Airtable - Otro;Tarde;false
+C20;c20-83-t-no-code;Melody Lohuandus;malohuandus@gmail.com;+5491160444415;Design;undefined;Webflow - Figma - Adobe Illustrator - Otro;Tarde;true
+C20;c20-83-t-no-code;Catherine Rebolledo;cathyrebopas@gmail.com;+56957034447;Research;undefined;Figma;Noche;false
+C20;c20-83-t-no-code;Darlyn Vanessa  Ramírez Mosquera ;rdarlingva@yahoo.com;+573012661925;Automatización;undefined;Flutterflow;Tarde;true
+C20;c20-83-t-no-code;Francy Lorena Bejarano;lorebejarano58@gmail.com;+573125307447;Research;undefined;Otro;Tarde;true
+C20;c20-84-t-no-code;Kevin  Flores;koffy69309970@gmail.com;+59169309970;Desarrollo;undefined;Figma - Webflow - Bubble;Tarde;false
+C20;c20-84-t-no-code;Andrea Garcia;armix182002@gmail.com;+51947603270;Desarrollo;undefined;Figma - Webflow;Tarde;false
+C20;c20-84-t-no-code;Eliana Paola Pinilla Vázquez ;elianapinilla.v@gmail.com;+34604165971;Automatización;undefined;Otro;Tarde;false
+C20;c20-84-t-no-code;Noelia García;noeeegarcia@gmail.com;+542914327563;Desarrollo;undefined;Otro;Tarde;false
+C20;c20-84-t-no-code;Mariano Poulsen;marianopoulsen93@gmail.com;+542634537907;Design;undefined;Figma;Tarde;false
+C20;c20-84-t-no-code;Micaela Santana;micaelasantana22@gmail.com;+5492236818379;Design;undefined;Figma - Adobe Illustrator;Tarde;false
+C20;c20-84-t-no-code;Santiago Leonel Terragni;terragnisantiago97@gmail.com;+5493513434406;Research;undefined;Figma - Adobe Illustrator;Tarde;false
+C20;c20-84-t-no-code;Gustavo Olivencia;gustavo.d.olivencia@gmail.com;+5492267667857;Desarrollo;undefined;Figma;Tarde;true
+C20;c20-84-t-no-code;Marcelo Olguin;marceloolguin2020@gmail.com;+542665035338;Automatización;undefined;Otro;Noche;true
+C20;c20-84-t-no-code;Edisson Gustavo  Melo Ortiz ;gustavo20sdvsf@gmail.com;+573134583162;Automatización;undefined;Otro - Adobe Illustrator - Webflow;Tarde;true
+C20;c20-84-t-no-code;Sabina Etcheverry;sabinaetcheverry99@gmail.com;+541123206107;Automatización;undefined;Otro;Tarde;false
+C20;c20-85-m-no-code;Juan Bautista Rocha;bautirochaaa@gmail.com;+5492477301566;Desarrollo;undefined;Bubble - Zapier - Flutterflow - Webflow;Mañana;true
+C20;c20-85-m-no-code;Alberto Vega;albertovega1005@gmail.com;+51953490854;Desarrollo;undefined;Figma - Adobe Illustrator - Zapier - Webflow;Mañana;false
+C20;c20-85-m-no-code;Silvana Maldonado ;silvanabmaldonado@hotmail.com;+541168752387;Design;undefined;Figma;Mañana;true
+C20;c20-85-m-no-code;Yaneth  Montaña ;japamosi@yahoo.es;+573182609090;Design;undefined;Figma;Mañana;false
+C20;c20-85-m-no-code;Sol Agustina  Benitez;sollbenitez98@hotmail.com;+541149602488;Desarrollo;undefined;Adobe Illustrator;Mañana;true
+C20;c20-85-m-no-code;Florencia Nardi;florencianardi57@gmail.com;+542235834882;Design;undefined;Figma - Adobe Illustrator;Mañana;true
+C20;c20-85-m-no-code;Nicolás Luis;nicolas.luis11@gmail.com;+543815014082;Design;undefined;Figma - Webflow;Mañana;false
+C20;c20-85-m-no-code;Rocío  Torrico;torricorocio.ag@gmail.com;+541155819146;Research;undefined;Adobe Illustrator - Figma;Mañana;true
+C20;c20-85-m-no-code;Alixeth Giacalone;alixeth15@hotmail.com;+541125105859;Research;undefined;Figma;Mañana;false
+C20;c20-85-m-no-code;Joshue Iglesias ;joshigler@gmail.com;+525516924764;Automatización;undefined;Figma - Bubble - Flutterflow - Make - Zapier - Airtable - Adalo;Mañana;false
+C20;c20-85-m-no-code;Ana Belén  Rivarola ;anabelenrivarola245@gmail.com;+5493764215909;Research;undefined;Bubble - Webflow - Figma;Mañana;false
+C20;c20-85-m-no-code;Analia Pepper ;analiapepper@gmail.com;+541161846923;Design;undefined;Figma;Mañana;false
+C20;c20-86-m-no-code;Jeannette Pavez;jeannettee35@gmail.com;+491727331090;Design;undefined;Figma - Webflow - Zapier - Adobe Illustrator;Mañana;false
+C20;c20-86-m-no-code;Nazarena Ugarte;nazarenaugarte01@gmail.com;+542920359720;Design;undefined;Figma - Adobe Illustrator - Otro;Mañana;true
+C20;c20-86-m-no-code;Camila Alejandra Gonzales Lopez;camius_98_8@hotmail.com;+51912847948;Design;undefined;Figma;Mañana;true
+C20;c20-86-m-no-code;María Karina Rivera;mkarinarivera@gmail.com;+584123700047;Desarrollo;undefined;Figma - Adobe Illustrator;Mañana;true
+C20;c20-86-m-no-code;Magali Buzzo;buzzomagali7@gmail.com;+542346572196;Marketing;undefined;Make;Mañana;false
+C20;c20-86-m-no-code;Barbara Ibarra;barbidibarra@gmail.com;+5492974735963;Design;undefined;Figma;Mañana;false
+C20;c20-86-m-no-code;Simón  Terán Alvarenga ;simonteralv2@gmail.com;+5493704787456;Automatización;undefined;Figma - Zapier - Bubble - Webflow - Flutterflow;Mañana;true
+C20;c20-86-m-no-code;Ydania Laya;layaydania13@gmail.com;+5541999282451;Automatización;undefined;Otro;Mañana;true
+C20;c20-86-m-no-code;Camilo Ramírez;camperez0826@gmail.com;+573138294810;Automatización;undefined;Figma;Mañana;true
+C20;c20-86-m-no-code;Aldana  Gregoraschuk ;dannag310@gmail.com;+5491167995895;Automatización;undefined;Bubble - Adalo - Webflow - Flutterflow - Make - Zapier - Airtable - Figma - Mailchimp - Otro - Adobe Illustrator;Mañana;false
+C20;c20-86-m-no-code;Jesica Zampar ;jesszampar@gmail.com;+5493425490875;Research;undefined;Otro;Mañana;true
+S17;s17-01-ft-node-react;Tomas Laus;tomaslaus99@gmail.com;+543834010908;Back-End;Javascript;Node;Full-Time;false
+S17;s17-01-ft-node-react;Carlos Canabal;canabal.dev1@gmail.com;+573046088983;Back-End;Javascript;Node;Full-Time;false
+S17;s17-01-ft-node-react;Martin Alba;martinalba.ff@gmail.com;+34621092566;Back-End;Javascript;Node;Full-Time;false
+S17;s17-01-ft-node-react;Alexis Paz;alexismpaz@gmail.com;+541168887435;Back-End;Typescript;Node;Full-Time;false
+S17;s17-01-ft-node-react;Thiago  Salaberry ;thiagosalaberry99@gmail.com;+5491134612006;Back-End;Typescript;Node;Full-Time;false
+S17;s17-01-ft-node-react;Juan Santiago Usca Mamani;juanusca45@gmail.com;+51963612996;Front-End;Typescript;React;Full-Time;true
+S17;s17-01-ft-node-react;Hur Fernández Dalessandro ;hurfernandez2@gmail.com;+542271418034;Front-End;Javascript;React;Full-Time;false
+S17;s17-01-ft-node-react;Yaneht Rocio Tellez Lopez;rociotellezlopez@gmail.com;+51935419486;Front-End;Javascript;React;Full-Time;false
+S17;s17-01-ft-node-react;Cesar Montilla;cesarmontilla22@gmail.com;+541122530651;Front-End;Javascript;React;Full-Time;true
+S17;s17-01-ft-node-react;Gonzalo Suarez;gonzasuarez100@gmail.com;+543875142485;Back-End;Javascript;Node;Full-Time;false
+S17;s17-01-ft-node-react;Facundo Nicolas Aguero Casalongue;facundoagueroc@gmail.com;+541154211266;Back-End;Javascript;Node;Full-Time;false
+S17;s17-01-ft-node-react;Angela Silva;angela.natalia.704@gmail.com;+593986781243;UX/UI;Ninguno;Photoshop - Adobe Illustrator - Miro - Figma - Flutter;Full-Time;false
+S17;s17-01-ft-node-react;Juan Bautista  Calvo;bito.bc@gmail.com;+542644754488;Mobile;Javascript;React Native - React - HTML - CSS - Node - Express - Trello - Android Studio - Figma;Full-Time;false
+S17;s17-02-ft-java-react;Catriel Escobar;catriellescobar@gmail.com;+5491122529360;Back-End;Java;Spring;Full-Time;false
+S17;s17-02-ft-java-react;Rogelio  Olarte ;rogelioolarte2222@gmail.com;+51994168758;Back-End;Java;Spring;Full-Time;false
+S17;s17-02-ft-java-react;Dario Kulik;kulikgabriel1987@gmail.com;+541157337089;Back-End;Java;Spring;Full-Time;false
+S17;s17-02-ft-java-react;Blas Pachano;blas.pacha@gmail.com;+542944226830;Front-End;Javascript;React;Full-Time;false
+S17;s17-02-ft-java-react;Pablo Rubiño;pabloelleproso@gmail.com;+542616396981;Front-End;Javascript;React;Full-Time;false
+S17;s17-02-ft-java-react;Pablo Agustin Guerreño;guerre.pablo.agustin@gmail.com;+543765365116;Front-End;Javascript;React;Full-Time;false
+S17;s17-02-ft-java-react;Mario Anderson Cusma Vasquez ;andersoncusma20@gmail.com;+51966670125;Project Manager;Java;Spring - React;Full-Time;true
+S17;s17-02-ft-java-react;Cynthia Sotelo;cynthiaisotelo@gmail.com;+5493541693377;QA Tester;Otro;Jira - Trello - Postman;Full-Time;true
+S17;s17-02-ft-java-react;Fernando Juan Batres;fbatres@gmail.com;+543424051516;Front-End;Typescript;React - Node;Tarde;true
+S17;s17-02-ft-java-react;Nicolás García Tortosa;nicolastortosa91@gmail.com;+541124059585;UX/UI;Ninguno;Figma - Adobe Illustrator - Miro - Trello - Jira;Full-Time;false
+S17;s17-03-ft-php-react;Juan Camilo Garcia Gomez;jcgarcia1565@misena.edu.co;+573168987459;Back-End;PHP;Laravel;Full-Time;false
+S17;s17-03-ft-php-react;Marcos Lopez;marcoslopezdev18@gmail.com;+5493757588790;Front-End;Typescript;React;Full-Time;false
+S17;s17-03-ft-php-react;Brian Tarqui Rojas;tarquibrian@gmail.com;+59163909428;Front-End;Typescript;React;Full-Time;true
+S17;s17-03-ft-php-react;Alan Favatier;alanfavatier305@gmail.com;+541139366819;Front-End;Javascript;React;Full-Time;false
+S17;s17-03-ft-php-react;Dalmiro Pintos;dalmiropintos@gmail.com;+5493854720000;Project Manager;Python;Otro;Full-Time;false
+S17;s17-03-ft-php-react;Nicolás Galarza;nicolasgalarza40@gmail.com;+5491131835777;Back-End;PHP;Laravel;Mañana;false
+S17;s17-03-ft-php-react;Valeria Preciado;preciadovaleriam@gmail.com;+523151079921;Front-End;Javascript;React - Node - Express - HTML - CSS - Next;Tarde;false
+S17;s17-03-ft-php-react;Tomas Scala;tscala16@gmail.com;+543476352376;UX/UI;Ninguno;Figma;Full-Time;false
+S17;s17-04-ft-csharp;Carlos Sabogal;carlosabogal1996@hotmail.com;+573235036855;Back-End;Javascript;.Net - Trello - Postman;Full-Time;false
+S17;s17-04-ft-csharp;Leonardo  Olivera ;olezdev@gmail.com;+541124076383;Back-End;C#;.Net - React;Mañana;false
+S17;s17-04-ft-csharp;Agustina  Balcarcel;balcarcelagustina@gmail.com;+5491138725553;Back-End;C#;.Net;Full-Time;false
+S17;s17-04-ft-csharp;Abel Montes Vega;amontesvega2191@gmail.com;+5491123875637;Back-End;C#;Otro - .Net;Mañana;false
+S17;s17-04-ft-csharp;Jairo  Ayllon Cardenas ;jairo.josias14@gmail.com;+51912095876;Back-End;C#;.Net - React .net, React ;Tarde;false
+S17;s17-04-ft-csharp;Alejo Araya;alejoaraya2000@gmail.com;+393349154427;Front-End;Typescript;React;Full-Time;false
+S17;s17-04-ft-csharp;Mateo Ahumada;brandonahumada804@gmail.com;+543825417601;Front-End;Javascript;React;Full-Time;true
+S17;s17-04-ft-csharp;Darvin Ricardo Alania Inocencio;darvin.alania@gmail.com;+51989648888;Front-End;Typescript;React;Full-Time;true
+S17;s17-05-m-node-react;Javier Morón;requin883@gmail.com;+584241655060;Back-End;Javascript;Node;Mañana;false
+S17;s17-05-m-node-react;Rafael Orozco;quinteroenrrique321@gmail.com;+573247716650;Back-End;Javascript;Node;Mañana;false
+S17;s17-05-m-node-react;Alan  Rojas Polanco;advbrrop23@gmail.com;+542915348541;Back-End;Javascript;Node;Mañana;true
+S17;s17-05-m-node-react;Leandro Yasutake;leandroyasutake@gmail.com;+541151247150;Back-End;Javascript;Node;Mañana;false
+S17;s17-05-m-node-react;Jose  Garcia;jose23122009@gmail.com;+34643328564;Front-End;Typescript;Next - Node - Express - Figma;Mañana;false
+S17;s17-05-m-node-react;Edy Mol;adsby100s@gmail.com;+12244072713;DevOps;Java;React - Spring - HTML - CSS - Postman - Trello Java, React;Mañana;false
+S17;s17-05-m-node-react;Maynor Aguilera;maynoraguileraosorto@gmail.com;+50498546128;Front-End;Javascript;React;Mañana;true
+S17;s17-05-m-node-react;Martín Kun;martinkunbrc@hotmail.com;+542944283269;Front-End;Typescript;React;Mañana;false
+S17;s17-05-m-node-react;Orlando Flores;lalomax365@gmail.com;+59177595073;Front-End;Typescript;React;Mañana;false
+S17;s17-05-m-node-react;Fernando Andreoli;fdandreoli@gmail.com;+543517018588;Front-End;Javascript;HTML - CSS;Mañana;true
+S17;s17-05-m-node-react;Marianela  Cortina ;mariancort25@gmail.com;+541153696825;Front-End;Otro;Angular - HTML - CSS - Figma Angular;Mañana;false
+S17;s17-05-m-node-react;Ivar Ayala;ivar_ayala@hotmail.com;+34695992738;QA Tester;PHP;HTML - CSS;Mañana;false
+S17;s17-05-m-node-react;Fernando Rodriguez;frodvaldivia@gmail.com;+51992037529;Back-End;Javascript;Node;Mañana;false
+S17;s17-05-m-node-react;Santino Dorado;doradosantinotomas@gmail.com;+542241499954;Back-End;Javascript;Node;Mañana;true
+S17;s17-05-m-node-react;Mikhail  Garcilano;mikhailgarcilano1997@gmail.com;+543444448098;QA Tester;Ninguno;Jira - Postman - Trello;Mañana;true
+S17;s17-05-m-node-react;Lucía Florencia Gangi;luciafgangi@hotmail.com;+5493512692607;UX/UI;Javascript;Figma - Adobe Illustrator - Photoshop - Jira - Trello - Miro;Mañana;true
+S17;s17-05-m-node-react;Luz Tabraj ;luz.tabrajb@gmail.com;+541136562439;QA Tester;Python;Postman - Jira - Trello - Otro;Mañana;false
+S17;s17-06-m-java-react;Alexis Agustin Aragon;aaragondev@gmail.com;+542262494811;Back-End;Java;Spring;Mañana;false
+S17;s17-06-m-java-react;Pedro Cereghetti;pedrocerega@gmail.com;+542604826772;Back-End;Java;Spring;Mañana;false
+S17;s17-06-m-java-react;Axel Cubas;gmod159@gmail.com;+51983732497;Back-End;Java;Spring;Mañana;false
+S17;s17-06-m-java-react;Camilo José Rueda Tello;camilojtello5@gmail.com;+573132731939;Back-End;Typescript;Spring - Hibernate - React - Angular;Mañana;false
+S17;s17-06-m-java-react;Victor Molinas González;u.vmolinas@gmail.com;+543624905456;Back-End;Java;Spring;Mañana;false
+S17;s17-06-m-java-react;Clemencia  Ibañez Padilla ;clemenciaibanezpadilla@gmail.com;+5491128838399;Front-End;Javascript;React;Mañana;false
+S17;s17-06-m-java-react;Emmanuel Van Dick;emmavd1998@hotmail.com;+542804914375;Front-End;Javascript;React;Mañana;true
+S17;s17-06-m-java-react;Victoria Teran;totii.teran@gmail.com;+543815736937;Front-End;Javascript;React;Mañana;false
+S17;s17-06-m-java-react;Isaias Agustin Romero;romeroisaiasagustin@gmail.com;+541173630520;Front-End;Javascript;React;Mañana;false
+S17;s17-06-m-java-react;Kelvin Figueira;rogeliocoll69@gmail.com;+541173601510;Front-End;Javascript;React;Mañana;false
+S17;s17-06-m-java-react;Virginia Danitz;virginiadanitz@gmail.com;+542615587113;QA Tester;Java;Postman - Jira - Spring Jmeter, Postman, Qmetry;Mañana;false
+S17;s17-06-m-java-react;Emely Noelia Arteaga Achata;emely.n.arteaga@gmail.com;+5491124974813;UX/UI;Python;Figma - Adobe Illustrator - Photoshop - Miro - Trello;Mañana;true
+S17;s17-06-m-java-react;Johanna Tarabelli;johita.tarabelli@gmail.com;+542615469032;QA Tester;Java;Trello - Jira - Postman - Figma;Mañana;true
+S17;s17-06-m-java-react;Gaston Dobler;gastondobler5@gmail.com;+5493541675998;UX/UI;Ninguno;Figma;Mañana;false
+S17;s17-06-m-java-react;Amparo Pachon ;amparopachonm@gmail.com;+573005646330;UX/UI;Ninguno;Figma;Mañana;false
+S17;s17-06-m-java-react;Natasha Cusmanich ;natimega22@hotmail.com;+59899582365;UX/UI;Ninguno;Figma - Photoshop - Adobe Illustrator - Jira - Trello - Miro;Mañana;false
+S17;s17-07-m-python-react;Gabriela Soledad Coronel;gafacrae@gmail.com;+541157298278;Back-End;Python;Django;Mañana;false
+S17;s17-07-m-python-react;Juan Novas;juanignacionovas@gmail.com;+5491168897640;Back-End;Python;Django;Mañana;false
+S17;s17-07-m-python-react;Leandro Melchiori;leandromelchiori@gmail.com;+543413737854;Back-End;Python;Django;Mañana;false
+S17;s17-07-m-python-react;Tomas Gabriel Aquino Bajusz;tomasaquinogabi@gmail.com;+543624218103;Front-End;Javascript;React;Mañana;false
+S17;s17-07-m-python-react;Matías Quirico;mquirico10@gmail.com;+5491168466787;Front-End;Javascript;React;Mañana;false
+S17;s17-07-m-python-react;Osvaldo Deleglise;osvaldo_ld@hotmail.com;+541154841848;Front-End;Javascript;React;Mañana;false
+S17;s17-07-m-python-react;Richard García;rchrdgrcordaz@gmail.com;+525513778137;Front-End;Ninguno;HTML - React - CSS - Figma - Otro UX/UI;Mañana;false
+S17;s17-07-m-python-react;Jefferson Panchi;jefpanchi@gmail.com;+593995190342;Front-End;Javascript;React;Mañana;false
+S17;s17-07-m-python-react;Diana Marcela Ramirez Zarta;mymarce27@gmail.com;+573053163933;QA Tester;Javascript;CSS - HTML - Node - Express - Postman - React github;Mañana;false
+S17;s17-07-m-python-react;Ana Cristina Morales;anacmoralest@gmail.com;+393755154303;UX/UI;Ninguno;Figma;Mañana;false
+S17;s17-07-m-python-react;Carlos Mauricio Aguilar Rivera ;mauricio.25.17@gmail.com;+51977800153;Front-End;Python;React Native;Mañana;false
+S17;s17-07-m-python-react;Leandro Mancilla;leomancilla123@gmail.com;+5492664555182;UX/UI;Ninguno;Figma - Adobe Illustrator - Miro - Trello - Photoshop;Mañana;true
+S17;s17-07-m-python-react;Luciano Picone;sllimefury@gmail.com;+543543514092;UX/UI;Javascript;Figma;Mañana;false
+S17;s17-08-m-java-react;Leon Lederhos;leonlederhossturich@gmail.com;+5493547673060;Back-End;Java;Spring;Mañana;false
+S17;s17-08-m-java-react;Emiliano Esteban Diaz;emiliano.estebandiaz@gmail.com;+543517453009;Back-End;Java;Spring;Mañana;false
+S17;s17-08-m-java-react;Jesus Manuel Cespedes;manuelc79@gmail.com;+543885808519;Back-End;Java;Spring;Mañana;false
+S17;s17-08-m-java-react;Leonel Omar Amaya Mejía;omar.mejia2099@gmail.com;+573172166152;Back-End;Java;Spring;Mañana;false
+S17;s17-08-m-java-react;Rodys Rodriguez;rodisenrique73@gmail.com;+573007296498;Back-End;Java;Spring;Mañana;false
+S17;s17-08-m-java-react;Franco Espinoza;franco.espinoza.val@gmail.com;+56933919505;Front-End;Typescript;React;Mañana;false
+S17;s17-08-m-java-react;Matías  Stagnitta ;matiasstagnittacursos@gmail.com;+542804876711;QA Tester;Ninguno;Trello;Mañana;false
+S17;s17-08-m-java-react;Sabrina Ortiz;saabri.789@gmail.com;+541136094583;UX/UI;Javascript;Figma;Mañana;false
+S17;s17-08-m-java-react;Carolina Arteaga Acevedo;carola02@gmail.com;+573002648766;QA Tester;Python;Miro - Trello - Postman - Jira - Android Studio - Otro Selenium;Mañana;true
+S17;s17-08-m-java-react;Angel Salazar Maylle;angel.salazarmaylle@gmail.com;+51925518365;QA Tester;Java;React Native - Postman - Otro - React - Node - Android Studio - HTML - CSS;Mañana;false
+S17;s17-08-m-java-react;Cristian  Dal Piva;cristiandalpiva@hotmail.com;+542995282169;UX/UI;Javascript;Figma;Mañana;false
+S17;s17-08-m-java-react;Karen Schneider;karen-schneider@outlook.com;+34611690632;UX/UI;Ninguno;Figma;Mañana;false
+S17;s17-08-m-java-react;Consuelo León;consu.0595@gmail.com;+56996422741;UX/UI;Ninguno;Figma;Mañana;false
+S17;s17-09-n-node-react;Facundo Castro;facundoezcastro@gmail.com;+542612471989;Back-End;Typescript;Node;Noche;false
+S17;s17-09-n-node-react;Samuel Bernal;samuelbernal44@gmail.com;+573228637735;Back-End;Javascript;Node;Noche;false
+S17;s17-09-n-node-react;Juan Pablo Quintana;juanquintana1996@gmail.com;+541132074782;Back-End;Typescript;Node;Noche;false
+S17;s17-09-n-node-react;Nicolás Enciso  Enciso;enectrl@gmail.com;+541126298031;Front-End;Javascript;React;Noche;false
+S17;s17-09-n-node-react;Roy Andres Huaman Avila;royhuamanavila@gmail.com;+51962855883;Front-End;Typescript;React;Noche;false
+S17;s17-09-n-node-react;Juan Manuel Gutiérrez Gómez;jmgg.gutierrez@gmail.com;+573213680113;Front-End;Typescript;React;Noche;false
+S17;s17-09-n-node-react;David Yánez;david.yanez.epn@gmail.com;+593987123961;Front-End;Javascript;React;Noche;false
+S17;s17-09-n-node-react;Mauricio Paiva;mau.paiva8@gmail.com;+59896792134;Front-End;Typescript;React;Noche;false
+S17;s17-09-n-node-react;Billy Campagnoli;bjcampagnoli@gmail.com;+584142051955;Back-End;Javascript;Node;Noche;true
+S17;s17-09-n-node-react;Ariel Eduardo Garcia Rogel;arielgarcia79@gmail.com;+542945907975;Front-End;Javascript;React;Noche;false
+S17;s17-09-n-node-react;Emanuel Erasmo Nieto;enieto.developer@gmail.com;+543516196235;Front-End;Javascript;React;Noche;false
+S17;s17-09-n-node-react;Ramiro Acosta;ramiroacosta.dev@gmail.com;+541132345951;Front-End;Javascript;React;Noche;false
+S17;s17-09-n-node-react;Manuel  Filgueira ;manuelfilgueira@gmail.com;+56964579090;Front-End;Javascript;React;Noche;true
+S17;s17-09-n-node-react;Micaela Hormazabal;hormazabalmicaela@gmail.com;+5492914028480;Front-End;Javascript;React;Noche;false
+S17;s17-09-n-node-react;Valeria Burgos;valeriaburgos6@gmail.com;+59172949629;QA Tester;Javascript;Otro Azure;Noche;false
+S17;s17-09-n-node-react;Lorena De Los Angeles Lizama Gajardo;lorena.lizamag@gmail.com;+541124513172;UX/UI;Ninguno;Figma;Noche;false
+S17;s17-10-n-java-angular;Cristian Gomez;cristiangomez0686@outlook.com;+543874424798;Back-End;Java;Spring;Noche;true
+S17;s17-10-n-java-angular;Agustín  Moldavsky ;agusting.moldavsky@gmail.com;+541131338342;Back-End;Java;Spring;Noche;false
+S17;s17-10-n-java-angular;Moises Zail Vegas Padron;rekcahet@gmail.com;+51931097659;Back-End;Java;Spring;Noche;false
+S17;s17-10-n-java-angular;Gonzalo Villegas;gvillegas1276@gmail.com;+573194989976;Back-End;Java;Spring;Noche;true
+S17;s17-10-n-java-angular;Samir López Mejía;lopezs.dev@gmail.com;+50671619966;Back-End;Java;Spring;Noche;false
+S17;s17-10-n-java-angular;Hugo Ivan;hugocatalan2@gmail.com;+543425661863;Front-End;Javascript;Angular - HTML - CSS - Figma - Photoshop - Trello;Noche;false
+S17;s17-10-n-java-angular;Mario Alberto Calderon Delgado;mario.2893@hotmail.com;+593982626445;Front-End;Javascript;Angular - Spring Angular y SpringBoot;Noche;false
+S17;s17-10-n-java-angular;Elisa Beatriz Luna;esimpatica2013@gmail.com;+541176529298;Project Manager;Ninguno;Trello;Noche;true
+S17;s17-10-n-java-angular;Yohan Rodriguez;rodrijrs19@gmail.com;+541150233906;QA Tester;Java;Jira - Postman;Noche;false
+S17;s17-10-n-java-angular;Daily Fuenmayor ;dailyfuenmayor1997@gmail.com;+5491169475851;UX/UI;Ninguno;HTML - CSS - Laravel - Figma - Photoshop - Adobe Illustrator - Miro - Trello - React Javascrip;Noche;false
+S17;s17-10-n-java-angular;Inés Muruzábal;inemuruzabal@gmail.com;+541133189164;UX/UI;Ninguno;Figma - Adobe Illustrator;Noche;false
+S17;s17-10-n-java-angular;Jesse Bernebel;jessebernebel@gmail.com;+56945021583;UX/UI;Otro;Photoshop - Adobe Illustrator - Figma - HTML - CSS - Jira - Trello - Miro;Noche;false
+S17;s17-11-n-java-next;Edgar Ulises Camberos Arreola;edgarcamberos18@gmail.com;+523111511393;Back-End;Java;Spring;Noche;false
+S17;s17-11-n-java-next;Alexander Machicado Gomez;machicadogomezalexander@gmail.com;+51934842747;Back-End;Java;Spring;Noche;false
+S17;s17-11-n-java-next;Alejandro Rúa;alejandrorua111@gmail.com;+543886523168;Back-End;Java;Spring;Noche;false
+S17;s17-11-n-java-next;Jose Luis Cacsire Torre;jose1cacsire2@gmail.com;+51960832325;Back-End;Java;Spring;Noche;false
+S17;s17-11-n-java-next;Pedro Nuñez;pedronuca3@gmail.com;+51974158230;Front-End;Javascript;Next - HTML - CSS - Figma ;Noche;true
+S17;s17-11-n-java-next;Luiggi Rosas;lrosasp05@gmail.com;+51959057558;Front-End;Javascript;Next - CSS - Jira - Figma - Postman - Node;Noche;false
+S17;s17-11-n-java-next;Orlando Cardenas;orlandocardenas0107@gmail.com;+5493755378465;Front-End;Typescript;Next - Django;Noche;true
+S17;s17-11-n-java-next;Victor Raul Maye Mamani;v1c70rotakmer@gmail.com;+51921461345;Front-End;Typescript;Next - Express - Spring - Node;Noche;false
+S17;s17-11-n-java-next;Matias Nicolas Acevedo;matias.nicolas.acevedo@gmail.com;+543513221989;Project Manager;Java;Spring - React ;Noche;true
+S17;s17-11-n-java-next;Arnoldo Jose  Felce Rondon ;arnoldfelce2@gmail.com;+5491162591766;QA Tester;Ninguno;Photoshop - Figma - HTML;Noche;false
+S17;s17-11-n-java-next;Valentin Ballesteros Lopez;thenasky@gmail.com;+541161535767;Back-End;Javascript;Node;Noche;true
+S17;s17-11-n-java-next;Alvaro Deguer;alvarodeguer@gmail.com;+543813037361;Back-End;Javascript;Node;Noche;false
+S17;s17-11-n-java-next;Gladys Ferreira;g__56@hotmail.com;+5491160412513;QA Tester;Javascript;Jira;Noche;false
+S17;s17-11-n-java-next;Benjamín  Matos Vega;benjaminmatos.1@gmail.com;+56979213273;QA Tester;Python;Jira;Noche;false
+S17;s17-11-n-java-next;Gisela Lago ;giselalago@gmail.com;+541168922513;QA Tester;Java;Otro - Jira - Trello - Postman - Miro - HTML - CSS Selenium;Noche;false
+S17;s17-11-n-java-next;Joaquin Peña;joaku_14@hotmail.com;+541136107388;UX/UI;Ninguno;Figma - Adobe Illustrator - Photoshop;Noche;false
+S17;s17-11-n-java-next;Malena De Arriba;dearribamalena@gmail.com;+543816694485;UX/UI;Ninguno;Figma;Noche;true
+S17;s17-12-t-node-react;Alberto Gómez Juan;agomezjuan@hotmail.com;+34623358871;Back-End;Javascript;Node;Tarde;true
+S17;s17-12-t-node-react;Gaspar Isaac Taret Castillo Catrifol;castillicatrifol@gmail.com;+56987264971;Back-End;Typescript;Node;Tarde;false
+S17;s17-12-t-node-react;Maximiliano Hernan Ingeniero;maximilianoingeniero@gmail.com;+542216098205;Back-End;Javascript;Node;Tarde;false
+S17;s17-12-t-node-react;Juan Manuel Pimienta Escobar;juanmapimientae@gmail.com;+573188688339;Back-End;Javascript;Node;Tarde;false
+S17;s17-12-t-node-react;André Espinoza;ae95caba@gmail.com;+5491130350056;Back-End;Javascript;Node;Tarde;false
+S17;s17-12-t-node-react;Byron Martinez;byronmh8@gmail.com;+573013213191;Front-End;Javascript;React;Tarde;false
+S17;s17-12-t-node-react;John William Sanchez Atehortua;jwsa.web@gmail.com;+573115106911;Front-End;Typescript;React;Tarde;false
+S17;s17-12-t-node-react;Lazaro Vega Sanchez;lazaronazareno@gmail.com;+541158445886;Front-End;Javascript;React;Tarde;false
+S17;s17-12-t-node-react;Carlos Luis Aguilar Diaz;carlosad90@gmail.com;+51956826407;Front-End;Javascript;React;Tarde;false
+S17;s17-12-t-node-react;Natalia Caniza Toral;naticanizatoral@gmail.com;+543876180044;UX/UI;Javascript;Figma;Tarde;false
+S17;s17-12-t-node-react;Xochitl Farias;xfarias@yahoo.com;+525527485823;Project Manager;Ninguno;Miro - Jira - Trello;Tarde;true
+S17;s17-12-t-node-react;Silvia Romano ;silvialromano@gmail.com;+541151262111;UX/UI;Ninguno;Figma;Tarde;false
+S17;s17-12-t-node-react;Juan Diaz;juanluisdiazguerrero@gmail.com;+573113981409;Mobile;Typescript;React - React Native - HTML - CSS - Spring - Express - Node - Next - Postman - Trello - Miro - Jira - Figma;Tarde;false
+S17;s17-13-t-python-react;Juan Ramirez;guillecarck@gmail.com;+51956402456;Front-End;Typescript;React;Tarde;false
+S17;s17-13-t-python-react;Joel Lahuanampa;abecedegluu@gmail.com;+51927495864;Back-End;Python;Django;Tarde;false
+S17;s17-13-t-python-react;Luis Obando;luisobando22@gmail.com;+584129297687;Back-End;Python;Django;Tarde;false
+S17;s17-13-t-python-react;María José Carrazán;carrazanmaria@gmail.com;+543865572450;Back-End;Python;Django;Tarde;false
+S17;s17-13-t-python-react;Nancy Ramirez;nancylissethramirezservellon@gmail.com;+50360635811;Front-End;Javascript;React;Tarde;true
+S17;s17-13-t-python-react;Lissbeth Escobar;lissbethescobar09@gmail.com;+50377423686;Front-End;Javascript;React;Tarde;false
+S17;s17-13-t-python-react;Celina Garcés;celinagarces199@gmail.com;+542983510150;Front-End;Javascript;React;Tarde;false
+S17;s17-13-t-python-react;Wanderlee Max Gutierrez Gamboa;wanderleedev@gmail.com;+51986261373;Front-End;Typescript;React;Tarde;false
+S17;s17-13-t-python-react;Lucas Clemente;lucasclemente2016@gmail.com;+5493549442083;Front-End;Typescript;React;Tarde;false
+S17;s17-13-t-python-react;Georgina Mascolo;yoryasm@gmail.com;+542665001636;Project Manager;Javascript;Trello - HTML - CSS - React;Tarde;true
+S17;s17-13-t-python-react;Fernando Ramirez;fenixo846@gmail.com;+543624818562;QA Tester;Java;Postman - Jira - Otro Java;Tarde;false
+S17;s17-13-t-python-react;Evelyn Meson;evelynmeson01@gmail.com;+542235253659;UX/UI;Ninguno;Figma;Tarde;false
+S17;s17-14-t-php-react;Carlos  Diaz;carlosdinfor@gmail.com;+573182221252;Back-End;PHP;Laravel;Tarde;true
+S17;s17-14-t-php-react;Nahuel Herrera;herrera.nahuel.2001@gmail.com;+541122519190;Back-End;PHP;Laravel;Tarde;false
+S17;s17-14-t-php-react;Luis Angel Salcedo Gavidia;seemc9@gmail.com;+51952348690;Front-End;Typescript;React;Tarde;false
+S17;s17-14-t-php-react;Omar Nazareno Lujan;omarnlujan@gmail.com;+542474404051;Front-End;Javascript;React;Tarde;true
+S17;s17-14-t-php-react;Yuli Eliana Riveros Ortiz;liliraspitu@gmail.com;+543515053743;Front-End;Javascript;Node - Express - Trello - HTML - CSS - Figma - Adobe Illustrator - Photoshop;Tarde;false
+S17;s17-14-t-php-react;Lorenzo Eduardo Albornoz Barrera;lorenzoa.28.la@gmail.com;+543816440148;Front-End;Typescript;React;Tarde;false
+S17;s17-14-t-php-react;Alejandro Luna;alejandrolunadev@gmail.com;+5511982449222;Front-End;Typescript;React;Tarde;true
+S17;s17-14-t-php-react;Agostina Roggero;agos.roggero@gmail.com;+541167401315;QA Tester;Ninguno;Trello;Tarde;false
+S17;s17-14-t-php-react;Lucero Rubí Fernandez Cortez;lrfernandez.cortez@gmail.com;+51982926282;UX/UI;Ninguno;Figma - Adobe Illustrator - Photoshop - Jira - Trello - Miro;Tarde;false
+S17;s17-14-t-php-react;Sasha Sawosz;sashasawosz@hotmail.com;+5491133446897;UX/UI;Ninguno;Figma - Jira - Trello;Tarde;false
+S17;s17-14-t-php-react;Lucas Eroles;eroleslucas2@gmail.com;+541139581196;UX/UI;Ninguno;Trello - Miro - Figma;Tarde;false
+S17;s17-15-t-java-react;Anthony Parra;antho7294@gmail.com;+573187994120;Back-End;Java;Spring;Tarde;false
+S17;s17-15-t-java-react;Dalma Ponce;dfponce96@gmail.com;+543834233151;Back-End;Java;Spring;Tarde;false
+S17;s17-15-t-java-react;Liza Daneris Medina Toro;lizzmedina15@gmail.com;+573156260191;Back-End;Java;Spring;Tarde;false
+S17;s17-15-t-java-react;Martin Christopher Palomino Cardeña;martinchrispc@hotmail.com;+51969131241;Back-End;Java;Spring;Tarde;false
+S17;s17-15-t-java-react;Martin Cabral;cabralmartin8@gmail.com;+541159808043;Back-End;Java;Spring;Tarde;false
+S17;s17-15-t-java-react;Hernán Guido Gustavo Casasola;hernan.casasola@gmail.com;+543888438935;Front-End;Javascript;React;Tarde;false
+S17;s17-15-t-java-react;Jose Imhoff;jose-imhoff@hotmail.com;+5493492516734;Front-End;Javascript;React;Tarde;false
+S17;s17-15-t-java-react;Yosmarli Parica;yosmaparica@gmail.com;+541161088763;QA Tester;Javascript;Postman - Trello;Tarde;false
+S17;s17-15-t-java-react;Laura Marina Leyes;lauramleyes@gmail.com;+5491139473186;UX/UI;Otro;Photoshop - Figma - Adobe Illustrator - Trello - Otro;Tarde;true
+S17;s17-15-t-java-react;Malena Jara;malenafernandezjara@gmail.com;+541136133620;UX/UI;Python;Figma - HTML - CSS - Trello - React - Django;Tarde;false
+S17;s17-15-t-java-react;Alexis Alejandro Calderon Zegarra;alejandrodev2019@gmail.com;+5491139149330;Back-End;Java;Spring;Tarde;false
+S17;s17-15-t-java-react;Delfina Machado;machadovdelfina@gmail.com;+541137653748;UX/UI;Otro;Figma - Adobe Illustrator;Tarde;false
+S17;s17-16-t-node-react;Ricardo Huallpayunca;rickhufer@gmail.com;+51969978196;Back-End;Typescript;Next;Tarde;false
+S17;s17-16-t-node-react;Gabriel  Braga ;guebe.braga5@gmail.com;+59898781046;Back-End;Javascript;Node;Tarde;false
+S17;s17-16-t-node-react;Pablo Lopes;pablo_98_18@hotmail.com;+541125866506;Back-End;Javascript;Node;Tarde;false
+S17;s17-16-t-node-react;David Coach Dev;dcdevtk@gmail.com;+593963545714;Back-End;Typescript;Node;Tarde;false
+S17;s17-16-t-node-react;Ramiro Carnicer Soublé;ramirocarnicersouble8@gmail.com;+541157823233;Back-End;Typescript;Node;Tarde;false
+S17;s17-16-t-node-react;Antonio Navarro Del Dujo;anavarro67@hotmail.com;+34623184857;Back-End;Javascript;Node;Tarde;false
+S17;s17-16-t-node-react;Ricardo David Minhot;rdminhot@gmail.com;+542214816026;QA Tester;Python;Django - Jira - Trello - Miro;Tarde;false
+S17;s17-16-t-node-react;Joel Angel Ocaño Oré;joelangelocano@gmail.com;+51964234821;UX/UI;Javascript;Figma - Adobe Illustrator - Photoshop - HTML - CSS - React;Tarde;false
+S17;s17-16-t-node-react;Gloria  Ramos;gloriaramosmoran@gmail.com;+5491141853420;Back-End;Javascript;Node;Tarde;false
+S17;s17-16-t-node-react;Aracely Cruz Del Ángel;91bluesora@gmail.com;+525577458792;Back-End;Javascript;Node;Tarde;false
+S17;s17-16-t-node-react;Lionel  Staricoff;staricofflionel@gmail.com;+573234981741;Back-End;Javascript;Node;Full-Time;true
+S17;s17-17-ft-data-bi;Juan Esteban Grimaldos León;est.juan.grimaldos@unimilitar.edu.co;+573046737931;Data Analyst;Python;Power bi, docker, Airflow, Python, R, SQL, Postgres, MongoDB;Full-Time;true
+S17;s17-17-ft-data-bi;Dario Cancelli;dariocancelli@gmail.com;+5493584879888;Data Analyst;Python;Python, SQL, Power BI, Excel;Full-Time;true
+S17;s17-17-ft-data-bi;Javier Edgar Esteban;javieredgaresteban@gmail.com;+5492613003383;Data Scientist;Python;Lenguajes de Programación: Python: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Geopandas, fastAPI y Cryptography; Bases de Datos:  MySQL Workbrench, Google Maps y Yelp, JSON Herramientas de BI y Visualización: Power BI, Streamlit Plataformas y Entornos: Microsoft Fabric, Azure Synapse, Git LFS y GitHub, Visual Studio Code Web Scraping y APIs: TripAdvisor, Requests y Beautiful Soup Machine Learning: Scikit-learn, Prophet, RandomForestClassifier Otras Herramientas: Slack, Google Meet, Jira y Google Drive Habilidades Blancas: Pensamiento crítico, resolución de problemas, trabajo en equipo, y comunicación efectiva. Experiencia en planificación y orden, capacidad de oratoria, y desarrollo de exámenes a nivel secundario.;Full-Time;true
+S17;s17-17-ft-data-bi;Lucel Da Silva;luceldasilva@yahoo.com;+595984177499;Otro;Python;| Plotly | Scikit-Learn | FastAPI | SQL | MongoDB | Git | Excel | R | Tableau;Full-Time;false
+S17;s17-17-ft-data-bi;Alejandro Asor Corrales Gomez;alejandroasor@corralesgomez.com;+573142710159;Data Engineer;Python;Python, Java, Apache Spark, Postgresql, Mongodb, elasticsearch, Apache Airflow, Docker, Kubernetes, Git, Terraform etc;Full-Time;false
+S17;s17-17-ft-data-bi;Juan Felipe Cardona Arango;juan_felipe116@hotmail.com;+573002490349;Machine Learning;Python;Tableu, Power Bi, etc;Full-Time;true
+S17;s17-17-ft-data-bi;Andry Yulissa  Bastidas Granda;a.bastidas1094@gmail.com;+573206728196;Data Analyst;R;Power bi;Full-Time;false
+S17;s17-18-m-data-bi;Santiago Maldonado;sm.santimaldonado@gmail.com;+543517541906;Data Analyst;Python;Power Bi, Python;Mañana;false
+S17;s17-18-m-data-bi;Hernán  Pizarro ;hern4npizarro@gmail.com;+543804886295;Business Analyst;Python;Power BI ;Mañana;true
+S17;s17-18-m-data-bi;Raul  Almao;raraulalmao7@gmail.com;+584120166048;Data Scientist;Python;Power bi, Tableau, postgresql, mongodb, Python, colab, excel, metabase,Kaggle, Azure ;Mañana;true
+S17;s17-18-m-data-bi;Cecilia Aponte;apontegg@gmail.com;+5491134820404;Data Scientist;Python;Power BI, Looker;Mañana;false
+S17;s17-18-m-data-bi;Gloria Nabor;inkantador@gmail.com;+525522014025;Project Manager;Python;Jira, Trello, Power BI;Mañana;true
+S17;s17-18-m-data-bi;Fabio Maculus;maculus32@gmail.com;+541134482106;Data Analyst;Ninguno;Power BI,Tableau,SQL;Mañana;false
+S17;s17-18-m-data-bi;Daniel Alejandro Carrillo Rangel;danielcarrillo1992@gmail.com;+34631797046;Data Analyst;Python;Power bi;Mañana;false
+S17;s17-18-m-data-bi;Arelys Acevedo;arelysacevedo@gmail.com;+584147112944;Data Analyst;Python;Tableau, Power Bi;Mañana;false
+S17;s17-18-m-data-bi;Angel Troncoso;angeltroncoso2019@outlook.es;+56931393819;Data Analyst;Python;power bi, Tableau;Mañana;false
+S17;s17-18-m-data-bi;Juan Campos;data_analyst_jcq@outlook.com;+51975539299;Data Scientist;Python;Power Bi;Mañana;true
+S17;s17-18-m-data-bi;Marco Caro;marcocaro329@gmail.com;+543541671509;Data Engineer;Python;Power BI;Mañana;false
+S17;s17-19-n-data-bi;Delicia Fedele Boria;defedeleboria@gmail.com;+5493517717128;Machine Learning;Python;Data Science and Machine Learning: Big Data Analysis, Deep Learning, Neural Networks, CNN, DNN, LLMs, NLP, Adaptive Learning, TensorFlow, TensorFlow Extended, Keras, PyTorch, Scikit-learn, XGBoost, LightGBM, OpenCV, SpeechRecognition, MLOps, CD/CI, LangChain Programming and Tools: Python, Jupyter, Google Colab, Visual Studio Code, GitHub, SQL, NoSQL, Docker, MySQL, PostgreSQL, Apache Hadoop, Apache Spark, Apache Kafka, ETL, KDD, Streamlit APIs Developer: Flask, FashAPI, APIs Open Source, Third-Party API Integration Cloud Services: AWS, Amazon SageMaker, GCP, Vertex AI, Kubeflow, BigQuery, Apache Beam, Apache Airflow, Looker Studio, Oracle, Rackspace;Noche;false
+S17;s17-19-n-data-bi;Franco  Iribarne;franco.bbing@gmail.com;+542234555642;Data Scientist;Python;Power BI, Jupyter Notebooks, Google Colab, scikit-learn, PostgreSQL, Pandas, Numpy, Matplotlib, Seaborn;Noche;false
+S17;s17-19-n-data-bi;Cristhian  Franco Loor;improcata@gmail.com;+593979766606;Data Scientist;Python;Python, PowerBi, Visual studio, SqlServer, git;Noche;false
+S17;s17-19-n-data-bi;Angel Teodoro Jaramillo Sulca;angeljaramillosulca@gmail.com;+51965947438;Data Analyst;Python;Power Bi, Sql, spark, Excel, AWS;Noche;true
+S17;s17-19-n-data-bi;Brayan Alexis  Burgos Velásquez;micristovive26@gmail.com;+50498001974;Data Analyst;Python;tableau;Noche;true
+S17;s17-19-n-data-bi;Alfonso Palacio;alfonsopalacio5020@gmail.com;+573124728666;Data Scientist;Python;Tableau, power bi, Mysql, mongodb, pytorch, numpy, pandas, Java y sklearn;Noche;true
+S17;s17-19-n-data-bi;Johanna Procopio;johannaprocopio@gmail.com;+34697211030;Data Analyst;Ninguno;Power bi;Noche;true
+S17;s17-20-t-data-bi;Micaela Pequeño;micaela.pequeno@gmail.com;+541169325873;Data Analyst;Ninguno;Power BI;Tarde;true
+S17;s17-20-t-data-bi;Miguel Legarreta;mikeismerio@gmail.com;+523412071874;Data Scientist;Python;PowerBi;Tarde;false
+S17;s17-20-t-data-bi;Sergio Alejandro González Rivera;gonzalez.rivera.sa@gmail.com;+526144065063;Data Analyst;Python;Power BI;Tarde;true
+S17;s17-20-t-data-bi;Antonia Soler;asoler2004@gmail.com;+542975069399;Machine Learning;Python;Numpy, pandas, sklearn.;Tarde;false
+S17;s17-20-t-data-bi;Gabriela Beatriz  Pardo;gabb.pardo@gmail.com;+542235248850;Data Analyst;Python;Power Bi, Google Colab, Looker Studio;Tarde;false
+S17;s17-20-t-data-bi;Sebastian Andre Velarde Perez;velardeperez123@gmail.com;+51991501787;Data Analyst;Python;Sql, Power Bi;Tarde;false
+S17;s17-20-t-data-bi;Carlos Garcia;abgarcia2694@gmail.com;+584246175020;Data Analyst;Ninguno;Power Bi;Tarde;false
+C20;c20-87-php-react;Ivan Danilo Gonzalez;ivann-gonzalez@hotmail.com;+543446638016;Back-End;PHP;Laravel;Mañana;false
+C20;c20-87-php-react;Bruno Alejandro Gorosito;gorositobrunoalejandro@gmail.com;+5493855301127;Back-End;PHP;Laravel;Full-Time;false
+C20;c20-87-php-react;Ezequiel Bernal;ezebernal.dev@gmail.com;+5491155816670;Back-End;PHP;Laravel;Mañana;true
+C20;c20-87-php-react;Alexis Rodriguez;alexisjoserodriguez@gmail.com;+5491128456490;Back-End;PHP;Laravel;Full-Time;false
+C20;c20-87-php-react;Alexis Rodriguez;alexisjoserodriguezrivero@gmail.com;+5491128456490;Back-End;PHP;Laravel;Full-Time;false
+C20;c20-87-php-react;Daniel Rodriguez;dev.danielrod@gmail.com;+584125040537;Back-End;PHP;Laravel;Full-Time;true
+C20;c20-87-php-react;Javier Tabora;javiertaboracastejon@gmail.com;+50495280718;Back-End;PHP;Laravel;Mañana;true
+C20;c20-87-php-react;Mauricio  Pina;messy10leo@gmail.com;+16086186744;Back-End;GO;React - CSS - HTML - Otro;Mañana;false
+C20;c20-87-php-react;Gregori  Rafael Urbaneja Morales;gregorirafaelurbanejamorales@gmail.com;+584249706686;Front-End;Javascript;React;Full-Time;false
+C20;c20-87-php-react;Romina Rao;raoromina96@gmail.com;+543513019109;Front-End;Javascript;React - React Native;Full-Time;false
+C20;c20-87-php-react;Felipe Cuervo;felicuervo5@gmail.com;+543541646240;Front-End;Javascript;React;Full-Time;false
+C20;c20-87-php-react;Ariel Sotelo;jass2693@gmail.com;+543764181047;Front-End;Javascript;React - React Native - HTML - CSS;Mañana;false
+C20;c20-87-php-react;Pedro Arias Vilela;pdroariasvilela@gmail.com;+51999100030;Front-End;Javascript;React - React Native - Next - HTML - CSS - Jira;Mañana;true
+C20;c20-87-php-react;Kevin Gustavo Paz Leaños;mindfreak_2015@hotmail.com;+59168796463;Front-End;PHP;React - HTML - CSS - Laravel;Mañana;true
+C20;c20-87-php-react;Facundo Torrez;facu19torrez@gmail.com;+542324476875;Front-End;PHP;HTML - CSS Lenguajes conocidos: Javascript y php;Mañana;true
+C20;c20-88-dart;Fernanda Daniela Manzano;manzanofernandadaniela@gmail.com;+5493518000033;Front-End;Dart;Flutter;Mañana;false
+C20;c20-88-dart;Juan Andrés Peñaloza Torres;penalozajuanandres@gmail.com;+573008023336;Mobile;Dart;Flutter - Postman - Trello - Laravel;Noche;false
+C20;c20-88-dart;Alex  Linarte;alinarte1920@outlook.com;+50558827800;Mobile;Dart;Flutter - React Native;Full-Time;true
+C20;c20-89-kotlin;Facundo Lopez;facundolopez026@gmail.com;+5492613039815;Front-End;Kotlin;Android Studio - HTML - CSS - Node;Mañana;false
+C20;c20-89-kotlin;José Alejandro  Oquendo Orozco;alejandrooquendo2020@gmail.com;+573122611370;Mobile;Kotlin;Flutter - React Native - .Net;Noche;false
+C20;c20-89-kotlin;Walter Damian Del Valle;duwong.oficial@gmail.com;+5491139066993;Mobile;Kotlin;Android Studio;Full-Time;false
+C20;c20-89-kotlin;Leonardo Maizo Aleman;leonardoaleman536@gmail.com;+56991734729;Mobile;Kotlin;Android Studio;Mañana;false
+C20;c20-89-kotlin;Nicolas Sivila;nico22delcastillo07@gmail.com;+59169330576;Mobile;Kotlin;Android Studio;Noche;false
+C20;c20-89-kotlin;Jairo Rios Reyes;jairo.2aldair@gmail.com;+51936759308;Mobile;Kotlin;Android Studio - Postman - Jira - Flutter - Laravel - Spring - HTML;Mañana;true
+C20;c20-89-kotlin;Mayra Cedeño;mayracedeno06r@gmail.com;+18099675080;Mobile;Ninguno;HTML;Noche;true
+S17;s17-21-n-react-agregarback;Max Cereceda;cereceda1991@gmail.com;+51931141140;Front-End;Javascript;React;Noche;false
+S17;s17-21-n-react-agregarback;Jorge Alberto  Henriquez Novoa;jorgeahenriqueznovoa@gmail.com;+573004136759;Front-End;Javascript;React;Noche;false
+S17;s17-21-n-react-agregarback;Tomás Zarriello;tomz.ry64@gmail.com;+5492236690935;Front-End;Javascript;React;Noche;false
+S17;s17-21-n-react-agregarback;Gabriela Patiño;gabyapd05@gmail.com;+584142931360;Front-End;Javascript;React;Noche;false
+S17;s17-21-n-react-agregarback;Maria Teresa Maisterra;mtmaisterra@gmail.com;+543827459426;Front-End;Javascript;React;Noche;false
+S17;s17-21-n-react-agregarback;Bárbara  Espinola;baesp2022@gmail.com;+5491162666307;Front-End;Javascript;React;Noche;false
+S17;s17-21-n-react-agregarback;Santiago Gonzalez Torres;santigonzalez.dev@gmail.com;+543513230089;Front-End;Javascript;React;Noche;false
+S17;s17-21-n-react-agregarback;Alexis Checura;alexischecura@gmail.com;+542604579620;Front-End;Typescript;React;Noche;false
+S17;s17-21-n-react-agregarback;Miguel Angel Chavez;chavez.miguel.angel154@gmail.com;+541156151222;Front-End;Javascript;React;Noche;false
+S17;s17-21-n-react-agregarback;Dario A. Leal;l.dario.a@gmail.com;+542914618519;Front-End;Javascript;React;Noche;false
+S17;s17-21-n-react-agregarback;Sonny Pimentel;spimentelm1201@gmail.com;+51968977152;Back-End;Typescript;Node;Noche;false
+S17;s17-21-n-react-agregarback;Diego Garay;diegogaraycullas@gmail.com;+51949384843;Back-End;Typescript;Node;Noche;true
+S17;s17-21-n-react-agregarback;Roman Arenas;roman.ea3232@gmail.com;+542281568550;Back-End;Javascript;Node;Noche;true
+S17;s17-21-n-react-agregarback;Brayian Ramírez;bramirezag@gmail.com;+51902184587;Back-End;Javascript;Node;Noche;false
+S17;s17-21-n-react-agregarback;Jorge Trujillo;jatrujilloch1@gmail.com;+593984351455;Back-End;Typescript;Node;Noche;false
+S17;s17-21-n-react-agregarback;Natalin Inchauspe;natuinchauspe@gmail.com;+5492915273226;UX/UI;Ninguno;Figma;Noche;false
+S17;s17-21-n-react-agregarback;Mailen Carta;mailencarta@gmail.com;+5491166933744;UX/UI;Ninguno;Figma - Miro;Noche;false
+S17;s17-21-n-react-agregarback;Bogar Alejandro Vazquez Mata;bogarpacho@gmail.com;+525583728183;Mobile;Typescript;React Native - Node - Express - Next - React - HTML - CSS - Trello;Noche;false
+S17;s17-22-kotlin;Yonissa Jaquez;yonissajaquez@gmail.com;+18098786261;Front-End;Kotlin;Android Studio - Trello - Miro - Figma;Mañana;false
+S17;s17-22-kotlin;Nikoll  Quintero;nikollquinteroc@gmail.com;+573057672118;Mobile;Kotlin;Android Studio - Jira;Tarde;false
+S17;s17-22-kotlin;Moises Ponce Gamez;poncegamez1@gmail.com;+15198684128;Mobile;Kotlin;React Native - Android Studio;Noche;false
+S17;s17-23-nocode;Juan Carlos Ulacia;ulacia1966@gmail.com;+5491169640370;Research;undefined;Figma;Noche;false
+S17;s17-23-nocode;Simon Barrios;sbarrios333@gmail.com;+584248493307;Automatización;undefined;Otro;Tarde;false
+S17;s17-23-nocode;Danitza Alejandra Mora Vitoviz;danitzavitoviz@gmail.com;+573237944244;Design;undefined;Figma;Tarde;false
+S17;s17-23-nocode;Gabriela Seligmann;gabyseligmann@gmail.com;+541159920193;Research;undefined;Figma;Full-Time;false
+S17;s17-23-nocode;Edith Yadira Avila Gacharna;eyavilag@gmail.com;+573118407960;Design;undefined;Bubble - Figma - Adobe Illustrator;Noche;false
+S17;s17-23-nocode;Maria Rodriguez ;rodriguezmariac702@gmail.com;+573177247856;Design;undefined;Figma;Full-Time;false
+S17;s17-23-nocode;Ismael Arias Miranda;contacto.armiranda@gmail.com;+525561750684;UX/UI;Javascript;Figma - Photoshop - Jira - Trello - Miro - Otro;Mañana;true
+S17;s17-24-dart;Edwin Farley Fajardo Murillo;jaguargomezcom@gmail.com;+573223089359;Mobile;Dart;Flutter - Otro;Noche;false
+S17;s17-24-dart;Stefano  Madueño ;stefanoml1128@gmail.com;+51917981388;UX/UI;Dart;Figma - Flutter - Trello - Vue;Noche;false
